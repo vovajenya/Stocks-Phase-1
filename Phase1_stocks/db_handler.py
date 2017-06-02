@@ -13,6 +13,13 @@ class DB_Handler():
         self.create_table()
 
 
+    def get_links(self,symbol):
+        c = self.c
+        c.execute('SELECT * FROM stuffToPlot WHERE stock = ?', (symbol,))
+        data = c.fetchall()
+        return data
+
+
     def add_data(self, data):
 
         for d in data:

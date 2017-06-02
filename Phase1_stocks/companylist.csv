@@ -1,0 +1,2905 @@
+AAPL,Apple Inc.,798.03,TRUE
+GOOGL,Alphabet Inc.,660.36,TRUE
+GOOG,Alphabet Inc.,646.1,TRUE
+MSFT,Microsoft Corporation,522.52,TRUE
+AMZN,"Amazon.com, Inc.",458.78,TRUE
+FB,"Facebook, Inc.",429.1,TRUE
+CMCSA,Comcast Corporation,184.17,TRUE
+INTC,Intel Corporation,166.7,TRUE
+CSCO,"Cisco Systems, Inc.",156.3,TRUE
+AMGN,Amgen Inc.,115.1,TRUE
+KHC,The Kraft Heinz Company,109.93,TRUE
+AVGO,Broadcom Limited,93.94,TRUE
+CELG,Celgene Corporation,91.3,TRUE
+PCLN,The Priceline Group Inc. ,88.87,TRUE
+SBUX,Starbucks Corporation,88.86,TRUE
+TIG,TiGenix,88.54,TRUE
+WBA,"Walgreens Boots Alliance, Inc.",87.12,TRUE
+QCOM,QUALCOMM Incorporated,85.19,TRUE
+CHTR,"Charter Communications, Inc.",84.47,TRUE
+GILD,"Gilead Sciences, Inc.",83.93,TRUE
+NVDA,NVIDIA Corporation,80.86,TRUE
+TXN,Texas Instruments Incorporated,79.99,TRUE
+VOD,Vodafone Group Plc,77.47,TRUE
+COST,Costco Wholesale Corporation,75.34,TRUE
+MDLZ,"Mondelez International, Inc.",69.39,TRUE
+NFLX,"Netflix, Inc.",67.68,TRUE
+ADBE,Adobe Systems Incorporated,67.49,TRUE
+BIDU,"Baidu, Inc.",65.55,TRUE
+PYPL,"PayPal Holdings, Inc.",59.32,TRUE
+JD,"JD.com, Inc.",58.3,TRUE
+ASML,ASML Holding N.V.,57.98,TRUE
+SHPG,Shire plc,57.2,TRUE
+TMUS,"T-Mobile US, Inc.",55.14,TRUE
+BIIB,Biogen Inc.,53.05,TRUE
+AMOV,"America Movil, S.A.B. de C.V.",51.42,TRUE
+TSLA,"Tesla, Inc. ",51.06,TRUE
+FOX,"Twenty-First Century Fox, Inc.",49.99,TRUE
+QQQ,"PowerShares QQQ Trust, Series 1",49.79,TRUE
+YHOO,Yahoo! Inc.,48.06,TRUE
+REGN,"Regeneron Pharmaceuticals, Inc.",47.83,TRUE
+AMAT,"Applied Materials, Inc.",47.6,TRUE
+CSX,CSX Corporation,46.47,TRUE
+ADP,"Automatic Data Processing, Inc.",44.12,TRUE
+ATVI,"Activision Blizzard, Inc",42.11,TRUE
+CME,CME Group Inc.,39.69,TRUE
+MAR,Marriott International,38.95,TRUE
+CTSH,Cognizant Technology Solutions Corporation,38.53,TRUE
+NTES,"NetEase, Inc.",37.66,TRUE
+EBAY,eBay Inc.,36.62,TRUE
+NXPI,NXP Semiconductors N.V.,36.31,TRUE
+ESRX,Express Scripts Holding Company,35.68,TRUE
+EQIX,"Equinix, Inc.",33.25,TRUE
+EA,Electronic Arts Inc.,33.18,TRUE
+FOXA,"Twenty-First Century Fox, Inc.",33.1,TRUE
+INTU,Intuit Inc.,32.07,TRUE
+ISRG,"Intuitive Surgical, Inc.",32.07,TRUE
+MU,"Micron Technology, Inc.",30.74,TRUE
+WPPGY,WPP plc,29.92,TRUE
+ADI,"Analog Devices, Inc.",29.66,TRUE
+DISH,DISH Network Corporation,29.59,TRUE
+VRTX,Vertex Pharmaceuticals Incorporated,29.4,TRUE
+CTRP,"Ctrip.com International, Ltd.",28.82,TRUE
+MNST,Monster Beverage Corporation,27.08,TRUE
+CPRT,"Copart, Inc.",26.93,TRUE
+LBTYB,Liberty Global plc,26.92,TRUE
+INCY,Incyte Corporation,26.91,TRUE
+ILMN,"Illumina, Inc.",25.83,TRUE
+LBTYA,Liberty Global plc,25.83,TRUE
+FISV,"Fiserv, Inc.",25.63,TRUE
+ALXN,"Alexion Pharmaceuticals, Inc.",25.57,TRUE
+LBTYK,Liberty Global plc,25.23,TRUE
+WDC,Western Digital Corporation,25.23,TRUE
+RYAAY,Ryanair Holdings plc,24.82,TRUE
+LRCX,Lam Research Corporation,24.58,TRUE
+ROST,"Ross Stores, Inc.",24.38,TRUE
+ADSK,"Autodesk, Inc.",24.23,TRUE
+SIRI,Sirius XM Holdings Inc.,22.91,TRUE
+ORLY,"O&#39;Reilly Automotive, Inc.",22.87,TRUE
+AAL,"American Airlines Group, Inc.",22.27,TRUE
+PCAR,PACCAR Inc.,22.07,TRUE
+HBANO,Huntington Bancshares Incorporated,21.73,TRUE
+ERIC,Ericsson,21.57,TRUE
+EXPE,"Expedia, Inc.",21.37,TRUE
+CERN,Cerner Corporation,21.18,TRUE
+PAYX,"Paychex, Inc.",20.65,TRUE
+MYL,Mylan N.V.,20.34,TRUE
+NTRS,Northern Trust Corporation,19.96,TRUE
+AMTD,TD Ameritrade Holding Corporation,19.34,TRUE
+SWKS,"Skyworks Solutions, Inc.",19.17,TRUE
+WLTW,Willis Towers Watson Public Limited Company,18.93,TRUE
+DLTR,"Dollar Tree, Inc.",18.84,TRUE
+VCSH,Vanguard Short-Term Corporate Bond ETF,18.71,TRUE
+ULTA,"Ulta Beauty, Inc.",18.27,TRUE
+FITB,Fifth Third Bancorp,18.14,TRUE
+INFO,IHS Markit Ltd.,18.02,TRUE
+CHKP,Check Point Software Technologies Ltd.,18,TRUE
+SYMC,Symantec Corporation,17.55,TRUE
+MCHP,Microchip Technology Incorporated,17.35,TRUE
+WB,Weibo Corporation,17.09,TRUE
+TROW,"T. Rowe Price Group, Inc.",17.04,TRUE
+XLNX,"Xilinx, Inc.",16.54,TRUE
+SBAC,SBA Communications Corporation,16.11,TRUE
+KLAC,KLA-Tencor Corporation,15.96,TRUE
+BMRN,BioMarin Pharmaceutical Inc.,15.57,TRUE
+VIA,Viacom Inc.,15.33,TRUE
+LBRDK,Liberty Broadband Corporation,15.22,TRUE
+LBRDA,Liberty Broadband Corporation,14.95,TRUE
+GRFS,"Grifols, S.A.",14.65,TRUE
+IBKR,"Interactive Brokers Group, Inc.",14.3,TRUE
+IDXX,"IDEXX Laboratories, Inc.",14.24,TRUE
+XRAY,DENTSPLY SIRONA Inc.,14.12,TRUE
+VCIT,Vanguard Intermediate-Term Corporate Bond ETF,14.11,TRUE
+HSIC,"Henry Schein, Inc.",14.1,TRUE
+HBAN,Huntington Bancshares Incorporated,13.67,TRUE
+MXIM,"Maxim Integrated Products, Inc.",13.24,TRUE
+VRSK,"Verisk Analytics, Inc.",13.12,TRUE
+CA,CA Inc.,13.06,TRUE
+LSXMK,Liberty Media Corporation,12.89,TRUE
+CTAS,Cintas Corporation,12.74,TRUE
+HAS,"Hasbro, Inc.",12.63,TRUE
+FAST,Fastenal Company,12.61,TRUE
+STX,Seagate Technology PLC,12.61,TRUE
+CTXS,"Citrix Systems, Inc.",12.51,TRUE
+WYNN,"Wynn Resorts, Limited",12.46,TRUE
+VIAB,Viacom Inc.,12.23,TRUE
+HOLX,"Hologic, Inc.",12.04,TRUE
+MELI,"MercadoLibre, Inc.",12.03,TRUE
+ACGL,Arch Capital Group Ltd.,11.67,TRUE
+WFM,"Whole Foods Market, Inc.",11.48,TRUE
+CINF,Cincinnati Financial Corporation,11.37,TRUE
+NCLH,Norwegian Cruise Line Holdings Ltd.,11.24,TRUE
+NDAQ,"Nasdaq, Inc.",11.14,TRUE
+ALGN,"Align Technology, Inc.",11.12,TRUE
+AMD,"Advanced Micro Devices, Inc.",10.78,TRUE
+NTAP,"NetApp, Inc.",10.71,TRUE
+QVCA,Liberty Interactive Corporation,10.7,TRUE
+SNPS,"Synopsys, Inc.",10.68,TRUE
+QVCB,Liberty Interactive Corporation,10.63,TRUE
+ANSS,"ANSYS, Inc.",10.45,TRUE
+MLCO,Melco Resorts & Entertainment Limited,10.38,TRUE
+DISCB,"Discovery Communications, Inc.",10.28,TRUE
+FANG,"Diamondback Energy, Inc.",10.12,TRUE
+DISCA,"Discovery Communications, Inc.",9.95,TRUE
+DISCK,"Discovery Communications, Inc.",9.68,TRUE
+GRMN,Garmin Ltd.,9.64,TRUE
+LKQ,LKQ Corporation,9.57,TRUE
+QRVO,"Qorvo, Inc.",9.55,TRUE
+CBOE,"CBOE Holdings, Inc.",9.53,TRUE
+SGEN,"Seattle Genetics, Inc.",9.51,TRUE
+EXPD,"Expeditors International of Washington, Inc.",9.5,TRUE
+CHRW,"C.H. Robinson Worldwide, Inc.",9.49,TRUE
+DOX,Amdocs Limited,9.38,TRUE
+ETFC,E*TRADE Financial Corporation,9.37,TRUE
+JBHT,"J.B. Hunt Transport Services, Inc.",9.25,TRUE
+YNDX,Yandex N.V.,9.23,TRUE
+SIVB,SVB Financial Group,9.22,TRUE
+CDNS,"Cadence Design Systems, Inc.",9.17,TRUE
+SPLK,Splunk Inc.,9.12,TRUE
+AGNCB,AGNC Investment Corp.,9.06,TRUE
+VRSN,"VeriSign, Inc.",9.05,TRUE
+TRMB,Trimble Inc.,8.99,TRUE
+CDW,CDW Corporation,8.97,TRUE
+JAZZ,Jazz Pharmaceuticals plc,8.96,TRUE
+GOLD,Randgold Resources Limited,8.93,TRUE
+CDK,"CDK Global, Inc.",8.92,TRUE
+ALKS,Alkermes plc,8.87,TRUE
+SNI,"Scripps Networks Interactive, Inc",8.83,TRUE
+FLEX,Flex Ltd.,8.75,TRUE
+OTEX,Open Text Corporation,8.52,TRUE
+MOMO,Momo Inc.,8.48,TRUE
+HDS,"HD Supply Holdings, Inc.",8.45,TRUE
+CSGP,"CoStar Group, Inc.",8.3,TRUE
+VXUS,Vanguard Total International Stock ETF,8.29,TRUE
+STLD,"Steel Dynamics, Inc.",8.27,TRUE
+FFIV,"F5 Networks, Inc.",8.23,TRUE
+TSRO,"TESARO, Inc.",8.2,TRUE
+AKAM,"Akamai Technologies, Inc.",8.19,TRUE
+SCZ,iShares MSCI EAFE Small-Cap ETF,8.16,TRUE
+IAC,IAC/InterActiveCorp,8.12,TRUE
+ZION,Zions Bancorporation,8.12,TRUE
+MRVL,Marvell Technology Group Ltd.,8.03,TRUE
+GT,The Goodyear Tire & Rubber Company,7.99,TRUE
+TEAM,Atlassian Corporation Plc,7.95,TRUE
+IBB,iShares Nasdaq Biotechnology Index Fund,7.95,TRUE
+SEIC,SEI Investments Company,7.95,TRUE
+CGNX,Cognex Corporation,7.88,TRUE
+EWBC,"East West Bancorp, Inc.",7.87,TRUE
+IEP,Icahn Enterprises L.P.,7.86,TRUE
+JKHY,"Jack Henry & Associates, Inc.",7.82,TRUE
+NWS,News Corporation,7.68,TRUE
+ZG,"Zillow Group, Inc.",7.62,TRUE
+SBNY,Signature Bank,7.61,TRUE
+MAT,"Mattel, Inc.",7.59,TRUE
+Z,"Zillow Group, Inc.",7.55,TRUE
+SSNC,"SS&C Technologies Holdings, Inc.",7.54,TRUE
+GLPI,"Gaming and Leisure Properties, Inc.",7.53,TRUE
+NWSA,News Corporation,7.46,TRUE
+WOOF,VCA Inc. ,7.46,TRUE
+NDSN,Nordson Corporation,7.44,TRUE
+UHAL,Amerco,7.43,TRUE
+QGEN,Qiagen N.V.,7.41,TRUE
+MIDD,The Middleby Corporation,7.4,TRUE
+TSCO,Tractor Supply Company,7.4,TRUE
+IPGP,IPG Photonics Corporation,7.3,TRUE
+SINA,Sina Corporation,7.25,TRUE
+BNDX,Vanguard Total International Bond ETF,7.2,TRUE
+COMM,"CommScope Holding Company, Inc.",7.14,TRUE
+SRCL,"Stericycle, Inc.",7.12,TRUE
+PNRA,Panera Bread Company,7.11,TRUE
+JBLU,JetBlue Airways Corporation,7.1,TRUE
+ODFL,"Old Dominion Freight Line, Inc.",7.09,TRUE
+FTNT,"Fortinet, Inc.",7.04,TRUE
+ARCC,Ares Capital Corporation,7.03,TRUE
+MKTX,"MarketAxess Holdings, Inc.",7,TRUE
+LAMR,Lamar Advertising Company,6.93,TRUE
+VEON,VEON Ltd.,6.91,TRUE
+TTWO,"Take-Two Interactive Software, Inc.",6.85,TRUE
+TLT,iShares 20+ Year Treasury Bond ETF,6.8,TRUE
+LULU,lululemon athletica inc.,6.75,TRUE
+ACWI,iShares MSCI ACWI Index Fund,6.73,TRUE
+AGNC,AGNC Investment Corp.,6.67,TRUE
+ON,ON Semiconductor Corporation,6.49,TRUE
+PTC,PTC Inc.,6.35,TRUE
+SABR,Sabre Corporation,6.34,TRUE
+ULTI,"The Ultimate Software Group, Inc.",6.34,TRUE
+FWONK,Liberty Media Corporation,6.23,TRUE
+TRIP,"TripAdvisor, Inc.",6.22,TRUE
+ALNY,"Alnylam Pharmaceuticals, Inc.",6.18,TRUE
+COHR,"Coherent, Inc.",6.05,TRUE
+ERIE,Erie Indemnity Company,6.04,TRUE
+IXUS,iShares Core MSCI Total International Stock ETF,6.03,TRUE
+LOGM,"LogMein, Inc.",5.96,TRUE
+BIVV,Bioverativ Inc.,5.93,TRUE
+PPC,Pilgrim&#39;s Pride Corporation,5.92,TRUE
+ABMD,"ABIOMED, Inc.",5.87,TRUE
+LECO,"Lincoln Electric Holdings, Inc.",5.87,TRUE
+DXCM,"DexCom, Inc.",5.84,TRUE
+PBCT,"People&#39;s United Financial, Inc.",5.77,TRUE
+CG,The Carlyle Group L.P.,5.76,TRUE
+EXEL,"Exelixis, Inc.",5.75,TRUE
+OZRK,Bank of the Ozarks,5.72,TRUE
+PACW,PacWest Bancorp,5.72,TRUE
+LOGI,Logitech International S.A.,5.7,TRUE
+SPLS,"Staples, Inc.",5.68,TRUE
+GGAL,Grupo Financiero Galicia S.A.,5.57,TRUE
+MSCC,Microsemi Corporation,5.56,TRUE
+SATS,EchoStar Corporation,5.54,TRUE
+BBRY,BlackBerry Limited,5.51,TRUE
+CBSH,"Commerce Bancshares, Inc.",5.5,TRUE
+UTHR,United Therapeutics Corporation,5.48,TRUE
+NUAN,"Nuance Communications, Inc.",5.43,TRUE
+GNTX,Gentex Corporation,5.41,TRUE
+IONS,"Ionis Pharmaceuticals, Inc.",5.4,TRUE
+OLED,Universal Display Corporation,5.39,TRUE
+BOKF,BOK Financial Corporation,5.37,TRUE
+HTHT,"China Lodging Group, Limited",5.29,TRUE
+ZBRA,Zebra Technologies Corporation,5.2,TRUE
+ATHN,"athenahealth, Inc.",5.19,TRUE
+BRCD,"Brocade Communications Systems, Inc.",5.15,TRUE
+RGLD,"Royal Gold, Inc.",5.15,TRUE
+BBBY,Bed Bath & Beyond Inc.,5.13,TRUE
+ESLT,Elbit Systems Ltd.,5.13,TRUE
+SPIL,"Siliconware Precision Industries Company, Ltd.",5.12,TRUE
+SNH,Senior Housing Properties Trust,5.07,TRUE
+ARRS,ARRIS International plc,5.06,TRUE
+FLIR,"FLIR Systems, Inc.",5.06,TRUE
+DNKN,"Dunkin&#39; Brands Group, Inc.",5.05,TRUE
+MTCH,"Match Group, Inc.",4.95,TRUE
+POOL,Pool Corporation,4.93,TRUE
+CAVM,"Cavium, Inc.",4.85,TRUE
+PTEN,"Patterson-UTI Energy, Inc.",4.85,TRUE
+ICLR,ICON plc,4.84,TRUE
+CONE,CyrusOne Inc,4.81,TRUE
+NATI,National Instruments Corporation,4.81,TRUE
+PVTB,"PrivateBancorp, Inc.",4.8,TRUE
+HPT,Hospitality Properties Trust,4.72,TRUE
+SLM,SLM Corporation,4.72,TRUE
+NBIX,"Neurocrine Biosciences, Inc.",4.65,TRUE
+MSG,MSG Networks Inc.,4.64,TRUE
+LVNTB,Liberty Interactive Corporation,4.59,TRUE
+BUFF,"Blue Buffalo Pet Products, Inc.",4.57,TRUE
+TRVG,trivago N.V.,4.55,TRUE
+TFSL,TFS Financial Corporation,4.52,TRUE
+CASY,"Caseys General Stores, Inc.",4.5,TRUE
+NICE,NICE Ltd,4.47,TRUE
+MASI,Masimo Corporation,4.41,TRUE
+EEFT,"Euronet Worldwide, Inc.",4.37,TRUE
+PRAH,"PRA Health Sciences, Inc.",4.37,TRUE
+PEGA,Pegasystems Inc.,4.36,TRUE
+LVNTA,Liberty Interactive Corporation,4.35,TRUE
+AZPN,"Aspen Technology, Inc.",4.34,TRUE
+CY,Cypress Semiconductor Corporation,4.33,TRUE
+VWR,VWR Corporation,4.33,TRUE
+GLPG,Galapagos NV,4.32,TRUE
+CACC,Credit Acceptance Corporation,4.29,TRUE
+MKSI,"MKS Instruments, Inc.",4.26,TRUE
+UNIT,Uniti Group Inc.,4.23,TRUE
+BRKR,Bruker Corporation,4.2,TRUE
+VNQI,Vanguard Global ex-U.S. Real Estate ETF,4.18,TRUE
+CRUS,"Cirrus Logic, Inc.",4.16,TRUE
+PDCO,"Patterson Companies, Inc.",4.16,TRUE
+AKRX,"Akorn, Inc.",4.14,TRUE
+MDSO,"Medidata Solutions, Inc.",4.13,TRUE
+TECH,Bio-Techne Corp,4.11,TRUE
+WWD,"Woodward, Inc.",4.09,TRUE
+FIZZ,National Beverage Corp.,4.08,TRUE
+ISBC,"Investors Bancorp, Inc.",4.07,TRUE
+PRXL,PAREXEL International Corporation,4.02,TRUE
+FCNCA,"First Citizens BancShares, Inc.",4.01,TRUE
+UBSI,"United Bankshares, Inc.",4.01,TRUE
+IBKC,IBERIABANK Corporation,4,TRUE
+KITE,"Kite Pharma, Inc.",4,TRUE
+HBHC,Hancock Holding Company,3.97,TRUE
+NAVI,Navient Corporation,3.97,TRUE
+FHB,"First Hawaiian, Inc.",3.95,TRUE
+UBNT,"Ubiquiti Networks, Inc.",3.94,TRUE
+JCOM,"j2 Global, Inc.",3.93,TRUE
+WEN,Wendy&#39;s Company (The),3.93,TRUE
+MPWR,"Monolithic Power Systems, Inc.",3.92,TRUE
+MEOH,Methanex Corporation,3.91,TRUE
+VMBS,Vanguard Mortgage-Backed Securities ETF,3.91,TRUE
+BPOP,"Popular, Inc.",3.89,TRUE
+BLKB,"Blackbaud, Inc.",3.86,TRUE
+HAIN,"The Hain Celestial Group, Inc.",3.85,TRUE
+WTFC,Wintrust Financial Corporation,3.84,TRUE
+ACHC,"Acadia Healthcare Company, Inc.",3.83,TRUE
+CBRL,"Cracker Barrel Old Country Store, Inc.",3.82,TRUE
+UMPQ,Umpqua Holdings Corporation,3.82,TRUE
+FSLR,"First Solar, Inc.",3.79,TRUE
+CDEV,"Centennial Resource Development, Inc.",3.78,TRUE
+MIK,"The Michaels Companies, Inc.",3.74,TRUE
+SAVE,"Spirit Airlines, Inc.",3.73,TRUE
+TCBI,"Texas Capital Bancshares, Inc.",3.73,TRUE
+OPK,"Opko Health, Inc.",3.7,TRUE
+VSAT,"ViaSat, Inc.",3.69,TRUE
+COLM,Columbia Sportswear Company,3.67,TRUE
+LOPE,"Grand Canyon Education, Inc.",3.66,TRUE
+LPLA,LPL Financial Holdings Inc.,3.61,TRUE
+ESGR,Enstar Group Limited,3.59,TRUE
+LFUS,"Littelfuse, Inc.",3.59,TRUE
+MTSI,"MACOM Technology Solutions Holdings, Inc.",3.59,TRUE
+NUVA,"NuVasive, Inc.",3.59,TRUE
+PFPT,"Proofpoint, Inc.",3.59,TRUE
+IART,Integra LifeSciences Holdings Corporation,3.58,TRUE
+PDCE,"PDC Energy, Inc.",3.55,TRUE
+AMCX,AMC Networks Inc.,3.54,TRUE
+TECD,Tech Data Corporation,3.54,TRUE
+LILA,Liberty Global plc,3.53,TRUE
+MBFI,MB Financial Inc.,3.52,TRUE
+LNCE,"Snyder&#39;s-Lance, Inc.",3.52,TRUE
+VTIP,Vanguard Short-Term Inflation-Protected Securities Index Fund,3.52,TRUE
+UMBF,UMB Financial Corporation,3.49,TRUE
+TXRH,"Texas Roadhouse, Inc.",3.45,TRUE
+HOMB,"Home BancShares, Inc.",3.44,TRUE
+LSTR,"Landstar System, Inc.",3.43,TRUE
+LILAK,Liberty Global plc,3.43,TRUE
+ACAD,ACADIA Pharmaceuticals Inc.,3.4,TRUE
+HCSG,"Healthcare Services Group, Inc.",3.4,TRUE
+SLGN,Silgan Holdings Inc.,3.4,TRUE
+SBGI,"Sinclair Broadcast Group, Inc.",3.4,TRUE
+EXAS,Exact Sciences Corporation,3.39,TRUE
+BLUE,"bluebird bio, Inc.",3.38,TRUE
+ILG,"ILG, Inc",3.34,TRUE
+LANC,Lancaster Colony Corporation,3.34,TRUE
+AAXJ,iShares MSCI All Country Asia ex Japan Index Fund,3.32,TRUE
+WIX,Wix.com Ltd.,3.32,TRUE
+ENTG,"Entegris, Inc.",3.31,TRUE
+SFM,"Sprouts Farmers Market, Inc.",3.31,TRUE
+MANH,"Manhattan Associates, Inc.",3.3,TRUE
+CHFC,Chemical Financial Corporation,3.27,TRUE
+LITE,Lumentum Holdings Inc.,3.27,TRUE
+ICUI,"ICU Medical, Inc.",3.23,TRUE
+BGCP,"BGC Partners, Inc.",3.21,TRUE
+CRTO,Criteo S.A.,3.18,TRUE
+NTCT,"NetScout Systems, Inc.",3.18,TRUE
+IDTI,"Integrated Device Technology, Inc.",3.16,TRUE
+MORN,"Morningstar, Inc.",3.15,TRUE
+SLAB,"Silicon Laboratories, Inc.",3.09,TRUE
+MDCO,The Medicines Company,3.07,TRUE
+JACK,Jack In The Box Inc.,3.06,TRUE
+ANAT,American National Insurance Company,3.05,TRUE
+FULT,Fulton Financial Corporation,3.05,TRUE
+AEIS,"Advanced Energy Industries, Inc.",3.03,TRUE
+INCR,"INC Research Holdings, Inc.",3.03,TRUE
+PNFP,"Pinnacle Financial Partners, Inc.",3.02,TRUE
+CBPO,"China Biologic Products, Inc.",3.01,TRUE
+YY,YY Inc.,2.97,TRUE
+ZNGA,Zynga Inc.,2.96,TRUE
+GPOR,Gulfport Energy Corporation,2.95,TRUE
+PSEC,Prospect Capital Corporation,2.95,TRUE
+NKTR,Nektar Therapeutics,2.94,TRUE
+BECN,"Beacon Roofing Supply, Inc.",2.92,TRUE
+LEXEA,"Liberty Expedia Holdings, Inc.",2.92,TRUE
+CATY,Cathay General Bancorp,2.91,TRUE
+FIVE,"Five Below, Inc.",2.9,TRUE
+SIGI,"Selective Insurance Group, Inc.",2.9,TRUE
+LEXEB,"Liberty Expedia Holdings, Inc.",2.87,TRUE
+PZZA,"Papa John&#39;s International, Inc.",2.87,TRUE
+WAFD,"Washington Federal, Inc.",2.86,TRUE
+WMGI,Wright Medical Group N.V.,2.86,TRUE
+IDCC,"InterDigital, Inc.",2.85,TRUE
+LIVN,LivaNova PLC,2.83,TRUE
+CAKE,The Cheesecake Factory Incorporated,2.83,TRUE
+XOG,"Extraction Oil & Gas, Inc.",2.82,TRUE
+DORM,"Dorman Products, Inc.",2.81,TRUE
+ICPT,"Intercept Pharmaceuticals, Inc.",2.81,TRUE
+PLAY,"Dave & Buster&#39;s Entertainment, Inc.",2.8,TRUE
+GLNG,Golar LNG Limited,2.8,TRUE
+AYA,Amaya Inc.,2.79,TRUE
+RP,"RealPage, Inc.",2.79,TRUE
+CHDN,"Churchill Downs, Incorporated",2.76,TRUE
+HA,"Hawaiian Holdings, Inc.",2.75,TRUE
+RRR,"Red Rock Resorts, Inc.",2.75,TRUE
+SANM,Sanmina Corporation,2.75,TRUE
+NXST,"Nexstar Media Group, Inc.",2.72,TRUE
+CMPR,Cimpress N.V,2.7,TRUE
+PSMT,"PriceSmart, Inc.",2.7,TRUE
+GWPH,GW Pharmaceuticals Plc,2.69,TRUE
+JOBS,"51job, Inc.",2.68,TRUE
+HQY,"HealthEquity, Inc.",2.68,TRUE
+ACIW,"ACI Worldwide, Inc.",2.66,TRUE
+FEYE,"FireEye, Inc.",2.66,TRUE
+ENDP,Endo International plc,2.65,TRUE
+PAAS,Pan American Silver Corp.,2.65,TRUE
+FNSR,Finisar Corporation,2.63,TRUE
+IRWD,"Ironwood Pharmaceuticals, Inc.",2.63,TRUE
+AMKR,"Amkor Technology, Inc.",2.62,TRUE
+LAUR,"Laureate Education, Inc.",2.62,TRUE
+SAFM,"Sanderson Farms, Inc.",2.62,TRUE
+ODP,"Office Depot, Inc.",2.6,TRUE
+FCFS,"First Cash, Inc.",2.59,TRUE
+IRBT,iRobot Corporation,2.56,TRUE
+FFIN,"First Financial Bankshares, Inc.",2.54,TRUE
+ITRI,"Itron, Inc.",2.53,TRUE
+BCPC,Balchem Corporation,2.52,TRUE
+GBCI,"Glacier Bancorp, Inc.",2.52,TRUE
+TTEK,"Tetra Tech, Inc.",2.52,TRUE
+FMBI,"First Midwest Bancorp, Inc.",2.51,TRUE
+JUNO,"Juno Therapeutics, Inc.",2.51,TRUE
+VRNT,Verint Systems Inc.,2.51,TRUE
+CVLT,"Commvault Systems, Inc.",2.5,TRUE
+LPNT,"LifePoint Health, Inc.",2.5,TRUE
+FNGN,"Financial Engines, Inc.",2.49,TRUE
+KLXI,KLX Inc.,2.49,TRUE
+VIAV,Viavi Solutions Inc.,2.48,TRUE
+OLLI,"Ollie&#39;s Bargain Outlet Holdings, Inc.",2.47,TRUE
+BWLD,"Buffalo Wild Wings, Inc.",2.46,TRUE
+FV,First Trust Dorsey Wright Focus 5 ETF,2.46,TRUE
+HCM,Hutchison China MediTech Limited,2.46,TRUE
+HOPE,"Hope Bancorp, Inc.",2.45,TRUE
+JJSF,J & J Snack Foods Corp.,2.45,TRUE
+SAGE,"Sage Therapeutics, Inc.",2.45,TRUE
+HELE,Helen of Troy Limited,2.44,TRUE
+SSB,South State Corporation,2.44,TRUE
+PODD,Insulet Corporation,2.43,TRUE
+RARE,Ultragenyx Pharmaceutical Inc.,2.43,TRUE
+CACQ,Caesars Acquisition Company,2.4,TRUE
+MCHI,iShares MSCI China ETF,2.4,TRUE
+LGND,Ligand Pharmaceuticals Incorporated,2.39,TRUE
+ROLL,RBC Bearings Incorporated,2.39,TRUE
+AGIO,"Agios Pharmaceuticals, Inc.",2.37,TRUE
+ALGT,Allegiant Travel Company,2.37,TRUE
+CBSHP,"Commerce Bancshares, Inc.",2.37,TRUE
+HAWK,"Blackhawk Network Holdings, Inc.",2.36,TRUE
+TSEM,Tower Semiconductor Ltd.,2.35,TRUE
+UPL,Ultra Petroleum Corp.,2.35,TRUE
+CLVS,"Clovis Oncology, Inc.",2.34,TRUE
+MLNX,"Mellanox Technologies, Ltd.",2.34,TRUE
+NEOG,Neogen Corporation,2.33,TRUE
+SMTC,Semtech Corporation,2.31,TRUE
+NGHC,National General Holdings Corp,2.29,TRUE
+NTNX,"Nutanix, Inc.",2.29,TRUE
+CVBF,CVB Financial Corporation,2.26,TRUE
+PCTY,Paylocity Holding Corporation,2.26,TRUE
+URBN,"Urban Outfitters, Inc.",2.26,TRUE
+CREE,"Cree, Inc.",2.25,TRUE
+IBOC,International Bancshares Corporation,2.24,TRUE
+ACWX,iShares MSCI ACWI ex US Index Fund,2.24,TRUE
+PTLA,"Portola Pharmaceuticals, Inc.",2.22,TRUE
+SHOO,"Steven Madden, Ltd.",2.21,TRUE
+COLB,"Columbia Banking System, Inc.",2.2,TRUE
+MGEE,MGE Energy Inc.,2.2,TRUE
+EFII,"Electronics for Imaging, Inc.",2.18,TRUE
+ONB,Old National Bancorp,2.18,TRUE
+PRTA,Prothena Corporation plc,2.18,TRUE
+VIRT,"Virtu Financial, Inc.",2.17,TRUE
+MDRX,"Allscripts Healthcare Solutions, Inc.",2.16,TRUE
+ROIC,Retail Opportunity Investments Corp.,2.16,TRUE
+TWNK,"Hostess Brands, Inc.",2.15,TRUE
+SIR,Select Income REIT,2.15,TRUE
+FSV,FirstService Corporation,2.12,TRUE
+AMBA,"Ambarella, Inc.",2.11,TRUE
+OMAB,Grupo Aeroportuario del Centro Norte S.A.B. de C.V.,2.11,TRUE
+TRMK,Trustmark Corporation,2.11,TRUE
+CSA,VictoryShares US Small Cap Volatility Wtd ETF,2.11,TRUE
+WBMD,WebMD Health Corp,2.11,TRUE
+MSTR,MicroStrategy Incorporated,2.1,TRUE
+SGMS,Scientific Games Corp,2.1,TRUE
+CSOD,"Cornerstone OnDemand, Inc.",2.09,TRUE
+AFSI,"AmTrust Financial Services, Inc.",2.08,TRUE
+PLUS,ePlus inc.,2.08,TRUE
+ABCO,The Advisory Board Company,2.08,TRUE
+QTEC,First Trust NASDAQ-100- Technology Index Fund,2.07,TRUE
+YERR,Yangtze River Development Limited,2.07,TRUE
+STMP,Stamps.com Inc.,2.05,TRUE
+MATW,Matthews International Corporation,2.04,TRUE
+CYOU,Changyou.com Limited,2.03,TRUE
+UNFI,"United Natural Foods, Inc.",2.03,TRUE
+ACXM,Acxiom Corporation,2.02,TRUE
+BLMN,"Bloomin&#39; Brands, Inc.",2.02,TRUE
+TELL,Tellurian Inc.,2.02,TRUE
+TWOU,"2U, Inc.",2,TRUE
+TTD,"The Trade Desk, Inc.",2,TRUE
+ABY,Atlantica Yield plc,1.99,TRUE
+AMED,Amedisys Inc,1.98,TRUE
+TBPH,"Theravance Biopharma, Inc.",1.96,TRUE
+CBF,Capital Bank Financial Corp.,1.94,TRUE
+CIGI,Colliers International Group Inc. ,1.94,TRUE
+EGBN,"Eagle Bancorp, Inc.",1.94,TRUE
+POWI,"Power Integrations, Inc.",1.94,TRUE
+AAON,"AAON, Inc.",1.93,TRUE
+CFFN,"Capitol Federal Financial, Inc.",1.93,TRUE
+PCRX,"Pacira Pharmaceuticals, Inc.",1.93,TRUE
+PEGI,Pattern Energy Group Inc.,1.93,TRUE
+TIVO,TiVo Corporation,1.93,TRUE
+IIVI,II-VI Incorporated,1.92,TRUE
+COKE,Coca-Cola Bottling Co. Consolidated,1.91,TRUE
+INOV,"Inovalon Holdings, Inc.",1.91,TRUE
+SYNA,Synaptics Incorporated,1.91,TRUE
+MLHR,"Herman Miller, Inc.",1.9,TRUE
+SRPT,"Sarepta Therapeutics, Inc.",1.9,TRUE
+WSTC,West Corporation,1.9,TRUE
+AVXS,"AveXis, Inc.",1.89,TRUE
+CAR,"Avis Budget Group, Inc.",1.89,TRUE
+CCMP,Cabot Microelectronics Corporation,1.89,TRUE
+CALM,"Cal-Maine Foods, Inc.",1.89,TRUE
+BRKS,"Brooks Automation, Inc.",1.88,TRUE
+TREE,"LendingTree, Inc.",1.88,TRUE
+AGII,"Argo Group International Holdings, Ltd.",1.87,TRUE
+FGEN,"FibroGen, Inc",1.87,TRUE
+WERN,"Werner Enterprises, Inc.",1.87,TRUE
+GRPN,"Groupon, Inc.",1.86,TRUE
+MRCY,Mercury Systems Inc,1.86,TRUE
+UCBI,"United Community Banks, Inc.",1.86,TRUE
+PLCE,"Children&#39;s Place, Inc. (The)",1.85,TRUE
+UFPI,"Universal Forest Products, Inc.",1.85,TRUE
+SFBS,"ServisFirst Bancshares, Inc.",1.84,TRUE
+VCLT,Vanguard Long-Term Corporate Bond ETF,1.84,TRUE
+MMYT,MakeMyTrip Limited,1.83,TRUE
+DSGX,The Descartes Systems Group Inc.,1.83,TRUE
+TOWN,Towne Bank,1.83,TRUE
+HSNI,"HSN, Inc.",1.81,TRUE
+PCH,Potlatch Corporation,1.8,TRUE
+RNST,Renasant Corporation,1.8,TRUE
+PINC,"Premier, Inc.",1.79,TRUE
+SOHU,Sohu.com Inc.,1.79,TRUE
+TTEC,"TeleTech Holdings, Inc.",1.79,TRUE
+CSQ,Calamos Strategic Total Return Fund,1.78,TRUE
+SKYW,"SkyWest, Inc.",1.78,TRUE
+BANR,Banner Corporation,1.77,TRUE
+ORBK,Orbotech Ltd.,1.76,TRUE
+PENN,"Penn National Gaming, Inc.",1.76,TRUE
+VNOM,Viper Energy Partners LP,1.76,TRUE
+CCOI,"Cogent Communications Holdings, Inc.",1.74,TRUE
+SIMO,Silicon Motion Technology Corporation,1.74,TRUE
+TERP,"TerraForm Power, Inc.",1.74,TRUE
+AHGP,"Alliance Holdings GP, L.P.",1.73,TRUE
+EBIX,"Ebix, Inc.",1.73,TRUE
+FELE,"Franklin Electric Co., Inc.",1.73,TRUE
+INGN,"Inogen, Inc",1.73,TRUE
+PRAA,"PRA Group, Inc.",1.72,TRUE
+ACIA,"Acacia Communications, Inc.",1.71,TRUE
+DBVT,DBV Technologies S.A.,1.71,TRUE
+FTR,Frontier Communications Corporation,1.71,TRUE
+HZNP,Horizon Pharma plc,1.71,TRUE
+SUPN,"Supernus Pharmaceuticals, Inc.",1.7,TRUE
+EXLS,"ExlService Holdings, Inc.",1.69,TRUE
+LTXB,"LegacyTexas Financial Group, Inc.",1.69,TRUE
+PLXS,Plexus Corp.,1.69,TRUE
+HALO,"Halozyme Therapeutics, Inc.",1.68,TRUE
+SFLY,"Shutterfly, Inc.",1.68,TRUE
+INDB,Independent Bank Corp.,1.67,TRUE
+MMSI,"Merit Medical Systems, Inc.",1.67,TRUE
+ONCE,"Spark Therapeutics, Inc.",1.67,TRUE
+ARLP,"Alliance Resource Partners, L.P.",1.66,TRUE
+BL,"BlackLine, Inc.",1.66,TRUE
+BNCN,BNC Bancorp,1.66,TRUE
+SFNC,Simmons First National Corporation,1.65,TRUE
+WSBC,"WesBanco, Inc.",1.65,TRUE
+MNRO,"Monro Muffler Brake, Inc.",1.64,TRUE
+ABCB,Ameris Bancorp,1.63,TRUE
+CENT,Central Garden & Pet Company,1.63,TRUE
+FRME,First Merchants Corporation,1.63,TRUE
+IBTX,"Independent Bank Group, Inc",1.63,TRUE
+TRUE,"TrueCar, Inc.",1.63,TRUE
+CZR,Caesars Entertainment Corporation,1.62,TRUE
+FIBK,"First Interstate BancSystem, Inc.",1.62,TRUE
+TTMI,"TTM Technologies, Inc.",1.62,TRUE
+AAAP,Advanced Accelerator Applications S.A.,1.61,TRUE
+COUP,Coupa Software Incorporated,1.61,TRUE
+CYBR,CyberArk Software Ltd.,1.61,TRUE
+FEX,First Trust Large Cap Core AlphaDEX Fund,1.61,TRUE
+MGLN,"Magellan Health, Inc.",1.61,TRUE
+BLDR,"Builders FirstSource, Inc.",1.6,TRUE
+CRZO,"Carrizo Oil & Gas, Inc.",1.6,TRUE
+ISCA,International Speedway Corporation,1.6,TRUE
+IGF,iShares Global Infrastructure ETF,1.6,TRUE
+PRFZ,PowerShares FTSE RAFI US 1500 Small-Mid Portfolio,1.6,TRUE
+HTLD,"Heartland Express, Inc.",1.59,TRUE
+IMPV,"Imperva, Inc.",1.59,TRUE
+CATM,Cardtronics plc,1.58,TRUE
+GSM,Ferroglobe PLC,1.58,TRUE
+FFBC,First Financial Bancorp.,1.58,TRUE
+GOV,Government Properties Income Trust,1.58,TRUE
+MDXG,"MiMedx Group, Inc",1.58,TRUE
+SBRA,"Sabra Healthcare REIT, Inc.",1.58,TRUE
+NWBI,"Northwest Bancshares, Inc.",1.57,TRUE
+TQQQ,ProShares UltraPro QQQ,1.57,TRUE
+QLYS,"Qualys, Inc.",1.57,TRUE
+XPER,Xperi Corporation,1.57,TRUE
+CENTA,Central Garden & Pet Company,1.56,TRUE
+CORE,"Core-Mark Holding Company, Inc.",1.56,TRUE
+EXPO,"Exponent, Inc.",1.56,TRUE
+BPMC,Blueprint Medicines Corporation,1.55,TRUE
+ETSY,"Etsy, Inc.",1.55,TRUE
+NBTB,NBT Bancorp Inc.,1.55,TRUE
+SYNT,"Syntel, Inc.",1.55,TRUE
+AXDX,"Accelerate Diagnostics, Inc.",1.53,TRUE
+LXRX,"Lexicon Pharmaceuticals, Inc.",1.53,TRUE
+SHEN,Shenandoah Telecommunications Co,1.53,TRUE
+HMHC,Houghton Mifflin Harcourt Company,1.52,TRUE
+KLIC,"Kulicke and Soffa Industries, Inc.",1.52,TRUE
+OMCL,"Omnicell, Inc.",1.52,TRUE
+RDUS,"Radius Health, Inc.",1.52,TRUE
+NAVG,"The Navigators Group, Inc.",1.52,TRUE
+HMSY,HMS Holdings Corp,1.51,TRUE
+FWRD,Forward Air Corporation,1.5,TRUE
+NSIT,"Insight Enterprises, Inc.",1.5,TRUE
+NTRI,NutriSystem Inc,1.5,TRUE
+ERI,"Eldorado Resorts, Inc.",1.49,TRUE
+IOSP,Innospec Inc.,1.49,TRUE
+RMR,The RMR Group Inc.,1.49,TRUE
+ALRM,"Alarm.com Holdings, Inc.",1.48,TRUE
+APOG,"Apogee Enterprises, Inc.",1.48,TRUE
+OTTR,Otter Tail Corporation,1.48,TRUE
+SSYS,"Stratasys, Ltd.",1.48,TRUE
+BANF,BancFirst Corporation,1.47,TRUE
+BGNE,"BeiGene, Ltd.",1.47,TRUE
+GMLP,Golar LNG Partners LP,1.47,TRUE
+MANT,ManTech International Corporation,1.47,TRUE
+SCHL,Scholastic Corporation,1.47,TRUE
+IRCP,IRSA Propiedades Comerciales S.A.,1.45,TRUE
+MYGN,"Myriad Genetics, Inc.",1.44,TRUE
+OSIS,"OSI Systems, Inc.",1.44,TRUE
+VGSH,Vanguard Short-Term Government ETF,1.44,TRUE
+AMWD,American Woodmark Corporation,1.43,TRUE
+MIME,Mimecast Limited,1.43,TRUE
+RUSHA,"Rush Enterprises, Inc.",1.43,TRUE
+WDFC,WD-40 Company,1.43,TRUE
+BOFI,"BofI Holding, Inc.",1.42,TRUE
+OCLR,"Oclaro, Inc.",1.42,TRUE
+ARRY,Array BioPharma Inc.,1.41,TRUE
+BOBE,"Bob Evans Farms, Inc.",1.41,TRUE
+NXTM,"NxStage Medical, Inc.",1.41,TRUE
+NTGR,"NETGEAR, Inc.",1.4,TRUE
+PRGS,Progress Software Corporation,1.4,TRUE
+PBYI,Puma Biotechnology Inc,1.4,TRUE
+CNMD,CONMED Corporation,1.39,TRUE
+KALU,Kaiser Aluminum Corporation,1.39,TRUE
+SYKE,"Sykes Enterprises, Incorporated",1.39,TRUE
+UBSH,Union Bankshares Corporation,1.39,TRUE
+AERI,"Aerie Pharmaceuticals, Inc.",1.38,TRUE
+AINV,Apollo Investment Corporation,1.38,TRUE
+WABC,Westamerica Bancorporation,1.38,TRUE
+WSFS,WSFS Financial Corporation,1.38,TRUE
+BMCH,"BMC Stock Holdings, Inc.",1.37,TRUE
+ATSG,"Air Transport Services Group, Inc",1.36,TRUE
+CALD,"Callidus Software, Inc.",1.36,TRUE
+CSFL,"CenterState Banks, Inc.",1.36,TRUE
+PDP,PowerShares DWA Momentum Portfolio,1.36,TRUE
+CSTE,Caesarstone Ltd.,1.35,TRUE
+INFN,Infinera Corporation,1.35,TRUE
+EGOV,NIC Inc.,1.35,TRUE
+PAHC,Phibro Animal Health Corporation,1.35,TRUE
+RMBS,"Rambus, Inc.",1.35,TRUE
+SPTN,SpartanNash Company,1.35,TRUE
+CTRE,"CareTrust REIT, Inc.",1.34,TRUE
+CSGS,"CSG Systems International, Inc.",1.34,TRUE
+THRM,Gentherm Inc,1.34,TRUE
+PPBI,Pacific Premier Bancorp Inc,1.34,TRUE
+CORT,Corcept Therapeutics Incorporated,1.33,TRUE
+FMI,"Foundation Medicine, Inc.",1.33,TRUE
+LABL,Multi-Color Corporation,1.33,TRUE
+PKW,PowerShares BuyBack Achievers Portfolio,1.33,TRUE
+DGRW,WisdomTree U.S. Quality Dividend Growth Fund,1.33,TRUE
+ASTE,"Astec Industries, Inc.",1.32,TRUE
+WETF,"WisdomTree Investments, Inc.",1.32,TRUE
+AOBC,American Outdoor Brands Corporation,1.31,TRUE
+RGEN,Repligen Corporation,1.31,TRUE
+AAXN,"Axon Enterprise, Inc.",1.3,TRUE
+CMCT,CIM Commercial Trust Corporation,1.3,TRUE
+GBT,"Global Blood Therapeutics, Inc.",1.3,TRUE
+INVA,"Innoviva, Inc.",1.3,TRUE
+QIWI,QIWI plc,1.3,TRUE
+RUSHB,"Rush Enterprises, Inc.",1.3,TRUE
+GNCMA,"General Communication, Inc.",1.28,TRUE
+SRUN,Silver Run Acquisition Corporation II,1.28,TRUE
+VREX,Varex Imaging Corporation,1.28,TRUE
+TVTY,"Tivity Health, Inc.",1.27,TRUE
+VECO,Veeco Instruments Inc.,1.27,TRUE
+AIMC,Altra Industrial Motion Corp.,1.25,TRUE
+BPFH,"Boston Private Financial Holdings, Inc.",1.25,TRUE
+DIOD,Diodes Incorporated,1.25,TRUE
+FTSL,First Trust Senior Loan Fund ETF,1.25,TRUE
+GPRO,"GoPro, Inc.",1.23,TRUE
+TILE,"Interface, Inc.",1.23,TRUE
+MINI,"Mobile Mini, Inc.",1.23,TRUE
+EGRX,"Eagle Pharmaceuticals, Inc.",1.22,TRUE
+EUFN,iShares MSCI Europe Financials Sector Index Fund,1.22,TRUE
+AAOI,"Applied Optoelectronics, Inc.",1.21,TRUE
+CENX,Century Aluminum Company,1.21,TRUE
+HYLS,First Trust High Yield Long/Short ETF,1.21,TRUE
+FOXF,Fox Factory Holding Corp.,1.21,TRUE
+HTLF,"Heartland Financial USA, Inc.",1.21,TRUE
+KRNY,Kearny Financial,1.21,TRUE
+LOXO,"Loxo Oncology, Inc.",1.21,TRUE
+SCSS,Select Comfort Corporation,1.21,TRUE
+SSRI,Silver Standard Resources Inc.,1.21,TRUE
+SONC,Sonic Corp.,1.21,TRUE
+SPNC,The Spectranetics Corporation,1.21,TRUE
+EGHT,8x8 Inc,1.2,TRUE
+AAWW,Atlas Air Worldwide Holdings,1.2,TRUE
+PSDO,"Presidio, Inc.",1.19,TRUE
+SRCE,1st Source Corporation,1.18,TRUE
+FIVN,"Five9, Inc.",1.18,TRUE
+PRIM,Primoris Services Corporation,1.18,TRUE
+SMCI,"Super Micro Computer, Inc.",1.18,TRUE
+HUBG,"Hub Group, Inc.",1.17,TRUE
+JRVR,"James River Group Holdings, Ltd.",1.17,TRUE
+BATRK,Liberty Media Corporation,1.17,TRUE
+LTRPB,"Liberty TripAdvisor Holdings, Inc.",1.17,TRUE
+STBA,"S&T Bancorp, Inc.",1.17,TRUE
+VGIT,Vanguard Intermediate -Term Government Bond ETF,1.17,TRUE
+BZUN,Baozun Inc.,1.16,TRUE
+DERM,"Dermira, Inc.",1.16,TRUE
+GBDC,"Golub Capital BDC, Inc.",1.16,TRUE
+HIMX,"Himax Technologies, Inc.",1.16,TRUE
+IPXL,"Impax Laboratories, Inc.",1.16,TRUE
+LORL,"Loral Space and Communications, Inc.",1.16,TRUE
+MB,"MINDBODY, Inc.",1.16,TRUE
+MNTA,"Momenta Pharmaceuticals, Inc.",1.16,TRUE
+RAVN,"Raven Industries, Inc.",1.16,TRUE
+VDTH,Videocon d2h Limited,1.16,TRUE
+BSFT,"BroadSoft, Inc.",1.15,TRUE
+CVGW,"Calavo Growers, Inc.",1.15,TRUE
+SODA,SodaStream International Ltd.,1.15,TRUE
+VONG,Vanguard Russell 1000 Growth ETF,1.15,TRUE
+CHRS,"Coherus BioSciences, Inc.",1.14,TRUE
+BNCL,"Beneficial Bancorp, Inc.",1.12,TRUE
+NOVT,Novanta Inc.,1.12,TRUE
+PATK,"Patrick Industries, Inc.",1.12,TRUE
+FOLD,"Amicus Therapeutics, Inc.",1.11,TRUE
+BABY,Natus Medical Incorporated,1.11,TRUE
+SAIA,"Saia, Inc.",1.11,TRUE
+SNHY,Sun Hydraulics Corporation,1.11,TRUE
+GOGO,Gogo Inc.,1.1,TRUE
+BUSE,First Busey Corporation,1.09,TRUE
+LHCG,LHC Group,1.09,TRUE
+NWLI,"National Western Life Group, Inc.",1.09,TRUE
+NCSM,"NCS Multistage Holdings, Inc.",1.09,TRUE
+USCR,"U S Concrete, Inc.",1.09,TRUE
+UFCS,"United Fire Group, Inc",1.09,TRUE
+IPAR,"Inter Parfums, Inc.",1.08,TRUE
+LKFN,Lakeland Financial Corporation,1.08,TRUE
+MEDP,"Medpace Holdings, Inc.",1.08,TRUE
+NRCIB,National Research Corporation,1.08,TRUE
+PNK,"Pinnacle Entertainment, Inc.",1.08,TRUE
+ECOL,"US Ecology, Inc.",1.08,TRUE
+BRKL,"Brookline Bancorp, Inc.",1.07,TRUE
+GTLS,"Chart Industries, Inc.",1.07,TRUE
+SGRY,"Surgery Partners, Inc.",1.07,TRUE
+ABAX,"ABAXIS, Inc.",1.06,TRUE
+EIGI,"Endurance International Group Holdings, Inc.",1.06,TRUE
+INSM,"Insmed, Inc.",1.06,TRUE
+PLYA,Playa Hotels & Resorts N.V.,1.06,TRUE
+TTS,"Tile Shop Hldgs, Inc.",1.06,TRUE
+WEB,"Web.com Group, Inc.",1.06,TRUE
+APLP,"Archrock Partners, L.P.",1.05,TRUE
+CRESY,Cresud S.A.C.I.F. y A.,1.05,TRUE
+IPCC,Infinity Property and Casualty Corporation,1.05,TRUE
+SPWR,SunPower Corporation,1.05,TRUE
+CAFD,8point3 Energy Partners LP,1.04,TRUE
+EPZM,"Epizyme, Inc.",1.04,TRUE
+LTRPA,"Liberty TripAdvisor Holdings, Inc.",1.04,TRUE
+STFC,State Auto Financial Corporation,1.04,TRUE
+TEDU,"Tarena International, Inc.",1.04,TRUE
+ATNI,"ATN International, Inc.",1.03,TRUE
+CSII,"Cardiovascular Systems, Inc.",1.03,TRUE
+SOXX,iShares PHLX SOX Semiconductor Sector Index Fund,1.03,TRUE
+MZOR,Mazor Robotics Ltd.,1.03,TRUE
+VONV,Vanguard Russell 1000 Value ETF,1.03,TRUE
+CPLA,Capella Education Company,1.02,TRUE
+HOLI,"Hollysys Automation Technologies, Ltd.",1.02,TRUE
+KANG,"iKang Healthcare Group, Inc.",1.02,TRUE
+NVCR,NovoCure Limited,1.02,TRUE
+TOUR,Tuniu Corporation,1.02,TRUE
+XNCR,"Xencor, Inc.",1.02,TRUE
+BJRI,"BJ&#39;s Restaurants, Inc.",1.01,TRUE
+CVCO,"Cavco Industries, Inc.",1.01,TRUE
+CHCO,City Holding Company,1.01,TRUE
+FTA,First Trust Large Cap Value AlphaDEX Fund,1.01,TRUE
+GHDX,"Genomic Health, Inc.",1.01,TRUE
+SAFT,"Safety Insurance Group, Inc.",1.01,TRUE
+SPSC,"SPS Commerce, Inc.",1,TRUE
+VTWO,Vanguard Russell 2000 ETF,1,TRUE
+EPAY,"Bottomline Technologies, Inc.",999.57,FALSE
+AMSF,"AMERISAFE, Inc.",998.04,FALSE
+TRS,TriMas Corporation,996.54,FALSE
+CNSL,"Consolidated Communications Holdings, Inc.",994.37,FALSE
+ROCK,"Gibraltar Industries, Inc.",991.67,FALSE
+FTXO,First Trust Nasdaq Bank ETF,988.32,FALSE
+XLRN,Acceleron Pharma Inc.,987.07,FALSE
+TCPC,TCP Capital Corp.,986.53,FALSE
+ECPG,Encore Capital Group Inc,985.74,FALSE
+STBZ,State Bank Financial Corporation.,982.75,FALSE
+ATRI,Atrion Corporation,982.09,FALSE
+STRA,"Strayer Education, Inc.",980.95,FALSE
+VWOB,Vanguard Emerging Markets Government Bond ETF,980.93,FALSE
+VRNS,"Varonis Systems, Inc.",979.12,FALSE
+EXTR,"Extreme Networks, Inc.",978.28,FALSE
+ANDE,"The Andersons, Inc.",969.86,FALSE
+IRDM,Iridium Communications Inc,966.61,FALSE
+EFSC,Enterprise Financial Services Corporation,959.23,FALSE
+FORM,"FormFactor, Inc.",957.41,FALSE
+SBSI,"Southside Bancshares, Inc.",955.66,FALSE
+BNFT,"Benefitfocus, Inc.",954.56,FALSE
+AIMT,"Aimmune Therapeutics, Inc.",950.47,FALSE
+PEY,PowerShares High Yield Equity Dividend Achievers Portfolio,948.52,FALSE
+SCSC,"ScanSource, Inc.",948.02,FALSE
+SASR,"Sandy Spring Bancorp, Inc.",947.94,FALSE
+ADTN,"ADTRAN, Inc.",944.73,FALSE
+ENSG,"The Ensign Group, Inc.",944.6,FALSE
+KTWO,"K2M Group Holdings, Inc.",940.1,FALSE
+APPF,"AppFolio, Inc.",939.47,FALSE
+RRGB,"Red Robin Gourmet Burgers, Inc.",938.63,FALSE
+SBCF,Seacoast Banking Corporation of Florida,938.1,FALSE
+GIII,"G-III Apparel Group, LTD.",930.23,FALSE
+ZIOP,ZIOPHARM Oncology Inc,925.35,FALSE
+TLND,Talend S.A.,924.6,FALSE
+KELYA,"Kelly Services, Inc.",922.35,FALSE
+CEVA,"CEVA, Inc.",920.32,FALSE
+FWP,Forward Pharma A/S,920.09,FALSE
+MGI,"Moneygram International, Inc.",913.53,FALSE
+MHLD,"Maiden Holdings, Ltd.",913.14,FALSE
+LMNX,Luminex Corporation,910.15,FALSE
+HSTM,"HealthStream, Inc.",909.6,FALSE
+ASND,Ascendis Pharma A/S,908.77,FALSE
+SLRC,Solar Capital Ltd.,908.61,FALSE
+INSY,"Insys Therapeutics, Inc.",908.06,FALSE
+VRTU,Virtusa Corporation,901.8,FALSE
+WIN,"Windstream Holdings, Inc.",899.13,FALSE
+HURN,Huron Consulting Group Inc.,898.38,FALSE
+MGPI,"MGP Ingredients, Inc.",897.99,FALSE
+UEIC,Universal Electronics Inc.,896.28,FALSE
+AKAO,"Achaogen, Inc.",896.01,FALSE
+LBAI,"Lakeland Bancorp, Inc.",894.93,FALSE
+GPRE,"Green Plains, Inc.",894.22,FALSE
+ALOG,Analogic Corporation,893.6,FALSE
+MTSC,MTS Systems Corporation,892.75,FALSE
+ICFI,"ICF International, Inc.",892.05,FALSE
+ALDR,"Alder BioPharmaceuticals, Inc.",889.74,FALSE
+QSII,"Quality Systems, Inc.",889.11,FALSE
+IIJI,"Internet Initiative Japan, Inc.",888.9,FALSE
+EBSB,"Meridian Bancorp, Inc.",887.73,FALSE
+EXXI,"Energy XXI Gulf Coast, Inc.",886.75,FALSE
+BCOR,"Blucora, Inc.",885.38,FALSE
+HAFC,Hanmi Financial Corporation,884.51,FALSE
+SGYP,"Synergy Pharmaceuticals, Inc.",884.05,FALSE
+MDIV,First Trust Multi-Asset Diversified Income Index Fund,881.73,FALSE
+HLNE,Hamilton Lane Incorporated,881.21,FALSE
+INDY,iShares S&P India Nifty 50 Index Fund,879.9,FALSE
+WING,Wingstop Inc.,874.82,FALSE
+SCWX,SecureWorks Corp.,873.18,FALSE
+ATRO,Astronics Corporation,868.48,FALSE
+OCFC,OceanFirst Financial Corp.,863.43,FALSE
+SWIR,"Sierra Wireless, Inc.",861.81,FALSE
+CRVL,CorVel Corp.,861.72,FALSE
+KTOS,"Kratos Defense & Security Solutions, Inc.",858.41,FALSE
+KELYB,"Kelly Services, Inc.",858.22,FALSE
+CLLS,Cellectis S.A.,856.88,FALSE
+LSCC,Lattice Semiconductor Corporation,855.27,FALSE
+SKYY,First Trust Cloud Computing ETF,855,FALSE
+INNL,Innocoll Holdings,853.05,FALSE
+WIRE,Encore Wire Corporation,849.65,FALSE
+RRD,R.R. Donnelley & Sons Company,846.3,FALSE
+PI,"Impinj, Inc.",845.23,FALSE
+FPRX,"Five Prime Therapeutics, Inc.",844,FALSE
+SHLM,"A. Schulman, Inc.",843.33,FALSE
+CFCO,CF Corporation,842.52,FALSE
+IPHS,"Innophos Holdings, Inc.",841.17,FALSE
+SHLD,Sears Holdings Corporation,841.14,FALSE
+LOB,"Live Oak Bancshares, Inc.",840.09,FALSE
+OSUR,"OraSure Technologies, Inc.",838.72,FALSE
+SYBT,"Stock Yards Bancorp, Inc.",836.16,FALSE
+FTSM,First Trust Enhanced Short Maturity ETF,834.26,FALSE
+YIN,Yintech Investment Holdings Limited,832.82,FALSE
+GLBL,"TerraForm Global, Inc.",832.55,FALSE
+UBNK,"United Financial Bancorp, Inc. ",832.43,FALSE
+MSFG,"MainSource Financial Group, Inc.",829.3,FALSE
+CHY,Calamos Convertible and High Income Fund,828.37,FALSE
+WASH,"Washington Trust Bancorp, Inc.",824.17,FALSE
+MITL,Mitel Networks Corporation,823.46,FALSE
+UTEK,"Ultratech, Inc.",819.81,FALSE
+MTGE,MTGE Investment Corp.,817.49,FALSE
+NFBK,"Northfield Bancorp, Inc.",816.29,FALSE
+MGRC,McGrath RentCorp,815.37,FALSE
+BEAT,"BioTelemetry, Inc.",810.94,FALSE
+QDEL,Quidel Corporation,809.23,FALSE
+PTXP,"PennTex Midstream Partners, LP",808.99,FALSE
+AMRN,Amarin Corporation plc,808.71,FALSE
+STKL,"SunOpta, Inc.",808.44,FALSE
+IMMU,"Immunomedics, Inc.",805.59,FALSE
+NXEO,"Nexeo Solutions, Inc.",804.43,FALSE
+DENN,Denny&#39;s Corporation,801.34,FALSE
+QQQX,Nuveen NASDAQ 100 Dynamic Overwrite Fund,799.3,FALSE
+TYPE,Monotype Imaging Holdings Inc.,799.26,FALSE
+PID,PowerShares International Dividend Achievers Portfolio,798.16,FALSE
+TCBK,TriCo Bancshares,796.56,FALSE
+IMOS,ChipMOS TECHNOLOGIES INC.,794.92,FALSE
+HDP,"Hortonworks, Inc.",793.6,FALSE
+PHO,PowerShares Water Resources Portfolio,792.68,FALSE
+FFIC,Flushing Financial Corporation,791.73,FALSE
+ONEQ,Fidelity Nasdaq Composite Index Tracking Stock,791.08,FALSE
+IRTC,"iRhythm Technologies, Inc.",789.33,FALSE
+PTNR,Partner Communications Company Ltd.,788.11,FALSE
+HMST,"HomeStreet, Inc.",788.03,FALSE
+CASH,"Meta Financial Group, Inc.",783.53,FALSE
+AFAM,Almost Family Inc,782.71,FALSE
+MRTN,"Marten Transport, Ltd.",774.7,FALSE
+KBWB,PowerShares KBW Bank Portfolio,771.73,FALSE
+OPB,Opus Bank,769.52,FALSE
+IMKTA,"Ingles Markets, Incorporated",766.83,FALSE
+RPD,"Rapid7, Inc.",764.6,FALSE
+CHI,Calamos Convertible Opportunities and Income Fund,761.65,FALSE
+TGTX,"TG Therapeutics, Inc.",761.24,FALSE
+GOGL,Golden Ocean Group Limited,760.88,FALSE
+HRTX,"Heron Therapeutics, Inc.  ",757.13,FALSE
+NNBR,"NN, Inc.",755.29,FALSE
+ORIT,Oritani Financial Corp.,754.7,FALSE
+OFIX,Orthofix International N.V.,753.71,FALSE
+ESPR,"Esperion Therapeutics, Inc.",752.47,FALSE
+LJPC,La Jolla Pharmaceutical Company,751.98,FALSE
+CSIQ,Canadian Solar Inc.,750.67,FALSE
+UVSP,Univest Corporation of Pennsylvania,750.52,FALSE
+RDWR,Radware Ltd.,747.6,FALSE
+AMBC,"Ambac Financial Group, Inc.",745.83,FALSE
+AMRI,"Albany Molecular Research, Inc.",743.15,FALSE
+DCOM,"Dime Community Bancshares, Inc.",742.32,FALSE
+GLRE,"Greenlight Reinsurance, Ltd.",741.29,FALSE
+CHUBK,"CommerceHub, Inc.",741.28,FALSE
+CTBI,"Community Trust Bancorp, Inc.",741.05,FALSE
+EDIT,"Editas Medicine, Inc.",740.96,FALSE
+SEDG,"SolarEdge Technologies, Inc.",737.58,FALSE
+CHUBA,"CommerceHub, Inc.",736.1,FALSE
+NYNY,"Empire Resorts, Inc.",735.77,FALSE
+PETS,"PetMed Express, Inc.",731.76,FALSE
+ITRN,Ituran Location and Control Ltd.,730.09,FALSE
+ATRC,"AtriCure, Inc.",729.17,FALSE
+JBSS,"John B. Sanfilippo & Son, Inc.",724.93,FALSE
+TRST,TrustCo Bank Corp NY,724.78,FALSE
+MERC,Mercer International Inc.,724.46,FALSE
+VRTS,"Virtus Investment Partners, Inc.",724.09,FALSE
+AVAV,"AeroVironment, Inc.",723.6,FALSE
+MESO,Mesoblast Limited,722.25,FALSE
+UCTT,"Ultra Clean Holdings, Inc.",722.2,FALSE
+KNSL,"Kinsale Capital Group, Inc.",721.95,FALSE
+PFBC,Preferred Bank,720.92,FALSE
+TUSK,"Mammoth Energy Services, Inc.",720.38,FALSE
+WRLD,World Acceptance Corporation,719.43,FALSE
+TDIV,First Trust NASDAQ Technology Dividend Index Fund,714.54,FALSE
+HFWA,Heritage Financial Corporation,714.12,FALSE
+MMLP,Martin Midstream Partners L.P.,713.29,FALSE
+CRAY,Cray Inc,713.08,FALSE
+ACOR,"Acorda Therapeutics, Inc.",711.56,FALSE
+GNBC,"Green Bancorp, Inc.",710.38,FALSE
+GBNK,Guaranty Bancorp,709.83,FALSE
+RBCAA,"Republic Bancorp, Inc.",709.18,FALSE
+CNXN,"PC Connection, Inc.",708.9,FALSE
+GDS,GDS Holdings Limited,706.81,FALSE
+AMPH,"Amphastar Pharmaceuticals, Inc.",706.65,FALSE
+XIV,VelocityShares Daily Inverse VIX Short Term ETN,705.8,FALSE
+OMER,Omeros Corporation,705.67,FALSE
+JNCE,"Jounce Therapeutics, Inc.",702.61,FALSE
+LGIH,"LGI Homes, Inc.",701.13,FALSE
+TSC,"TriState Capital Holdings, Inc.",701.06,FALSE
+GABC,"German American Bancorp, Inc.",699.58,FALSE
+ADRO,"Aduro Biotech, Inc.",699.13,FALSE
+CASS,"Cass Information Systems, Inc",697.5,FALSE
+EVBG,"Everbridge, Inc.",696.01,FALSE
+ARII,"American Railcar Industries, Inc.",695.61,FALSE
+MGNX,"MacroGenics, Inc.",695.17,FALSE
+FBNC,First Bancorp,694.57,FALSE
+PLAB,"Photronics, Inc.",694.16,FALSE
+QTNA,"Quantenna Communications, Inc.",693.85,FALSE
+BMTC,Bryn Mawr Bank Corporation,693.09,FALSE
+ANIK,Anika Therapeutics Inc.,689.21,FALSE
+CNOB,"ConnectOne Bancorp, Inc.",688.92,FALSE
+FNX,First Trust Mid Cap Core AlphaDEX Fund,686.39,FALSE
+NANO,Nanometrics Incorporated,685.58,FALSE
+UIHC,United Insurance Holdings Corp.,685.25,FALSE
+ORBC,ORBCOMM Inc.,683.71,FALSE
+GTYH,"GTY Technology Holdings, Inc.",682.42,FALSE
+NYMT,"New York Mortgage Trust, Inc.",682.24,FALSE
+HSKA,Heska Corporation,682.21,FALSE
+RUTH,"Ruth&#39;s Hospitality Group, Inc.",681.66,FALSE
+SNC,"State National Companies, Inc.",681.52,FALSE
+KERX,"Keryx Biopharmaceuticals, Inc.",681.17,FALSE
+NVMI,Nova Measuring Instruments Ltd.,680.12,FALSE
+GSBC,"Great Southern Bancorp, Inc.",679.9,FALSE
+RPXC,RPX Corporation,679.05,FALSE
+DHIL,"Diamond Hill Investment Group, Inc.",676.53,FALSE
+HEES,"H&E Equipment Services, Inc.",676.1,FALSE
+FRTA,"Forterra, Inc.",676.02,FALSE
+VONE,Vanguard Russell 1000 ETF,675.55,FALSE
+FLWS,"1-800 FLOWERS.COM, Inc.",672.95,FALSE
+ANGI,"Angie&#39;s List, Inc.",672.9,FALSE
+BDGE,"Bridge Bancorp, Inc.",670.92,FALSE
+FORR,"Forrester Research, Inc.",668.72,FALSE
+DXPE,"DXP Enterprises, Inc.",668.67,FALSE
+ACRS,"Aclaris Therapeutics, Inc.",664.33,FALSE
+AMAG,"AMAG Pharmaceuticals, Inc.",664.11,FALSE
+SPKE,"Spark Energy, Inc.",660.37,FALSE
+BBH,VanEck Vectors Biotech ETF,660.33,FALSE
+COBZ,CoBiz Financial Inc.,659.44,FALSE
+PVAC,Penn Virginia Corporation,659.35,FALSE
+VICR,Vicor Corporation,658.91,FALSE
+GBLI,Global Indemnity Limited,658.35,FALSE
+DLTH,Duluth Holdings Inc.,655.97,FALSE
+CAMP,CalAmp Corp.,655.37,FALSE
+CECO,Career Education Corporation,655.08,FALSE
+IGOV,iShares S&P/Citigroup International Treasury Bond Fund,653.57,FALSE
+XENT,"Intersect ENT, Inc.",653.14,FALSE
+AEGN,Aegion Corp,651.41,FALSE
+RTRX,"Retrophin, Inc.",650.09,FALSE
+SGBK,Stonegate Bank,647.62,FALSE
+FLIC,The First of Long Island Corporation,646.61,FALSE
+ACLS,"Axcelis Technologies, Inc.",644.8,FALSE
+SP,SP Plus Corporation,644.3,FALSE
+CUNB,CU Bancorp (CA),644.23,FALSE
+CYTK,"Cytokinetics, Incorporated",643.43,FALSE
+HONE,"HarborOne Bancorp, Inc.",640.49,FALSE
+BOJA,"Bojangles&#39;, Inc.",638.61,FALSE
+INTL,INTL FCStone Inc.,638.2,FALSE
+VNDA,Vanda Pharmaceuticals Inc.,635.98,FALSE
+KBAL,"Kimball International, Inc.",635.42,FALSE
+BYSI,"BeyondSpring, Inc.",635.11,FALSE
+DEPO,"Depomed, Inc.",633.39,FALSE
+FTC,First Trust Large Cap Growth AlphaDEX Fund,632.01,FALSE
+CAC,Camden National Corporation,631.05,FALSE
+PRSC,The Providence Service Corporation,629.45,FALSE
+SNCR,"Synchronoss Technologies, Inc.",628.35,FALSE
+FRGI,"Fiesta Restaurant Group, Inc.",627.88,FALSE
+SPNS,Sapiens International Corporation N.V.,626.68,FALSE
+EAGL,Double Eagle Acquisition Corp.,626.56,FALSE
+NMIH,NMI Holdings Inc,626.25,FALSE
+RVNC,"Revance Therapeutics, Inc.",625.15,FALSE
+VNET,"21Vianet Group, Inc.",623.77,FALSE
+KRNT,Kornit Digital Ltd.,623.57,FALSE
+CRSP,CRISPR Therapeutics AG,623.56,FALSE
+XBKS,"Xenith Bankshares, Inc.",622.32,FALSE
+GPP,Green Plains Partners LP,621.7,FALSE
+ENTA,"Enanta Pharmaceuticals, Inc.",619.83,FALSE
+WINS,Wins Finance Holdings Inc.,613.27,FALSE
+PSTB,Park Sterling Corporation,612.34,FALSE
+GNMK,"GenMark Diagnostics, Inc.",612.13,FALSE
+WIFI,"Boingo Wireless, Inc.",612.06,FALSE
+IIIN,"Insteel Industries, Inc.",610.9,FALSE
+TCX,Tucows Inc.,609.24,FALSE
+LNTH,"Lantheus Holdings, Inc.",607.48,FALSE
+ESND,Essendant Inc.,606.74,FALSE
+IFV,First Trust Dorsey Wright International Focus 5 ETF,604.42,FALSE
+MTLS,Materialise NV,598.67,FALSE
+FOSL,"Fossil Group, Inc.",598.53,FALSE
+CPAA,Conyers Park Acquisition Corp.,598.47,FALSE
+INWK,"InnerWorkings, Inc.",596.7,FALSE
+FSC,Fifth Street Finance Corp.,596.26,FALSE
+PRTK,"Paratek Pharmaceuticals, Inc. ",592.31,FALSE
+FORTY,Formula Systems (1985) Ltd.,591.8,FALSE
+OFLX,"Omega Flex, Inc.",590.78,FALSE
+AUPH,Aurinia Pharmaceuticals Inc,587.02,FALSE
+ACHN,"Achillion Pharmaceuticals, Inc.",585.18,FALSE
+APTI,"Apptio, Inc.",584.83,FALSE
+FARO,"FARO Technologies, Inc.",583.39,FALSE
+NEO,"NeoGenomics, Inc.",581.2,FALSE
+RCII,Rent-A-Center Inc.,580.91,FALSE
+PRFT,"Perficient, Inc.",580.17,FALSE
+BCOM,B Communications Ltd.,579.55,FALSE
+NRCIA,National Research Corporation,578.69,FALSE
+PGTI,"PGT Innovations, Inc.",578.23,FALSE
+LE,"Lands&#39; End, Inc.",578.13,FALSE
+WVE,WAVE Life Sciences Ltd.,577.91,FALSE
+CETV,Central European Media Enterprises Ltd.,577.68,FALSE
+CTWS,"Connecticut Water Service, Inc.",577.57,FALSE
+CWST,"Casella Waste Systems, Inc.",575.43,FALSE
+HQCL,"Hanwha Q CELLS Co., Ltd. ",575.32,FALSE
+VIVO,Meridian Bioscience Inc.,573.96,FALSE
+QADA,QAD Inc.,570.67,FALSE
+ANGO,"AngioDynamics, Inc.",570.59,FALSE
+LPSN,"LivePerson, Inc.",569.83,FALSE
+CALA,"Calithera Biosciences, Inc.",568.24,FALSE
+STB,Student Transportation Inc,567.37,FALSE
+QCRH,"QCR Holdings, Inc.",566.98,FALSE
+CSWI,"CSW Industrials, Inc.",565.78,FALSE
+NDRM,NeuroDerm Ltd.,565.61,FALSE
+MPAA,"Motorcar Parts of America, Inc.",564.55,FALSE
+ANCX,Access National Corporation,563.42,FALSE
+VSAR,"Versartis, Inc.",563.34,FALSE
+VDSI,"VASCO Data Security International, Inc.",562.77,FALSE
+LMAT,"LeMaitre Vascular, Inc.",562.21,FALSE
+SBLK,Star Bulk Carriers Corp.,561.94,FALSE
+PEBO,Peoples Bancorp Inc.,561.82,FALSE
+LION,Fidelity Southern Corporation,561.33,FALSE
+SALE,"RetailMeNot, Inc.",560.96,FALSE
+PTCT,"PTC Therapeutics, Inc.",560.92,FALSE
+FLXN,"Flexion Therapeutics, Inc.",559.89,FALSE
+FINL,"The Finish Line, Inc.",559.7,FALSE
+RGNX,REGENXBIO Inc.,559.41,FALSE
+SGMO,"Sangamo Therapeutics, Inc.",559.33,FALSE
+EMCI,EMC Insurance Group Inc.,558.05,FALSE
+THFF,First Financial Corporation Indiana,556.18,FALSE
+UEPS,"Net 1 UEPS Technologies, Inc.",555.74,FALSE
+RARX,"Ra Pharmaceuticals, Inc.",555.62,FALSE
+HBNC,Horizon Bancorp (IN),555.34,FALSE
+ANIP,"ANI Pharmaceuticals, Inc.",555.28,FALSE
+AKBA,"Akebia Therapeutics, Inc.",554.19,FALSE
+FANH,Fanhua Inc.,552.61,FALSE
+BKCC,BlackRock Capital Investment Corporation,552.1,FALSE
+CACB,Cascade Bancorp,550.62,FALSE
+CMCO,Columbus McKinnon Corporation,550.38,FALSE
+WSBF,"Waterstone Financial, Inc.",547.94,FALSE
+CARA,"Cara Therapeutics, Inc.",546.78,FALSE
+MSEX,Middlesex Water Company,546.18,FALSE
+CTMX,"CytomX Therapeutics, Inc.",545.37,FALSE
+PCBK,Pacific Continental Corporation (Ore),544.58,FALSE
+MSBI,"Midland States Bancorp, Inc.",543.93,FALSE
+PDFS,"PDF Solutions, Inc.",543.53,FALSE
+ANAB,"AnaptysBio, Inc.",541.59,FALSE
+PNNT,PennantPark Investment Corporation,540.77,FALSE
+NTRA,"Natera, Inc.",538.87,FALSE
+WINA,Winmark Corporation,538.73,FALSE
+MLAB,"Mesa Laboratories, Inc.",537.51,FALSE
+INO,"Inovio Pharmaceuticals, Inc.",535.08,FALSE
+LMBS,First Trust Low Duration Opportunities ETF,535.05,FALSE
+TPIC,"TPI Composites, Inc.",534.39,FALSE
+ECHO,"Echo Global Logistics, Inc.",532.65,FALSE
+FFWM,First Foundation Inc.,531.81,FALSE
+HWKN,"Hawkins, Inc.",531.63,FALSE
+RUN,Sunrun Inc.,531.44,FALSE
+CARB,"Carbonite, Inc.",529.91,FALSE
+FDEF,First Defiance Financial Corp.,528.6,FALSE
+CHSCM,CHS Inc,528.58,FALSE
+QQEW,First Trust NASDAQ-100 Equal Weighted Index Fund,526.45,FALSE
+XCRA,Xcerra Corporation,526.39,FALSE
+LOCO,"El Pollo Loco Holdings, Inc.",524.12,FALSE
+SQQQ,ProShares UltraPro Short QQQ,522.08,FALSE
+FITBI,Fifth Third Bancorp,521.1,FALSE
+MCRI,"Monarch Casino & Resort, Inc.",519.71,FALSE
+HTBK,Heritage Commerce Corp,519.25,FALSE
+FARM,Farmer Brothers Company,518.72,FALSE
+PGC,Peapack-Gladstone Financial Corporation,518.21,FALSE
+PSCT,PowerShares S&P SmallCap Information Technology Portfolio,518.16,FALSE
+SCHN,"Schnitzer Steel Industries, Inc.",517.85,FALSE
+NTLA,"Intellia Therapeutics, Inc.",515.21,FALSE
+IFGL,iShares FTSE EPRA/NAREIT Global Real Estate ex-U.S. Index Fund,514.98,FALSE
+MBWM,Mercantile Bank Corporation,513.74,FALSE
+FRED,"Fred&#39;s, Inc.",512.82,FALSE
+GRBK,"Green Brick Partners, Inc.",512.78,FALSE
+SND,"Smart Sand, Inc.",511.92,FALSE
+FTD,"FTD Companies, Inc.",511.37,FALSE
+DMLP,"Dorchester Minerals, L.P.",509.21,FALSE
+HIBB,"Hibbett Sports, Inc.",507.84,FALSE
+GOOD,Gladstone Commercial Corporation,507.18,FALSE
+ACIU,AC Immune SA,505.18,FALSE
+ICHR,Ichor Holdings,504.81,FALSE
+ADAP,Adaptimmune Therapeutics plc,503.94,FALSE
+TRUP,"Trupanion, Inc.",501.32,FALSE
+TACO,"Del Taco Restaurants, Inc.",500.75,FALSE
+ABTX,"Allegiance Bancshares, Inc.",499.73,FALSE
+KFRC,"Kforce, Inc.",498.8,FALSE
+FRBK,"Republic First Bancorp, Inc.",498.42,FALSE
+QADB,QAD Inc.,494.58,FALSE
+MOBL,"MobileIron, Inc.",493.17,FALSE
+COHU,"Cohu, Inc.",493.04,FALSE
+SCMP,"Sucampo Pharmaceuticals, Inc.",492.53,FALSE
+HABT,"The Habit Restaurants, Inc.",491.82,FALSE
+CARO,Carolina Financial Corporation,491.12,FALSE
+PGNX,Progenics Pharmaceuticals Inc.,490.87,FALSE
+CONN,"Conn&#39;s, Inc.",490.26,FALSE
+HOFT,Hooker Furniture Corporation,490.26,FALSE
+SCLN,"SciClone Pharmaceuticals, Inc.",488.87,FALSE
+FRAN,Francesca&#39;s Holdings Corporation,488.37,FALSE
+CHW,Calamos Global Dynamic Income Fund,487.99,FALSE
+AXGN,"AxoGen, Inc.",486.5,FALSE
+ACBI,"Atlantic Capital Bancshares, Inc.",486,FALSE
+BLDP,"Ballard Power Systems, Inc.",485.8,FALSE
+GERN,Geron Corporation,484.29,FALSE
+BOLD,"Audentes Therapeutics, Inc.",484.11,FALSE
+NCOM,National Commerce Corporation,483.56,FALSE
+BHBK,"Blue Hills Bancorp, Inc.",483.45,FALSE
+CHUY,"Chuy&#39;s Holdings, Inc.",483.2,FALSE
+SNLN,Highland/iBoxx Senior Loan ETF,483.06,FALSE
+CCD,Calamos Dynamic Convertible & Income Fund,482.82,FALSE
+CHSCN,CHS Inc,481.82,FALSE
+VGLT,Vanguard Long-Term Government Bond ETF,481.72,FALSE
+NCMI,"National CineMedia, Inc.",480.01,FALSE
+CROX,"Crocs, Inc.",479.33,FALSE
+HMTV,"Hemisphere Media Group, Inc.",477.97,FALSE
+FRPT,"Freshpet, Inc.",474.19,FALSE
+FYX,First Trust Small Cap Core AlphaDEX Fund,473.03,FALSE
+MPVD,Mountain Province Diamonds Inc.,472.51,FALSE
+SNBC,"Sun Bancorp, Inc.",469.82,FALSE
+KPTI,Karyopharm Therapeutics Inc.,469.3,FALSE
+IMGN,"ImmunoGen, Inc.",469.08,FALSE
+ACTA,Actua Corporation,468.65,FALSE
+MYRG,"MYR Group, Inc.",466.72,FALSE
+IXYS,IXYS Corporation,466.27,FALSE
+HTBI,"HomeTrust Bancshares, Inc.",466.1,FALSE
+ARCB,ArcBest Corporation,465.04,FALSE
+ITCI,Intra-Cellular Therapies Inc.,464.6,FALSE
+MACK,"Merrimack Pharmaceuticals, Inc.",463.5,FALSE
+TLGT,"Teligent, Inc.",463.07,FALSE
+SPPI,"Spectrum Pharmaceuticals, Inc.",461.97,FALSE
+VSEC,VSE Corporation,461.72,FALSE
+BLVD,Boulevard Acquisition Corp. II,461.58,FALSE
+EZPW,"EZCORP, Inc.",461.48,FALSE
+OKSB,"Southwest Bancorp, Inc.",460.64,FALSE
+KAAC,Kayne Anderson Acquisition Corp.,457.5,FALSE
+PUB,People&#39;s Utah Bancorp,457.17,FALSE
+FISI,"Financial Institutions, Inc.",455.9,FALSE
+TAST,"Carrols Restaurant Group, Inc.",455.24,FALSE
+PFLT,PennantPark Floating Rate Capital Ltd.,454.72,FALSE
+HAYN,"Haynes International, Inc.",454.16,FALSE
+CPSI,"Computer Programs and Systems, Inc.",452.1,FALSE
+PDBC,PowerShares Optimum Yield Diversified Commodity Strategy No K-,444.64,FALSE
+JOUT,Johnson Outdoors Inc.,444.57,FALSE
+PKOH,Park-Ohio Holdings Corp.,443.93,FALSE
+KE,"Kimball Electronics, Inc.",442.17,FALSE
+BCRX,"BioCryst Pharmaceuticals, Inc.",441.51,FALSE
+REGI,"Renewable Energy Group, Inc.",440.94,FALSE
+ADUS,Addus HomeCare Corporation,440.35,FALSE
+VUSE,Vident Core US Equity ETF,440.12,FALSE
+SYRS,"Syros Pharmaceuticals, Inc.",439.56,FALSE
+ATRA,"Atara Biotherapeutics, Inc.",439.55,FALSE
+WFBI,WashingtonFirst Bankshares Inc,439.22,FALSE
+CCRN,"Cross Country Healthcare, Inc.",439.21,FALSE
+AOSL,Alpha and Omega Semiconductor Limited,438.46,FALSE
+IBCP,Independent Bank Corporation,437.33,FALSE
+USLM,"United States Lime & Minerals, Inc.",435.18,FALSE
+CCN,CardConnect Corp.,433.52,FALSE
+NTRSP,Northern Trust Corporation,433.28,FALSE
+AROW,Arrow Financial Corporation,432.83,FALSE
+NLNK,NewLink Genetics Corporation,431.96,FALSE
+MDCA,MDC Partners Inc.,431.94,FALSE
+CTRL,Control4 Corporation,430.84,FALSE
+EXAC,"Exactech, Inc.",430.8,FALSE
+HCKT,"The Hackett Group, Inc.",430.7,FALSE
+ACET,Aceto Corporation,430.44,FALSE
+KEYW,The KEYW Holding Corporation,429.23,FALSE
+VBND,Vident Core U.S. Bond Strategy Fund,428.62,FALSE
+DGICB,"Donegal Group, Inc.",428.52,FALSE
+ERII,"Energy Recovery, Inc.",427.02,FALSE
+CLAC,Capitol Acquisition Corp. III,426.56,FALSE
+LMOS,Lumos Networks Corp.,425.73,FALSE
+ARNA,"Arena Pharmaceuticals, Inc.",425.36,FALSE
+DGICA,"Donegal Group, Inc.",424.64,FALSE
+PLUG,"Plug Power, Inc.",424.56,FALSE
+FCBC,"First Community Bancshares, Inc.",424.23,FALSE
+BLBD,Blue Bird Corporation,422.77,FALSE
+MOFG,"MidWestOne Financial Group, Inc.",419.2,FALSE
+JIVE,"Jive Software, Inc.",418.76,FALSE
+TCMD,"Tactile Systems Technology, Inc.",418.25,FALSE
+LIND,Lindblad Expeditions Holdings Inc. ,418.06,FALSE
+NVDQ,Novadaq Technologies Inc,417.91,FALSE
+BLCM,"Bellicum Pharmaceuticals, Inc.",417.1,FALSE
+MYOK,"MyoKardia, Inc.",416.79,FALSE
+HLIT,Harmonic Inc.,416.75,FALSE
+CPLP,Capital Product Partners L.P.,416.12,FALSE
+BBSI,"Barrett Business Services, Inc.",416.03,FALSE
+NCBS,Nicolet Bankshares Inc.,414.34,FALSE
+FMBH,"First Mid-Illinois Bancshares, Inc.",414,FALSE
+YORW,The York Water Company,413.58,FALSE
+MBUU,"Malibu Boats, Inc.",413.48,FALSE
+FRPH,"FRP Holdings, Inc.",412.56,FALSE
+SHOR,"ShoreTel, Inc.",411.36,FALSE
+FTCS,First Trust Capital Strength ETF,411.34,FALSE
+BKMU,Bank Mutual Corporation,411.09,FALSE
+UPLD,"Upland Software, Inc.",410.24,FALSE
+HSII,"Heidrick & Struggles International, Inc.",407.51,FALSE
+AVDL,Avadel Pharmaceuticals plc,407.14,FALSE
+RDIB,Reading International Inc,404.69,FALSE
+COWN,"Cowen Group, Inc.",404.52,FALSE
+OTIC,"Otonomy, Inc.",403.93,FALSE
+ASMB,"Assembly Biosciences, Inc.",403.12,FALSE
+ASNA,"Ascena Retail Group, Inc.",401.57,FALSE
+ATRS,"Antares Pharma, Inc.",400.73,FALSE
+GSHT,"Gores Holdings II, Inc.",400,FALSE
+DAKT,"Daktronics, Inc.",397.93,FALSE
+UCFC,United Community Financial Corp.,397.48,FALSE
+MPAC,Matlin & Partners Acquisition Corporation,394.88,FALSE
+SLQD,iShares 0-5 Year Investment Grade Corporate Bond ETF,394.37,FALSE
+MCRB,"Seres Therapeutics, Inc.",394.21,FALSE
+CHEF,"The Chefs&#39; Warehouse, Inc.",393.3,FALSE
+PNQI,PowerShares Nasdaq Internet Portfolio,391.25,FALSE
+STAA,STAAR Surgical Company,390.9,FALSE
+FOGO,"Fogo de Chao, Inc.",390.75,FALSE
+RECN,"Resources Connection, Inc.",389.95,FALSE
+FLXS,"Flexsteel Industries, Inc.",389.12,FALSE
+VBTX,"Veritex Holdings, Inc.",389.11,FALSE
+NVEE,"NV5 Global, Inc.",388.57,FALSE
+FBNK,"First Connecticut Bancorp, Inc.",386.96,FALSE
+CYAD,Celyad SA,386.36,FALSE
+CLDX,"Celldex Therapeutics, Inc.",385.32,FALSE
+FRP,"FairPoint Communications, Inc.",385.12,FALSE
+RXDX,"Ignyta, Inc.",385.05,FALSE
+QABA,First Trust NASDAQ ABA Community Bank Index Fund,384.54,FALSE
+MRUS,Merus N.V.,384.34,FALSE
+TBK,"Triumph Bancorp, Inc.",383.83,FALSE
+NSTG,"NanoString Technologies, Inc.",382.84,FALSE
+NVEC,NVE Corporation,382.44,FALSE
+ELOS,Syneron Medical Ltd.,382.27,FALSE
+SONS,"Sonus Networks, Inc.",381.32,FALSE
+BV,"Bazaarvoice, Inc.",380.6,FALSE
+AHPA,Avista Healthcare Public Acquisition Corp.,379.75,FALSE
+JKI,iShares Morningstar Mid-Cap ETF,377.6,FALSE
+FDUS,Fidus Investment Corporation,377.51,FALSE
+NH,"NantHealth, Inc.",377.17,FALSE
+PICO,PICO Holdings Inc.,376.22,FALSE
+NEWS,"NewStar Financial, Inc.",376.13,FALSE
+ZUMZ,Zumiez Inc.,375.68,FALSE
+PDLI,"PDL BioPharma, Inc.",375.09,FALSE
+DSKE,"Daseke, Inc.",374.52,FALSE
+DFRG,"Del Frisco&#39;s Restaurant Group, Inc.",374.29,FALSE
+BMRC,Bank of Marin Bancorp,373.24,FALSE
+CLNE,Clean Energy Fuels Corp.,373.23,FALSE
+PLSE,"Pulse Biosciences, Inc",373.09,FALSE
+APEI,"American Public Education, Inc.",372.57,FALSE
+NODK,"NI Holdings, Inc.",372.13,FALSE
+SILC,Silicom Ltd,371.89,FALSE
+MGIC,Magic Software Enterprises Ltd.,371.46,FALSE
+RCM,R1 RCM Inc.,370.75,FALSE
+HIFS,Hingham Institution for Savings,369.61,FALSE
+ASPS,Altisource Portfolio Solutions S.A.,369.57,FALSE
+EGLE,Eagle Bulk Shipping Inc.,369.04,FALSE
+OVID,Ovid Therapeutics Inc.,369.03,FALSE
+AIA,iShares Asia 50 ETF,368.81,FALSE
+ICON,"Iconix Brand Group, Inc.",368.05,FALSE
+ELGX,"Endologix, Inc.",367.58,FALSE
+CSBK,Clifton Bancorp Inc.,367.55,FALSE
+TNAV,"Telenav, Inc.",367.37,FALSE
+AVHI,"A V Homes, Inc.",366.93,FALSE
+POWL,"Powell Industries, Inc.",366.74,FALSE
+FEP,First Trust Europe AlphaDEX Fund,365.46,FALSE
+FMNB,Farmers National Banc Corp.,365.4,FALSE
+RDI,Reading International Inc,365.15,FALSE
+TICC,TICC Capital Corp.,364.99,FALSE
+BSTC,BioSpecifics Technologies Corp,364.6,FALSE
+PACB,"Pacific Biosciences of California, Inc.",363.91,FALSE
+OSTK,"Overstock.com, Inc.",363.68,FALSE
+RDNT,"RadNet, Inc.",363.57,FALSE
+ULH,"Universal Logistics Holdings, Inc.",363.36,FALSE
+LNDC,Landec Corporation,361.79,FALSE
+LBIO,"Lion Biotechnologies, Inc.",361.64,FALSE
+BWINB,"Baldwin & Lyons, Inc.",360.99,FALSE
+BIB,ProShares Ultra Nasdaq Biotechnology,360.7,FALSE
+EQBK,"Equity Bancshares, Inc.",359.54,FALSE
+TRNC,"tronc, Inc.",359.35,FALSE
+GSUM,Gridsum Holding Inc.,358.31,FALSE
+MCFT,"MCBC Holdings, Inc.",357.86,FALSE
+GDEN,"Golden Entertainment, Inc.",357.8,FALSE
+SENEB,Seneca Foods Corp.,357.67,FALSE
+HCCI,"Heritage-Crystal Clean, Inc.",357.07,FALSE
+ATAX,"America First Multifamily Investors, L.P.",355.49,FALSE
+LMRK,Landmark Infrastructure Partners LP,354.89,FALSE
+VLGEA,"Village Super Market, Inc.",354.66,FALSE
+RMTI,"Rockwell Medical, Inc.",352.95,FALSE
+ITIC,Investors Title Company,352.89,FALSE
+GLUU,Glu Mobile Inc.,352.35,FALSE
+AGFS,"AgroFresh Solutions, Inc.",351.97,FALSE
+SCVL,"Shoe Carnival, Inc.",351.68,FALSE
+WTBA,West Bancorporation,351.26,FALSE
+BWINA,"Baldwin & Lyons, Inc.",350.87,FALSE
+AQXP,"Aquinox Pharmaceuticals, Inc.",348.77,FALSE
+CDZI,"Cadiz, Inc.",348.33,FALSE
+SPOK,"Spok Holdings, Inc.",347.05,FALSE
+EBTC,Enterprise Bancorp Inc,345.9,FALSE
+TBBK,"The Bancorp, Inc.",345.83,FALSE
+AGEN,Agenus Inc.,343.45,FALSE
+EEMA,iShares MSCI Emerging Markets Asia Index Fund,343.44,FALSE
+JASO,"JA Solar Holdings, Co., Ltd.",342.98,FALSE
+VIGI,Vanguard International Dividend Appreciation ETF,342.85,FALSE
+ROSE,Rosehill Resources Inc.,342.04,FALSE
+TGLS,Tecnoglass Inc.,341.24,FALSE
+ISRL,"Isramco, Inc.",338.35,FALSE
+VRAY,"ViewRay, Inc.",338.27,FALSE
+ADXS,"Advaxis, Inc.",337.68,FALSE
+CLMT,"Calumet Specialty Products Partners, L.P.",337.44,FALSE
+OSBC,"Old Second Bancorp, Inc.",337.22,FALSE
+CCXI,"ChemoCentryx, Inc.",337.21,FALSE
+IESC,"IES Holdings, Inc.",337.1,FALSE
+HDSN,"Hudson Technologies, Inc.",336.68,FALSE
+SENEA,Seneca Foods Corp.,335.22,FALSE
+ADMS,"Adamas Pharmaceuticals, Inc.",334.5,FALSE
+CCNE,CNB Financial Corporation,334.4,FALSE
+GNTY,"Guaranty Bancshares, Inc.",333.26,FALSE
+BSRR,Sierra Bancorp,332.24,FALSE
+ARAY,Accuray Incorporated,332,FALSE
+PRMW,Primo Water Corporation,331.73,FALSE
+ZGNX,"Zogenix, Inc.",331.26,FALSE
+EHTH,"eHealth, Inc.",331.02,FALSE
+TITN,Titan Machinery Inc.,330.64,FALSE
+HNH,Handy & Harman Ltd.,329.98,FALSE
+ARTNA,Artesian Resources Corporation,329.62,FALSE
+HIIQ,"Health Insurance Innovations, Inc.",329.62,FALSE
+LLNW,"Limelight Networks, Inc.",329.33,FALSE
+CMTL,Comtech Telecommunications Corp.,329.04,FALSE
+CNBKA,"Century Bancorp, Inc.",328.79,FALSE
+BSF,"Bear State Financial, Inc.",328.66,FALSE
+CHSCO,CHS Inc,328.48,FALSE
+CNCE,"Concert Pharmaceuticals, Inc.",326.26,FALSE
+CECE,CECO Environmental Corp.,325.59,FALSE
+MEET,"The Meet Group, Inc.",324.64,FALSE
+CRBP,"Corbus Pharmaceuticals Holdings, Inc.",323.91,FALSE
+VTHR,Vanguard Russell 3000 ETF,322.73,FALSE
+DMRC,Digimarc Corporation,322.54,FALSE
+OXFD,Oxford Immunotec Global PLC,319.37,FALSE
+ZIXI,Zix Corporation,318.55,FALSE
+TCRD,"THL Credit, Inc.",317.73,FALSE
+NHTC,Natural Health Trends Corp.,315.19,FALSE
+VYMI,Vanguard International High Dividend Yield ETF,314.67,FALSE
+POPE,Pope Resources,314.51,FALSE
+GLYC,"GlycoMimetics, Inc.",314.41,FALSE
+PFM,PowerShares Dividend Achievers Portfolio,312.96,FALSE
+WATT,Energous Corporation,312.94,FALSE
+CERS,Cerus Corporation,312.85,FALSE
+MRLN,Marlin Business Services Corp.,312.8,FALSE
+MCBC,Macatawa Bank Corporation,312.63,FALSE
+SCAC,Saban Capital Acquisition Corp.,312.19,FALSE
+PPH,VanEck Vectors Pharmaceutical ETF,311.89,FALSE
+LCA,"Landcadia Holdings, Inc.",310,FALSE
+RIGL,"Rigel Pharmaceuticals, Inc.",309.76,FALSE
+CVTI,"Covenant Transportation Group, Inc.",309.18,FALSE
+PDVW,"pdvWireless, Inc.",309.09,FALSE
+AMSWA,"American Software, Inc.",307.97,FALSE
+WNEB,"Western New England Bancorp, Inc.",307.9,FALSE
+BREW,"Craft Brew Alliance, Inc.",307.72,FALSE
+YTRA,"Yatra Online, Inc.",307.66,FALSE
+RNET,"RigNet, Inc.",307.48,FALSE
+AMNB,"American National Bankshares, Inc.",307.11,FALSE
+FVC,First Trust Dorsey Wright Dynamic Focus 5 ETF,305.85,FALSE
+AXAS,Abraxas Petroleum Corporation,304.76,FALSE
+CCBG,Capital City Bank Group,303.82,FALSE
+NEWT,Newtek Business Services Corp.,303.31,FALSE
+SPAR,"Spartan Motors, Inc.",302.1,FALSE
+SRDX,"Surmodics, Inc.",301.37,FALSE
+OCUL,"Ocular Therapeutix, Inc.",301.17,FALSE
+KBWY,PowerShares KBW Premium Yield Equity REIT Portfolio,300.63,FALSE
+OLBK,"Old Line Bancshares, Inc.",298.4,FALSE
+BSET,"Bassett Furniture Industries, Incorporated",297.48,FALSE
+PCSB,PCSB Financial Corporation,297,FALSE
+EDGE,"Edge Therapeutics, Inc.",296.71,FALSE
+PFIS,Peoples Financial Services Corp. ,296.07,FALSE
+NERV,"Minerva Neurosciences, Inc",295.47,FALSE
+XBIT,XBiotech Inc.,295.38,FALSE
+GAIN,Gladstone Investment Corporation,295.22,FALSE
+BGFV,Big 5 Sporting Goods Corporation,294.09,FALSE
+NVAX,"Novavax, Inc.",293.92,FALSE
+PERY,Perry Ellis International Inc.,293.76,FALSE
+YRCW,"YRC Worldwide, Inc.",293.39,FALSE
+CCRC,"China Customer Relations Centers, Inc.",293.27,FALSE
+TBNK,Territorial Bancorp Inc.,293.14,FALSE
+ONVO,"Organovo Holdings, Inc.",292.35,FALSE
+TOCA,Tocagen Inc.,292.14,FALSE
+GSOL,Global Sources Ltd.,291.88,FALSE
+FDT,First Trust Developed Markets Ex-US AlphaDEX Fund,291.19,FALSE
+DJCO,Daily Journal Corp. (S.C.),289.96,FALSE
+FFKT,Farmers Capital Bank Corporation,289.96,FALSE
+HCOM,"Hawaiian Telcom Holdco, Inc.",289.81,FALSE
+ATLO,Ames National Corporation,288.64,FALSE
+QPAC,Quinpario Acquisition Corp. 2,287.62,FALSE
+COGT,"Cogint, Inc.",287.6,FALSE
+BELFB,Bel Fuse Inc.,287.43,FALSE
+USLV,VelocityShares 3x Long Silver ETN linked to the S&P GSCI Silve,287.3,FALSE
+MITK,"Mitek Systems, Inc.",287.01,FALSE
+QTNT,Quotient Limited,286.97,FALSE
+CRAI,"CRA International,Inc.",286.91,FALSE
+ARDX,"Ardelyx, Inc.",286.69,FALSE
+TTPH,"Tetraphase Pharmaceuticals, Inc.",286.19,FALSE
+NK,"NantKwest, Inc.",285.9,FALSE
+BPOPN,"Popular, Inc.",285.24,FALSE
+ENTL,"Entellus Medical, Inc.",284.69,FALSE
+KBWD,PowerShares KBW High Dividend Yield Financial Portfolio,284.63,FALSE
+RTIX,"RTI Surgical, Inc.",284,FALSE
+SLMBP,SLM Corporation,282.08,FALSE
+ENT,Global Eagle Entertainment Inc.,281.52,FALSE
+VRA,"Vera Bradley, Inc.",281.1,FALSE
+SREV,"ServiceSource International, Inc.",280.01,FALSE
+CUTR,"Cutera, Inc.",279.94,FALSE
+BLMT,"BSB Bancorp, Inc.",279.51,FALSE
+PBNC,Paragon Commercial Corporation,278.75,FALSE
+VCYT,"Veracyte, Inc.",278.75,FALSE
+STRL,Sterling Construction Company Inc,277.87,FALSE
+WEYS,"Weyco Group, Inc.",277.06,FALSE
+WLDN,"Willdan Group, Inc.",276.94,FALSE
+CHFN,Charter Financial Corp.,275.38,FALSE
+PEIX,"Pacific Ethanol, Inc.",275.37,FALSE
+SUNS,Solar Senior Capital Ltd.,275.21,FALSE
+NKSH,"National Bankshares, Inc.",274.84,FALSE
+FNLC,"First Bancorp, Inc (ME)",273.78,FALSE
+DSPG,"DSP Group, Inc.",272.68,FALSE
+GLDD,Great Lakes Dredge & Dock Corporation,272.66,FALSE
+CRMT,"America&#39;s Car-Mart, Inc.",272.51,FALSE
+LLEX,"Lilis Energy, Inc.",271.26,FALSE
+IVAC,"Intevac, Inc.",271.11,FALSE
+CZNC,Citizens & Northern Corp,270.43,FALSE
+LCUT,"Lifetime Brands, Inc.",270.38,FALSE
+PBPB,Potbelly Corporation,269.87,FALSE
+GILT,Gilat Satellite Networks Ltd.,269.43,FALSE
+AXTI,AXT Inc,268.14,FALSE
+INSE,"Inspired Entertainment, Inc.",267.91,FALSE
+RILY,"B. Riley Financial, Inc.",267.65,FALSE
+DVAX,Dynavax Technologies Corporation,267.14,FALSE
+KOPN,Kopin Corporation,266.94,FALSE
+FMAO,"Farmers & Merchants Bancorp, Inc.",266.8,FALSE
+OKTA,"Okta, Inc.",266.64,FALSE
+BFIN,BankFinancial Corporation,266.5,FALSE
+NBRV,Nabriva Therapeutics AG,266.39,FALSE
+EMKR,EMCORE Corporation,266.26,FALSE
+INAP,Internap Corporation,265.67,FALSE
+SMMF,"Summit Financial Group, Inc.",264.9,FALSE
+SVA,"Sinovac Biotech, Ltd.",264.05,FALSE
+BKEP,"Blueknight Energy Partners L.P., L.L.C.",263.27,FALSE
+CTRN,"Citi Trends, Inc.",262.98,FALSE
+CVGI,"Commercial Vehicle Group, Inc.",262.19,FALSE
+OBSV,ObsEva SA,261.94,FALSE
+NATH,"Nathan&#39;s Famous, Inc.",261.45,FALSE
+SNDX,"Syndax Pharmaceuticals, Inc.",261.24,FALSE
+SGC,"Superior Uniform Group, Inc.",261.18,FALSE
+LMNR,Limoneira Co,261.09,FALSE
+SELB,"Selecta Biosciences, Inc.",260.51,FALSE
+FEM,First Trust Emerging Markets AlphaDEX Fund,260.34,FALSE
+MRCC,Monroe Capital Corporation,260.03,FALSE
+HBCP,"Home Bancorp, Inc.",259.85,FALSE
+NUTR,Nutraceutical International Corporation,258.91,FALSE
+BWFG,"Bankwell Financial Group, Inc.",258.4,FALSE
+WHF,"WhiteHorse Finance, Inc.",258.29,FALSE
+PETX,"Aratana Therapeutics, Inc.",257.53,FALSE
+ESIO,"Electro Scientific Industries, Inc.",257.12,FALSE
+FBMS,"The First Bancshares, Inc.",256.96,FALSE
+IDRA,"Idera Pharmaceuticals, Inc.",256.54,FALSE
+ELECU,Electrum Special Acquisition Corporation,256.5,FALSE
+ALCO,"Alico, Inc.",255.73,FALSE
+COLL,"Collegium Pharmaceutical, Inc.",255.11,FALSE
+BELFA,Bel Fuse Inc.,255.05,FALSE
+METC,"Ramaco Resources, Inc.",254.69,FALSE
+PLPC,Preformed Line Products Company,253.75,FALSE
+WOOD,iShares S&P Global Timber & Forestry Index Fund,253.56,FALSE
+SFST,"Southern First Bancshares, Inc.",253.52,FALSE
+AREX,Approach Resources Inc.,252.81,FALSE
+CVCY,Central Valley Community Bancorp,252.67,FALSE
+GLAD,Gladstone Capital Corporation,251.86,FALSE
+ELEC,Electrum Special Acquisition Corporation,250.25,FALSE
+KMDA,Kamada Ltd.,249.67,FALSE
+EACQ,Easterly Acquisition Corp.,248.75,FALSE
+NCIT,"NCI, Inc.",248.68,FALSE
+TTGT,"TechTarget, Inc.",248.37,FALSE
+CSWC,Capital Southwest Corporation,248.27,FALSE
+WMIH,WMIH Corp.,247.66,FALSE
+VYGR,"Voyager Therapeutics, Inc.",247.32,FALSE
+MTRX,Matrix Service Company,246.81,FALSE
+DGII,Digi International Inc.,246.8,FALSE
+PSC,Principal U.S. Small Cap Index ETF,246.74,FALSE
+ABEO,Abeona Therapeutics Inc.,246.56,FALSE
+WMAR,"West Marine, Inc.",245.63,FALSE
+BBGI,"Beasley Broadcast Group, Inc.",243.67,FALSE
+CGEN,Compugen Ltd.,242.87,FALSE
+SPWH,"Sportsman&#39;s Warehouse Holdings, Inc.",242.21,FALSE
+MFSF,MutualFirst Financial Inc.,241.26,FALSE
+TESO,Tesco Corporation,240.62,FALSE
+XNET,Xunlei Limited,239.58,FALSE
+MGEN,"Miragen Therapeutics, Inc.",239.49,FALSE
+CRIS,"Curis, Inc.",239.38,FALSE
+ZYNE,"Zynerba Pharmaceuticals, Inc.",239.02,FALSE
+UTMD,"Utah Medical Products, Inc.",237.83,FALSE
+RDCM,Radcom Ltd.,237.52,FALSE
+BKEPP,"Blueknight Energy Partners L.P., L.L.C.",237.23,FALSE
+MBTF,M B T Financial Corp,236.66,FALSE
+AVXL,Anavex Life Sciences Corp.,236.46,FALSE
+CRNT,Ceragon Networks Ltd.,235.85,FALSE
+PCMI,"PCM, Inc.",235.68,FALSE
+SMBC,"Southern Missouri Bancorp, Inc.",235.35,FALSE
+CXDC,China XD Plastics Company Limited,235.18,FALSE
+SIGM,"Sigma Designs, Inc.",234.64,FALSE
+CRVS,"Corvus Pharmaceuticals, Inc.",234.26,FALSE
+IMMR,Immersion Corporation,233.63,FALSE
+AMOT,"Allied Motion Technologies, Inc.",233.47,FALSE
+FNTE,FinTech Acquisition Corp. II,232.96,FALSE
+CASC,"Cascadian Therapeutics, Inc.",232.88,FALSE
+PME,Pingtan Marine Enterprise Ltd.,232.42,FALSE
+PSCF,PowerShares S&P SmallCap Financials Portfolio,231.99,FALSE
+PCYG,"Park City Group, Inc.",231.98,FALSE
+FTEO,"FRONTEO, Inc.",230.37,FALSE
+GENC,Gencor Industries Inc.,230.31,FALSE
+ZAGG,ZAGG Inc,229.98,FALSE
+CIBR,First Trust NASDAQ Cybersecurity ETF,227.69,FALSE
+CLCT,"Collectors Universe, Inc.",227.31,FALSE
+FSFR,Fifth Street Senior Floating Rate Corp.,226.6,FALSE
+ACTG,Acacia Research Corporation,226.38,FALSE
+URGN,UroGen Pharma Ltd.,225.68,FALSE
+STRS,Stratus Properties Inc.,225.51,FALSE
+AQMS,"Aqua Metals, Inc.",224.98,FALSE
+TIPT,Tiptree Inc.,224.82,FALSE
+ABCD,"Cambium Learning Group, Inc.",224.12,FALSE
+FCFP,"First Community Financial Partners, Inc.",223.57,FALSE
+XONE,The ExOne Company,221.78,FALSE
+CHSCP,CHS Inc,221.38,FALSE
+AGYS,"Agilysys, Inc.",220.67,FALSE
+HNRG,Hallador Energy Company,220.65,FALSE
+CCLP,CSI Compressco LP,219.04,FALSE
+IGLD,Internet Gold Golden Lines Ltd.,218.92,FALSE
+CMRX,"Chimerix, Inc.",218.8,FALSE
+OXLC,Oxford Lane Capital Corp.,217.54,FALSE
+LYTS,LSI Industries Inc.,217.17,FALSE
+GUID,"Guidance Software, Inc.",216.46,FALSE
+CPTA,Capitala Finance Corp.,216.24,FALSE
+GPIA,GP Investments Acquisition Corp.,216.06,FALSE
+AVID,"Avid Technology, Inc.",214.99,FALSE
+MOXC,"Moxian, Inc.",214.42,FALSE
+DGAS,"Delta Natural Gas Company, Inc.",214.28,FALSE
+NATR,"Nature&#39;s Sunshine Products, Inc.",214.1,FALSE
+CIVB,"Civista Bancshares, Inc. ",213.34,FALSE
+CVLY,"Codorus Valley Bancorp, Inc",213.32,FALSE
+FBIO,"Fortress Biotech, Inc.",212.9,FALSE
+HLG,Hailiang Education Group Inc.,212.29,FALSE
+ADES,"Advanced Emissions Solutions, Inc.",211.35,FALSE
+REIS,"Reis, Inc",211.3,FALSE
+LQDT,"Liquidity Services, Inc.",210.96,FALSE
+STML,"Stemline Therapeutics, Inc.",209.71,FALSE
+CDXS,"Codexis, Inc.",209.54,FALSE
+RAIL,"Freightcar America, Inc.",209.41,FALSE
+COMT,iShares Commodities Select Strategy ETF,208.82,FALSE
+ABUS,Arbutus Biopharma Corporation,207.72,FALSE
+FNHC,Federated National Holding Company,207.72,FALSE
+VERI,"Veritone, Inc.",206.53,FALSE
+BIOS,"BioScrip, Inc.",206.28,FALSE
+GEOS,Geospace Technologies Corporation,206.04,FALSE
+MXWL,"Maxwell Technologies, Inc.",205.87,FALSE
+AUDC,AudioCodes Ltd.,205.16,FALSE
+BCOV,Brightcove Inc.,204.96,FALSE
+TVIX,VelocityShares Daily 2x VIX Short Term ETN,204.96,FALSE
+TRHC,"Tabula Rasa HealthCare, Inc.",204.9,FALSE
+CFMS,"ConforMIS, Inc.",204.78,FALSE
+PFBI,"Premier Financial Bancorp, Inc.",204.31,FALSE
+CLSD,"Clearside Biomedical, Inc.",202.91,FALSE
+SQBG,"Sequential Brands Group, Inc.",202.85,FALSE
+SONA,"Southern National Bancorp of Virginia, Inc.",202.76,FALSE
+NRIM,Northrim BanCorp Inc,202.48,FALSE
+CEMP,"Cempra, Inc.",202.14,FALSE
+GCBC,"Greene County Bancorp, Inc.",201.85,FALSE
+FBIZ,"First Business Financial Services, Inc.",201.83,FALSE
+PVBC,"Provident Bancorp, Inc.",200.53,FALSE
+LCNB,LCNB Corporation,200.08,FALSE
+FNBG,FNB Bancorp,200.05,FALSE
+CORI,"Corium International, Inc.",199.95,FALSE
+FSAM,Fifth Street Asset Management Inc.,199.45,FALSE
+PSCH,PowerShares S&P SmallCap Health Care Portfolio,199.41,FALSE
+SLP,"Simulations Plus, Inc.",199.13,FALSE
+RICK,"RCI Hospitality Holdings, Inc.",198.75,FALSE
+SHBI,Shore Bancshares Inc,198.45,FALSE
+MDGL,"Madrigal Pharmaceuticals, Inc.",198.21,FALSE
+ISTR,Investar Holding Corporation,197.38,FALSE
+BOOM,DMC Global Inc.,197.3,FALSE
+KURA,"Kura Oncology, Inc.",196.93,FALSE
+FGBI,"First Guaranty Bancshares, Inc.",196.74,FALSE
+CSTR,"CapStar Financial Holdings, Inc.",196.19,FALSE
+FNWB,First Northwest Bancorp,195.78,FALSE
+UFPT,"UFP Technologies, Inc.",194.72,FALSE
+AIRR,First Trust RBA American Industrial Renaissance ETF,194.05,FALSE
+AKTS,"Akoustis Technologies, Inc.",193.85,FALSE
+PIO,PowerShares Global Water Portfolio,193.27,FALSE
+SHLO,"Shiloh Industries, Inc.",193.01,FALSE
+GPAC,Global Partner Acquisition Corp.,193,FALSE
+NDLS,Noodles & Company,192.76,FALSE
+NYMX,Nymox Pharmaceutical Corporation,192.72,FALSE
+KNDI,"Kandi Technologies Group, Inc.",192.09,FALSE
+CLFD,"Clearfield, Inc.",192.03,FALSE
+ENZY          ,Enzymotec Ltd.,191.59,FALSE
+ZEUS,"Olympic Steel, Inc.",191.1,FALSE
+CNTY,"Century Casinos, Inc.",191.04,FALSE
+LMIA,"LMI Aerospace, Inc.",190.9,FALSE
+EXA,Exa Corporation,190.84,FALSE
+MNOV,"MediciNova, Inc.",189.63,FALSE
+VTWG,Vanguard Russell 2000 Growth ETF,189.36,FALSE
+MIII,M III Acquisition Corp.,188.84,FALSE
+HALL,"Hallmark Financial Services, Inc.",188.02,FALSE
+ITI,"Iteris, Inc.",187.96,FALSE
+IMDZ,Immune Design Corp.,187.95,FALSE
+OFS,OFS Capital Corporation,187.79,FALSE
+NEOS,"Neos Therapeutics, Inc.",187.25,FALSE
+IFMK,iFresh Inc.,187.08,FALSE
+HURC,"Hurco Companies, Inc.",186.86,FALSE
+DWAS,PowerShares DWA SmallCap Momentum Portfolio,186.76,FALSE
+HBP,"Huttig Building Products, Inc.",186.34,FALSE
+FUND,"Sprott Focus Trust, Inc.",186.3,FALSE
+SMBK,"SmartFinancial, Inc.",186.18,FALSE
+FSTR,L.B. Foster Company,185.97,FALSE
+USAT,"USA Technologies, Inc.",185.53,FALSE
+SBCP,"Sunshine Bancorp, Inc.",185.32,FALSE
+PCYO,Pure Cycle Corporation,185.28,FALSE
+FSZ,First Trust Switzerland AlphaDEX Fund,185.21,FALSE
+PWOD,"Penns Woods Bancorp, Inc.",185.06,FALSE
+TAX,"Liberty Tax, Inc.",184.53,FALSE
+PIZ,PowerShares DWA Developed Markets Momentum Portfolio,183.64,FALSE
+HBMD,"Howard Bancorp, Inc.",183.61,FALSE
+SALM,"Salem Media Group, Inc.",183.46,FALSE
+SIFI,"SI Financial Group, Inc.",183.13,FALSE
+PMBC,Pacific Mercantile Bancorp,183.09,FALSE
+VALU,"Value Line, Inc.",182.94,FALSE
+RDVY,First Trust Rising Dividend Achievers ETF,182.77,FALSE
+PLPM,"Planet Payment, Inc.",182.6,FALSE
+CHMG,Chemung Financial Corp,182.16,FALSE
+TWIN,"Twin Disc, Incorporated",181.54,FALSE
+EML,Eastern Company (The),181.18,FALSE
+ABDC,Alcentra Capital Corp.,180.73,FALSE
+PTGX,"Protagonist Therapeutics, Inc.",180.53,FALSE
+TRVN,"Trevena, Inc.",180.15,FALSE
+STDY,SteadyMed Ltd.,179.98,FALSE
+ORRF,Orrstown Financial Services Inc,179.57,FALSE
+PLW,PowerShares 1-30 Laddered Treasury Portfolio,179.36,FALSE
+BCBP,"BCB Bancorp, Inc. (NJ)",178.94,FALSE
+BDE,"Black Diamond, Inc.",178.58,FALSE
+RGCO,RGC Resources Inc.,178.39,FALSE
+ACNB,ACNB Corporation,178.37,FALSE
+FEMS,First Trust Emerging Markets Small Cap AlphaDEX Fund,177.46,FALSE
+UNB,"Union Bankshares, Inc.",177.16,FALSE
+IRDMB,Iridium Communications Inc,177,FALSE
+CAMT,Camtek Ltd.,176.39,FALSE
+CPRX,"Catalyst Pharmaceuticals, Inc.",175.95,FALSE
+AFH,"Atlas Financial Holdings, Inc.",175.65,FALSE
+MOCO,"MOCON, Inc.",175.43,FALSE
+CWCO,Consolidated Water Co. Ltd.,174.96,FALSE
+PIRS,"Pieris Pharmaceuticals, Inc.",174.43,FALSE
+ENOC,"EnerNOC, Inc.",173.98,FALSE
+NAME,"Rightside Group, Ltd.",173.85,FALSE
+CFNB,California First National Bancorp,173.73,FALSE
+RVLT,"Revolution Lighting Technologies, Inc.",173.51,FALSE
+DRRX,DURECT Corporation,173.2,FALSE
+LAWS,"Lawson Products, Inc.",173.18,FALSE
+CFCB,Centrue Financial Corporation,173.13,FALSE
+GNMA,iShares GNMA Bond ETF,172.53,FALSE
+ESXB,Community Bankers Trust Corporation.,172.47,FALSE
+UNTY,"Unity Bancorp, Inc.",172.25,FALSE
+WCST,"Wecast Network, Inc.",171.33,FALSE
+GNCA,"Genocea Biosciences, Inc.",171.31,FALSE
+INBK,First Internet Bancorp,171.21,FALSE
+OMNT,"Ominto, Inc.",170.77,FALSE
+VBIV,"VBI Vaccines, Inc.",170.66,FALSE
+CUBN,"Commerce Union Bancshares, Inc.",170.37,FALSE
+FGM,First Trust Germany AlphaDEX Fund,170.25,FALSE
+IDLB,PowerShares FTSE International Low Beta Equal Weight Portfolio,170.01,FALSE
+PGJ,PowerShares Golden Dragon China Portfolio,169.69,FALSE
+NVLN,Novelion Therapeutics Inc. ,169.62,FALSE
+WPRT,Westport Fuel Systems Inc,169.55,FALSE
+ESCA,"Escalade, Incorporated",169.29,FALSE
+GWRS,"Global Water Resources, Inc.",169.18,FALSE
+RDHL,Redhill Biopharma Ltd.,168.88,FALSE
+OBLN,"Obalon Therapeutics, Inc.",168.76,FALSE
+NSSC,"NAPCO Security Technologies, Inc.",168.66,FALSE
+WILN,Wi-LAN Inc,168.37,FALSE
+FFNW,"First Financial Northwest, Inc.",168.3,FALSE
+ESSA,"ESSA Bancorp, Inc.",167.77,FALSE
+KWEB,KraneShares CSI China Internet ETF,167.72,FALSE
+VTWV,Vanguard Russell 2000 Value ETF,167.4,FALSE
+VRNA,Verona Pharma plc,167.33,FALSE
+NBN,Northeast Bancorp,167.17,FALSE
+TSBK,"Timberland Bancorp, Inc.",166.1,FALSE
+FOMX,Foamix Pharmaceuticals Ltd.,166.02,FALSE
+PBIP,"Prudential Bancorp, Inc.",165.66,FALSE
+QNST,"QuinStreet, Inc.",165.48,FALSE
+MBCN,Middlefield Banc Corp.,165.05,FALSE
+CFFI,C&F Financial Corporation,164.94,FALSE
+ATHX,"Athersys, Inc.",164.75,FALSE
+WLFC,Willis Lease Finance Corporation,164.32,FALSE
+PPHM,Peregrine Pharmaceuticals Inc.,163.74,FALSE
+FATE,"Fate Therapeutics, Inc.",163.54,FALSE
+KIN,"Kindred Biosciences, Inc.",163.17,FALSE
+ALLT,Allot Communications Ltd.,162.92,FALSE
+VTVT,vTv Therapeutics Inc.,162.75,FALSE
+TCFC,The Community Financial Corporation,162.47,FALSE
+NWFL,Norwood Financial Corp.,162.41,FALSE
+LWAY,"Lifeway Foods, Inc.",162.35,FALSE
+PXLW,"Pixelworks, Inc.",162.28,FALSE
+USLB,PowerShares Russell 1000 Low Beta Equal Weight Portfolio,161.65,FALSE
+OFED,Oconee Federal Financial Corp.,161.37,FALSE
+PIE,PowerShares DWA Emerging Markets Momentum Portfolio,160.99,FALSE
+GAIA,"Gaia, Inc.",160.62,FALSE
+FLDM,Fluidigm Corporation,160.25,FALSE
+CAAS,"China Automotive Systems, Inc.",159.8,FALSE
+GSIT,"GSI Technology, Inc.",159.6,FALSE
+RFDI,First Trust RiverFront Dynamic Developed International ETF,159.29,FALSE
+SBBP,Strongbridge Biopharma plc,159.01,FALSE
+OVBC,Ohio Valley Banc Corp.,158.21,FALSE
+ROBO,ROBO Global Robotics and Automation Index ETF,158.1,FALSE
+PKBK,"Parke Bancorp, Inc.",157.8,FALSE
+KINS,"Kingstone Companies, Inc",157.76,FALSE
+SAMG,Silvercrest Asset Management Group Inc.,157.24,FALSE
+REPH,"Recro Pharma, Inc.",157.17,FALSE
+UBFO,United Security Bancshares,156.94,FALSE
+PCO,Pendrell Corporation,156.57,FALSE
+FLN,First Trust Latin America AlphaDEX Fund,156.56,FALSE
+DTEA,DAVIDsTEA Inc.,156.55,FALSE
+CNAT,Conatus Pharmaceuticals Inc.,156.51,FALSE
+RNWK,"RealNetworks, Inc.",156.2,FALSE
+TA,TravelCenters of America LLC,156.09,FALSE
+ASBB,"ASB Bancorp, Inc.",155.88,FALSE
+RSYS,RadiSys Corporation,155.71,FALSE
+PHII,"PHI, Inc.",155.15,FALSE
+ASCMA,"Ascent Capital Group, Inc.",155.04,FALSE
+III,"Information Services Group, Inc.",154.98,FALSE
+TCBIP,"Texas Capital Bancshares, Inc.",154.92,FALSE
+KIRK,"Kirkland&#39;s, Inc.",154.18,FALSE
+ICBK,"County Bancorp, Inc.",153.89,FALSE
+HDNG,Hardinge Inc.,153.8,FALSE
+KBWR,PowerShares KBW Regional Banking Portfolio,153.72,FALSE
+GRIF,"Griffin Industrial Realty, Inc.",152.52,FALSE
+LGCY,Legacy Reserves LP,152.51,FALSE
+KVHI,"KVH Industries, Inc.",151.52,FALSE
+LAYN,Layne Christensen Company,151.5,FALSE
+OPOF,Old Point Financial Corporation,151.39,FALSE
+FONR,Fonar Corporation,150.97,FALSE
+ENFC,Entegra Financial Corp.,150.73,FALSE
+VBLT,Vascular Biogenics Ltd.,150.65,FALSE
+PROV,"Provident Financial Holdings, Inc.",150.49,FALSE
+MDWD,MediWound Ltd.,150.22,FALSE
+BOCH,Bank of Commerce Holdings (CA),150.09,FALSE
+CYBE,CyberOptics Corporation,149.97,FALSE
+HRMN,Harmony Merger Corp.,149.54,FALSE
+PEBK,"Peoples Bancorp of North Carolina, Inc.",149.21,FALSE
+SBRAP,"Sabra Healthcare REIT, Inc.",149.21,FALSE
+ENZL,iShares MSCI New Zealand Capped ETF,149.11,FALSE
+PHIIK,"PHI, Inc.",149.02,FALSE
+RVSB,Riverview Bancorp Inc,148.57,FALSE
+TRCB,Two River Bancorp,148.41,FALSE
+SMMT,Summit Therapeutics plc,147.47,FALSE
+FBZ,First Trust Brazil AlphaDEX Fund,147.39,FALSE
+PCOM,"Points International, Ltd.",147.21,FALSE
+JMU,JMU Limited,146.88,FALSE
+NBEV,New Age Beverages Corporation,146.81,FALSE
+SIEN,"Sientra, Inc.",144.89,FALSE
+QURE,uniQure N.V.,144.7,FALSE
+MLVF,"Malvern Bancorp, Inc.",144.6,FALSE
+ABTL,Autobytel Inc.,143.93,FALSE
+MVIS,"Microvision, Inc.",143.74,FALSE
+SIFY,Sify Technologies Limited,143.72,FALSE
+VIVE,"Viveve Medical, Inc.",143.61,FALSE
+AIQ,"Alliance HealthCare Services, Inc.",141.89,FALSE
+VOXX,VOXX International Corporation,141.34,FALSE
+CMFN,CM Finance Inc,140.31,FALSE
+MSLI,Merus Labs International Inc.,139.65,FALSE
+ALBO,"Albireo Pharma, Inc.",138.56,FALSE
+PRGX,"PRGX Global, Inc.",138.28,FALSE
+GARS,Garrison Capital Inc.,138.02,FALSE
+MAGS,Magal Security Systems Ltd.,137.76,FALSE
+FUEL,Rocket Fuel Inc.,137.69,FALSE
+FCCY,1st Constitution Bancorp (NJ),137.67,FALSE
+SORL,"SORL Auto Parts, Inc.",137.64,FALSE
+SLCT,"Select Bancorp, Inc.",137.61,FALSE
+FRBA,First Bank,137.36,FALSE
+MMAC,"MMA Capital Management, LLC",137.14,FALSE
+ADRE,BLDRS Emerging Markets 50 ADR Index Fund,137.12,FALSE
+EVBS,"Eastern Virginia Bankshares, Inc.",136.76,FALSE
+GIFI,"Gulf Island Fabrication, Inc.",136.63,FALSE
+OMED,"OncoMed Pharmaceuticals, Inc.",136.57,FALSE
+BDSI,"BioDelivery Sciences International, Inc.",135.55,FALSE
+ACSF,"American Capital Senior Floating, Ltd.",135,FALSE
+EVGN,Evogene Ltd.,134.76,FALSE
+FCCO,First Community Corporation,134.28,FALSE
+FMB,First Trust Managed Municipal ETF,134.26,FALSE
+WLB,Westmoreland Coal Company,134.19,FALSE
+DNBF,DNB Financial Corp,134.13,FALSE
+CRME,Cardiome Pharma Corporation,133.98,FALSE
+AMCN,AirMedia Group Inc,133.1,FALSE
+VTL,"Vital Therapies, Inc.",132.95,FALSE
+NWPX,Northwest Pipe Company,132.64,FALSE
+LAND,Gladstone Land Corporation,132.13,FALSE
+FSBW,"FS Bancorp, Inc.",132.11,FALSE
+PRN,PowerShares DWA Industrials Momentum Portfolio,131.95,FALSE
+BBOX,Black Box Corporation,131.69,FALSE
+TZOO,Travelzoo Inc.,131.24,FALSE
+SYNC,"Synacor, Inc.",131.17,FALSE
+PTF,PowerShares DWA Technology Momenum Portfolio,131.11,FALSE
+WKHS,"Workhorse Group, Inc.",130.92,FALSE
+KCAP,"KCAP Financial, Inc.",130.66,FALSE
+BANX,StoneCastle Financial Corp,130.56,FALSE
+FSBK,First South Bancorp Inc,129.97,FALSE
+CHKE,Cherokee Inc.,129.51,FALSE
+HRZN,Horizon Technology Finance Corporation,129.45,FALSE
+AIRG,"Airgain, Inc.",128.52,FALSE
+GFN,General Finance Corporation,128.47,FALSE
+TRIB,Trinity Biotech plc,128.14,FALSE
+PFSW,"PFSweb, Inc.",128.04,FALSE
+DXGE,WisdomTree Germany Hedged Equity Fund,127.9,FALSE
+MCHX,"Marchex, Inc.",127.51,FALSE
+SPNE,SeaSpine Holdings Corporation,127.49,FALSE
+PMTS,CPI Card Group Inc.,127.33,FALSE
+ESGD,iShares MSCI EAFE ESG Optimized ETF,127,FALSE
+CDXC,ChromaDex Corporation,126.53,FALSE
+DHXM,DHX Media Ltd.,126.5,FALSE
+GLDI,Credit Suisse Gold Shares Covered Calls ETN,126.46,FALSE
+USAP,"Universal Stainless & Alloy Products, Inc.",125.25,FALSE
+GASS,"StealthGas, Inc.",125.16,FALSE
+BRID,Bridgford Foods Corporation,124.36,FALSE
+AUBN,"Auburn National Bancorporation, Inc.",124.24,FALSE
+MRAM,"Everspin Technologies, Inc.",123.85,FALSE
+PFMT,Performant Financial Corporation,123.22,FALSE
+IVTY,"Invuity, Inc.",123.07,FALSE
+PANL,Pangaea Logistics Solutions Ltd.,123.04,FALSE
+ARWR,"Arrowhead Pharmaceuticals, Inc.",122.63,FALSE
+RBPAA,"Royal Bancshares of Pennsylvania, Inc.",122.31,FALSE
+IPKW,PowerShares International BuyBack Achievers Portfolio,122.01,FALSE
+FLGT,"Fulgent Genetics, Inc.",121.9,FALSE
+INTX,"Intersections, Inc.",121.76,FALSE
+DWIN,PowerShares DWA Tactical Multi-Asset Income Portfolio,121.66,FALSE
+TESS,TESSCO Technologies Incorporated,121.61,FALSE
+PSTI,"Pluristem Therapeutics, Inc.",121.38,FALSE
+FTGC,First Trust Global Tactical Commodity Strategy Fund,121.34,FALSE
+GECC,Great Elm Capital Corp.,120.84,FALSE
+DXJS,WisdomTree Japan Hedged SmallCap Equity Fund,120.44,FALSE
+LARK,Landmark Bancorp Inc.,120.35,FALSE
+ACRX,"AcelRx Pharmaceuticals, Inc.",120.26,FALSE
+DXLG,"Destination XL Group, Inc.",119.97,FALSE
+CLDC,China Lending Corporation,119.9,FALSE
+ACFC,Atlantic Coast Financial Corporation,119.76,FALSE
+SBBX,Sussex Bancorp,119.3,FALSE
+SOCL,Global X Social Media ETF,118.98,FALSE
+KGJI,Kingold Jewelry Inc.,118.83,FALSE
+PUI,PowerShares DWA Utilities Momentum Portfolio,118.8,FALSE
+SRNE,"Sorrento Therapeutics, Inc.",118.61,FALSE
+CTIC,CTI BioPharma Corp.,118.5,FALSE
+VUZI,Vuzix Corporation,118.37,FALSE
+PMD,Psychemedics Corporation,118.16,FALSE
+FBRC,FBR & Co,117.85,FALSE
+NVCN,Neovasc Inc.,117.56,FALSE
+ALJJ,"ALJ Regional Holdings, Inc.",117.21,FALSE
+JAKK,"JAKKS Pacific, Inc.",116.91,FALSE
+PRQR,ProQR Therapeutics N.V.,116.73,FALSE
+CIZN,Citizens Holding Company,116.49,FALSE
+CDOR,"Condor Hospitality Trust, Inc.",116.24,FALSE
+ATTU,Attunity Ltd.,116.09,FALSE
+ADVM,"Adverum Biotechnologies, Inc.",115.75,FALSE
+CALL,magicJack VocalTec Ltd,115.5,FALSE
+HNNA,"Hennessy Advisors, Inc.",115.43,FALSE
+AMRK,"A-Mark Precious Metals, Inc.",115.39,FALSE
+TGA,Transglobe Energy Corp,115.17,FALSE
+STRT,Strattec Security Corporation,115.14,FALSE
+CBFV,"CB Financial Services, Inc.",114.18,FALSE
+CBAN,"Colony Bankcorp, Inc.",113.93,FALSE
+HWBK,"Hawthorn Bancshares, Inc.",113.68,FALSE
+PCTI,"PC-Tel, Inc.",113.47,FALSE
+CDTX,"Cidara Therapeutics, Inc.",113.44,FALSE
+ALSK,"Alaska Communications Systems Group, Inc.",113.32,FALSE
+MNTX,"Manitex International, Inc.",113.22,FALSE
+PERI,Perion Network Ltd,113.22,FALSE
+MNKD,MannKind Corporation,113.13,FALSE
+SBPH,"Spring Bank Pharmaceuticals, Inc.",112.76,FALSE
+ORMP,Oramed Pharmaceuticals Inc.,112.74,FALSE
+SAL,"Salisbury Bancorp, Inc.",112.71,FALSE
+PXI,PowerShares DWA Energy Momentum Portfolio,112.58,FALSE
+CTSO,Cytosorbents Corporation,112.43,FALSE
+CBAY,CymaBay Therapeutics Inc.,112.42,FALSE
+MPB,Mid Penn Bancorp,112.16,FALSE
+FSFG,"First Savings Financial Group, Inc.",112.12,FALSE
+ZFGN,"Zafgen, Inc.",111.68,FALSE
+ASUR,Asure Software Inc,111.5,FALSE
+JMBA,"Jamba, Inc.",111.45,FALSE
+VVUS,"VIVUS, Inc.",110.97,FALSE
+DWTR,PowerShares DWA Tactical Sector Rotation Portfolio,110.93,FALSE
+ECYT,"Endocyte, Inc.",110.64,FALSE
+PRTS,"U.S. Auto Parts Network, Inc.",110.46,FALSE
+FAB,First Trust Multi Cap Value AlphaDEX Fund,109.29,FALSE
+OVLY,Oak Valley Bancorp (CA),109.13,FALSE
+QUIK,QuickLogic Corporation,109,FALSE
+GEMP,Gemphire Therapeutics Inc.,108.97,FALSE
+AFMD,Affimed N.V.,107.65,FALSE
+IEUS,iShares MSCI Europe Small-Cap ETF,107.52,FALSE
+TATT,TAT Technologies Ltd.,107.27,FALSE
+HWCC,Houston Wire & Cable Company,107.24,FALSE
+PTSI,"P.A.M. Transportation Services, Inc.",107.11,FALSE
+ADMP,Adamis Pharmaceuticals Corporation,106.81,FALSE
+CLUB,"Town Sports International Holdings, Inc.",106.78,FALSE
+CGO,Calamos Global Total Return Fund,106.66,FALSE
+EXFO,EXFO Inc,106.62,FALSE
+CPSS,"Consumer Portfolio Services, Inc.",105.76,FALSE
+ASYS,"Amtech Systems, Inc.",105.74,FALSE
+ALOT,"AstroNova, Inc.",105.54,FALSE
+FCAP,"First Capital, Inc.",105.13,FALSE
+SAUC,"Diversified Restaurant Holdings, Inc.",104.81,FALSE
+CPIX,Cumberland Pharmaceuticals Inc.,104.7,FALSE
+MBFIP,MB Financial Inc.,104.52,FALSE
+IRIX,IRIDEX Corporation,104.25,FALSE
+RCKY,"Rocky Brands, Inc.",102.71,FALSE
+AWRE,"Aware, Inc.",102.64,FALSE
+BKSC,Bank of South Carolina Corp.,101.92,FALSE
+FDIV,First Trust Strategic Income ETF,101.72,FALSE
+SYNL,Synalloy Corporation,101.37,FALSE
+DGRS,WisdomTree U.S. SmallCap Quality Dividend Growth Fund,101.31,FALSE
+SNFCA,Security National Financial Corporation,101.28,FALSE
+ZIV,VelocityShares Daily Inverse VIX Medium Term ETN,100.97,FALSE
+SRSC,Sears Canada Inc. ,100.86,FALSE
+UGLD,VelocityShares 3x Long Gold ETN linked to the S&P GSCI Gold In,100.79,FALSE
+SKYS,"Sky Solar Holdings, Ltd.",100.69,FALSE
+FUNC,First United Corporation,100.5,FALSE
+GSVC,GSV Capital Corp,100.48,FALSE
+CGNT,"Cogentix Medical, Inc.",100.32,FALSE
+KBWP,PowerShares KBW Property & Casualty Insurance Portfolio,100.28,FALSE
+HFBC,"HopFed Bancorp, Inc.",99.99,FALSE
+AVNW,"Aviat Networks, Inc.",99.88,FALSE
+VRML,"Vermillion, Inc.",99.84,FALSE
+DWCH,Datawatch Corporation,99.8,FALSE
+QQXT,First Trust NASDAQ-100 Ex-Technology Sector Index Fund,99.46,FALSE
+PNRG,PrimeEnergy Corporation,99.41,FALSE
+AXSM,"Axsome Therapeutics, Inc.",99.14,FALSE
+CFBI,"Community First Bancshares, Inc.",98.37,FALSE
+TTOO,"T2 Biosystems, Inc.",98.21,FALSE
+CBMG,"Cellular Biomedicine Group, Inc.",97.89,FALSE
+ARLZ,Aralez Pharmaceuticals Inc.,97.87,FALSE
+MSBF,MSB Financial Corp.,97.65,FALSE
+ALIM,"Alimera Sciences, Inc.",97.35,FALSE
+EDGW,"Edgewater Technology, Inc.",96.9,FALSE
+FYC,First Trust Small Cap Growth AlphaDEX Fund,96.83,FALSE
+NVTR,Nuvectra Corporation,96.7,FALSE
+FAD,First Trust Multi Cap Growth AlphaDEX Fund,96.66,FALSE
+AGRX,"Agile Therapeutics, Inc.",96.5,FALSE
+LSBK,"Lake Shore Bancorp, Inc.",95.96,FALSE
+PYZ,PowerShares DWA Basic Materials Momentum Portfolio,95.74,FALSE
+LMB,"Limbach Holdings, Inc.",95.05,FALSE
+UONE,"Urban One, Inc. ",94.22,FALSE
+AGTC,Applied Genetic Technologies Corporation,94.03,FALSE
+PTI,"Proteostasis Therapeutics, Inc.",93.91,FALSE
+DWSN,Dawson Geophysical Company,93.67,FALSE
+PSCI,PowerShares S&P SmallCap Industrials Portfolio,92.68,FALSE
+FVE,Five Star Senior Living Inc.,92.49,FALSE
+ULBI,Ultralife Corporation,92.17,FALSE
+WSTG,"Wayside Technology Group, Inc.",92.07,FALSE
+STLR,Stellar Acquisition III Inc.,91.81,FALSE
+UONEK,"Urban One, Inc. ",91.81,FALSE
+LONE,Lonestar Resources US Inc.,91.66,FALSE
+SIEB,Siebert Financial Corp.,91.65,FALSE
+MBOT,Microbot Medical Inc. ,90.84,FALSE
+IRMD,iRadimed Corporation,90.3,FALSE
+INFI,"Infinity Pharmaceuticals, Inc.",90.29,FALSE
+SOHO,Sotherly Hotels Inc.,90.24,FALSE
+TUES,Tuesday Morning Corp.,90.2,FALSE
+AEHR,Aehr Test Systems,90.14,FALSE
+MRTX,"Mirati Therapeutics, Inc.",89.78,FALSE
+MSON,"MISONIX, Inc.",89.78,FALSE
+PLBC,Plumas Bancorp,89.76,FALSE
+HYGS,Hydrogenics Corporation,89.7,FALSE
+RELY,"Real Industry, Inc. ",89.39,FALSE
+TYHT,"Shineco, Inc.",89.39,FALSE
+CWAY,"Coastway Bancorp, Inc.",88.95,FALSE
+ARQL,"ArQule, Inc.",88.93,FALSE
+RNDB,"Randolph Bancorp, Inc.",88.91,FALSE
+AMRB,American River Bankshares,88.49,FALSE
+CTG,"Computer Task Group, Incorporated",88.27,FALSE
+OPHT,Ophthotech Corporation,88.2,FALSE
+GFED,"Guaranty Federal Bancshares, Inc.",88.12,FALSE
+MFNC,Mackinac Financial Corporation,87.93,FALSE
+SITO,"SITO Mobile, Ltd.",87.89,FALSE
+PSDV,pSivida Corp.,87.77,FALSE
+FNY,First Trust Mid Cap Growth AlphaDEX Fund,87.38,FALSE
+IDSY,"I.D. Systems, Inc.",87.28,FALSE
+MLNK,"ModusLink Global Solutions, Inc",87.18,FALSE
+AGLE,"Aeglea BioTherapeutics, Inc.",87.17,FALSE
+SEAC,"SeaChange International, Inc.",86.87,FALSE
+SEV,"Sevcon, Inc.",86.85,FALSE
+ARIS,"ARI Network Services, Inc.",86.76,FALSE
+VSTM,"Verastem, Inc.",86.56,FALSE
+CLRO,"ClearOne, Inc.",86.17,FALSE
+ARKR,Ark Restaurants Corp.,86.07,FALSE
+GALT,Galectin Therapeutics Inc.,85.98,FALSE
+AXAR,Axar Acquisition Corp.,85.91,FALSE
+AMRS,"Amyris, Inc.",85.7,FALSE
+NEPT,Neptune Technologies & Bioresources Inc,85.65,FALSE
+SVBI,Severn Bancorp Inc,85.5,FALSE
+VCEL,Vericel Corporation,85.19,FALSE
+SNDE,Sundance Energy Australia Limited,84.96,FALSE
+GURE,"Gulf Resources, Inc.",84.93,FALSE
+FRSH,"Papa Murphy&#39;s Holdings, Inc.",84.93,FALSE
+WILC,"G. Willi-Food International,  Ltd.",84.74,FALSE
+AKTX,Akari Therapeutics Plc,84.44,FALSE
+CEMI,"Chembio Diagnostics, Inc.",83.94,FALSE
+KTEC,"Key Technology, Inc.",83.94,FALSE
+TRNS,"Transcat, Inc.",83.89,FALSE
+COVS,Covisint Corporation,83.78,FALSE
+FEIM,"Frequency Electronics, Inc.",83.63,FALSE
+IPAS,iPass Inc.,83.55,FALSE
+TRCH,"Torchlight Energy Resources, Inc.",83.51,FALSE
+PNTR,Pointer Telocation Ltd.,83.4,FALSE
+CYRN,CYREN Ltd.,83.27,FALSE
+HCAP,Harvest Capital Credit Corporation,83.22,FALSE
+IOTS,Adesto Technologies Corporation,83.15,FALSE
+SBFG,"SB Financial Group, Inc.",83.03,FALSE
+SNAK,"Inventure Foods, Inc.",82.89,FALSE
+MAYS,"J. W. Mays, Inc.",82.6,FALSE
+ICLN,iShares S&P Global Clean Energy Index Fund,82.46,FALSE
+PGLC,Pershing Gold Corporation,82.4,FALSE
+BLRX,BioLineRx Ltd.,82.33,FALSE
+SSFN,Stewardship Financial Corp,82.1,FALSE
+BIOL,"Biolase, Inc.",81.87,FALSE
+ATAI,ATA Inc.,81.85,FALSE
+CWBC,Community West Bancshares,81.84,FALSE
+PBBI,"PB Bancorp, Inc.",81.84,FALSE
+WBB,"Westbury Bancorp, Inc.",81.76,FALSE
+MATR,Mattersight Corporation,81.71,FALSE
+CYRX,"CryoPort, Inc.",81.52,FALSE
+HBIO,"Harvard Bioscience, Inc.",81.35,FALSE
+GPIC,Gaming Partners International Corporation,81.27,FALSE
+ARTX,Arotech Corporation,81.26,FALSE
+TLF,"Tandy Leather Factory, Inc.",81.16,FALSE
+LIFE,"aTyr Pharma, Inc.",80.94,FALSE
+BWEN,"Broadwind Energy, Inc.",80.6,FALSE
+PFI,PowerShares DWA Financial Momentum Portfolio,80.46,FALSE
+EDAP,EDAP TMS S.A.,80.44,FALSE
+KFFB,Kentucky First Federal Bancorp,80.22,FALSE
+NOVN,"Novan, Inc.",80.17,FALSE
+APPS,"Digital Turbine, Inc.",79.96,FALSE
+SPAN,"Span-America Medical Systems, Inc.",79.9,FALSE
+SVRA,"Savara, Inc.",79.71,FALSE
+AVEO,"AVEO Pharmaceuticals, Inc.",79.46,FALSE
+WHLR,"Wheeler Real Estate Investment Trust, Inc.",79.43,FALSE
+ZN,Zion Oil & Gas Inc,79.41,FALSE
+CYTR,CytRx Corporation,78.98,FALSE
+NVET,Nexvet Biopharma plc,78.89,FALSE
+LAKE,"Lakeland Industries, Inc.",78.45,FALSE
+CUI,"CUI Global, Inc.",78.4,FALSE
+UCBA,United Community Bancorp,78.19,FALSE
+IROQ,"IF Bancorp, Inc.",78.02,FALSE
+UTSI,UTStarcom Holdings Corp,78.02,FALSE
+RELL,"Richardson Electronics, Ltd.",77.99,FALSE
+NMRX,Numerex Corp.,77.96,FALSE
+SSBI,Summit State Bank,77.96,FALSE
+HMNF,"HMN Financial, Inc.",77.77,FALSE
+GEC,"Great Elm Capital Group, Inc. ",77.72,FALSE
+CVV,CVD Equipment Corporation,77.35,FALSE
+BCLI,Brainstorm Cell Therapeutics Inc.,77.19,FALSE
+CGIX,"Cancer Genetics, Inc.",77.07,FALSE
+PSL,PowerShares DWA Consumer Staples Momentum Portfolio,76.75,FALSE
+AAME,Atlantic American Corporation,76.55,FALSE
+MAMS,"MAM Software Group, Inc.",76.32,FALSE
+CRWS,"Crown Crafts, Inc.",75.75,FALSE
+IMMY,"Imprimis Pharmaceuticals, Inc.",75.65,FALSE
+LINC,Lincoln Educational Services Corporation,75.39,FALSE
+MTFB,Motif Bio plc,75.04,FALSE
+ICAD,icad inc.,75,FALSE
+SPHS,"Sophiris Bio, Inc.",74.98,FALSE
+TGEN,Tecogen Inc.,74.96,FALSE
+DRAD,Digirad Corporation,74.92,FALSE
+AQB,"AquaBounty Technologies, Inc.",74.72,FALSE
+ASRV,AmeriServ Financial Inc.,74.68,FALSE
+RGLS,Regulus Therapeutics Inc.,74.46,FALSE
+SFBC,"Sound Financial Bancorp, Inc.",74.37,FALSE
+OASM,Oasmia Pharmaceutical AB,74.33,FALSE
+CZWI,"Citizens Community Bancorp, Inc.",74.27,FALSE
+ASV,"ASV Holdings, Inc.",74.19,FALSE
+BYBK,"Bay Bancorp, Inc.",73.96,FALSE
+EGLT,Egalet Corporation,73.77,FALSE
+NTIC,Northern Technologies International Corporation,73.73,FALSE
+MGYR,"Magyar Bancorp, Inc.",73.61,FALSE
+PRCP,"Perceptron, Inc.",73.57,FALSE
+PAAC,Pacific Special Acquisition Corp.,73.48,FALSE
+NLST,"Netlist, Inc.",73.47,FALSE
+EBMT,"Eagle Bancorp Montana, Inc.",73.42,FALSE
+KTCC,Key Tronic Corporation,73.16,FALSE
+XENE,Xenon Pharmaceuticals Inc.,72.89,FALSE
+PFIE,"Profire Energy, Inc.",72.82,FALSE
+NTEC,Intec Pharma Ltd.,72.81,FALSE
+ISHG,iShares S&P/Citigroup 1-3 Year International Treasury Bond Fun,72.76,FALSE
+DVCR,Diversicare Healthcare Services Inc.,72.27,FALSE
+HGSH,"China HGS Real Estate, Inc.",71.74,FALSE
+PBSK,"Poage Bankshares, Inc.",71.71,FALSE
+SNES,"SenesTech, Inc.",71.41,FALSE
+LPTX,"LEAP THERAPEUTICS, INC.",71.01,FALSE
+NVIV,InVivo Therapeutics Holdings Corp.,70.74,FALSE
+EVLV,EVINE Live Inc.,70.72,FALSE
+MACQ,"M I Acquisitions, Inc.",70.66,FALSE
+BBRG,"Bravo Brio Restaurant Group, Inc.",70.49,FALSE
+GTXI,"GTx, Inc.",69.94,FALSE
+PFBX,Peoples Financial Corporation,69.93,FALSE
+SNSS,"Sunesis Pharmaceuticals, Inc.",69.75,FALSE
+UBOH,"United Bancshares, Inc.",69.75,FALSE
+SHOS,"Sears Hometown and Outlet Stores, Inc.",69.28,FALSE
+NAII,"Natural Alternatives International, Inc.",69.04,FALSE
+HPJ,Highpower International Inc,68.82,FALSE
+UG,"United-Guardian, Inc.",68.79,FALSE
+LPTH,"LightPath Technologies, Inc.",68.61,FALSE
+FNJN,"Finjan Holdings, Inc.",68.59,FALSE
+LPCN,Lipocine Inc.,68.59,FALSE
+SKIS,"Peak Resorts, Inc.",68.26,FALSE
+WYIGU,JM Global Holding Company,67.99,FALSE
+KALV,"KalVista Pharmaceuticals, Inc.",67.99,FALSE
+MARK,"Remark Holdings, Inc.",67.94,FALSE
+RMCF,"Rocky Mountain Chocolate Factory, Inc.",67.91,FALSE
+FBSS,"Fauquier Bankshares, Inc.",67.85,FALSE
+SMED,Sharps Compliance Corp,67.79,FALSE
+PATI,"Patriot Transportation Holding, Inc.",67.73,FALSE
+DRNA,"Dicerna Pharmaceuticals, Inc.",67.58,FALSE
+APEN,"Apollo Endosurgery, Inc.",67.4,FALSE
+INTG,The Intergroup Corporation,67.3,FALSE
+CXRX,Concordia International Corp.,66.92,FALSE
+TWMC,Trans World Entertainment Corp.,66.81,FALSE
+VIRC,Virco Manufacturing Corporation,66.79,FALSE
+EPIX,ESSA Pharma Inc.,66.63,FALSE
+ALDX,"Aldeyra Therapeutics, Inc.",66.58,FALSE
+WBKC,"Wolverine Bancorp, Inc.",66.49,FALSE
+WEBK,"Wellesley Bancorp, Inc.",66.47,FALSE
+CLIR,ClearSign Combustion Corporation,66.31,FALSE
+DXYN,"The Dixie Group, Inc.",66.12,FALSE
+NNDM,Nano Dimension Ltd.,66.05,FALSE
+FYT,First Trust Small Cap Value AlphaDEX Fund,66.04,FALSE
+BOTJ,"Bank of the James Financial Group, Inc.",65.68,FALSE
+GRVY,"GRAVITY Co., Ltd.",65.6,FALSE
+WYIG,JM Global Holding Company,65.49,FALSE
+PSCC,PowerShares S&P SmallCap Consumer Staples Portfolio,65.28,FALSE
+PBHC,"Pathfinder Bancorp, Inc.",65.18,FALSE
+RESN,Resonant Inc.,65.13,FALSE
+INVE,"Identiv, Inc.",65.05,FALSE
+ATOM,Atomera Incorporated,65,FALSE
+UBCP,"United Bancorp, Inc.",64.83,FALSE
+NICK,"Nicholas Financial, Inc.",64.72,FALSE
+MCEP,"Mid-Con Energy Partners, LP",64.68,FALSE
+EVEP,"EV Energy Partners, L.P.",64.67,FALSE
+FUSB,"First US Bancshares, Inc.",64.61,FALSE
+SYMX,"Synthesis Energy Systems, Inc.",64.61,FALSE
+MFIN,Medallion Financial Corp.,64.58,FALSE
+NEON,Neonode Inc.,64.47,FALSE
+EVOL,"Evolving Systems, Inc.",64.24,FALSE
+EYES,"Second Sight Medical Products, Inc.",63.69,FALSE
+PBIB,"Porter Bancorp, Inc.",63.41,FALSE
+MTP,Midatech Pharma PLC,62.82,FALSE
+ANCB,Anchor Bancorp,62.74,FALSE
+LFVN,Lifevantage Corporation,62.48,FALSE
+CCUR,Concurrent Computer Corporation,62.47,FALSE
+LINK,"Interlink Electronics, Inc.",62.35,FALSE
+SRRA,"Sierra Oncology, Inc.",62.2,FALSE
+INSG,Inseego Corp.,62.13,FALSE
+ISSC,"Innovative Solutions and Support, Inc.",62.1,FALSE
+SVVC,"Firsthand Technology Value Fund, Inc.",61.9,FALSE
+KEQU,Kewaunee Scientific Corporation,61.83,FALSE
+PNBK,Patriot National Bancorp Inc.,61.77,FALSE
+ADRD,BLDRS Developed Markets 100 ADR Index Fund,61.35,FALSE
+CATS,"Catasys, Inc.",61.28,FALSE
+EMCF,Emclaire Financial Corp,61.26,FALSE
+RCMT,"RCM Technologies, Inc.",61.25,FALSE
+RVEN,"Reven Housing REIT, Inc.",61.19,FALSE
+PSCD,PowerShares S&P SmallCap Consumer Discretionary Portfolio,61.18,FALSE
+ENPH,"Enphase Energy, Inc.",61,FALSE
+TACT,TransAct Technologies Incorporated,60.99,FALSE
+COOL,"PolarityTE, Inc.",60.5,FALSE
+BSQR,BSQUARE Corporation,60.33,FALSE
+HMTA,HomeTown Bankshares Corporation,60.27,FALSE
+GLMD,Galmed Pharmaceuticals Ltd.,59.99,FALSE
+IPCI,Intellipharmaceutics International Inc.,59.87,FALSE
+FLKS,"Flex Pharma, Inc.",59.84,FALSE
+KMPH,"KemPharm, Inc.",59.32,FALSE
+MEIP,"MEI Pharma, Inc.",59.2,FALSE
+MRVC,"MRV Communications, Inc.",59.17,FALSE
+VRIG,PowerShares Variable Rate Investment Grade Portfolio,59.15,FALSE
+CASI,"CASI Pharmaceuticals, Inc.",58.99,FALSE
+AMSC,American Superconductor Corporation,58.87,FALSE
+PTH,PowerShares DWA Healthcare Momentum Portfolio,58.73,FALSE
+CNFR,"Conifer Holdings, Inc.",58.62,FALSE
+EIGR,"Eiger BioPharmaceuticals, Inc.",58.57,FALSE
+FNK,First Trust Mid Cap Value AlphaDEX Fund,58.36,FALSE
+DAIO,Data I/O Corporation,58.11,FALSE
+GWGH,"GWG Holdings, Inc",57.91,FALSE
+HYZD,WisdomTree Interest Rate Hedged High Yield Bond Fund,57.91,FALSE
+CHNR,"China Natural Resources, Inc.",57.79,FALSE
+PPIH,"Perma-Pipe International Holdings, Inc.",57.7,FALSE
+PPSI,"Pioneer Power Solutions, Inc.",57.5,FALSE
+TUTT,Tuttle Tactical Management U.S. Core ETF,57.49,FALSE
+NAUH,"National American University Holdings, Inc.",57.17,FALSE
+PSCU,PowerShares S&P SmallCap Utilities Portfolio,57.14,FALSE
+QCLN,First Trust NASDAQ Clean Edge Green Energy Index Fund,56.98,FALSE
+FJP,First Trust Japan AlphaDEX Fund,56.85,FALSE
+LGCYO,Legacy Reserves LP,56.56,FALSE
+NGHCP,National General Holdings Corp,56.54,FALSE
+ARCW,"ARC Group Worldwide, Inc.",56.33,FALSE
+NTRP,"Neurotrope, Inc.",56.25,FALSE
+GLADO,Gladstone Capital Corporation,56.2,FALSE
+SMRT,"Stein Mart, Inc.",56.15,FALSE
+HFBL,"Home Federal Bancorp, Inc. of Louisiana",56.13,FALSE
+PSCM,PowerShares S&P SmallCap Materials Portfolio,55.91,FALSE
+LRAD,LRAD Corporation,55.65,FALSE
+OTIV,On Track Innovations Ltd,55.48,FALSE
+DLHC,DLH Holdings Corp.,55.47,FALSE
+TANH,Tantech Holdings Ltd.,55.43,FALSE
+FCEL,"FuelCell Energy, Inc.",55.38,FALSE
+EWZS,iShares MSCI Brazil Small-Cap ETF,55.29,FALSE
+ESBK,Elmira Savings Bank NY (The),54.71,FALSE
+HEBT,"Hebron Technology Co., Ltd.",54.51,FALSE
+BIS,ProShares UltraShort Nasdaq Biotechnology,54.41,FALSE
+JXSB,Jacksonville Bancorp Inc.,54.19,FALSE
+ESGE,iShares MSCI EM ESG Optimized ETF,54.15,FALSE
+BYFC,Broadway Financial Corporation,54.08,FALSE
+ANDA,Andina Acquisition Corp. II,54,FALSE
+OIIM,O2Micro International Limited,53.62,FALSE
+FLL,"Full House Resorts, Inc.",53.5,FALSE
+ZSAN,Zosano Pharma Corporation,53.39,FALSE
+JYNT,The Joint Corp.,53.38,FALSE
+NIHD,"NII Holdings, Inc.",53.3,FALSE
+JSYN,Jensyn Acquistion Corp.,53.14,FALSE
+IIN,IntriCon Corporation,53.04,FALSE
+PULM,"Pulmatrix, Inc.",52.6,FALSE
+STKS,"The ONE Group Hospitality, Inc.",52.54,FALSE
+ICCH,"ICC Holdings, Inc.",52.45,FALSE
+CFRX,ContraFect Corporation,52.07,FALSE
+UNAM,Unico American Corporation,51.74,FALSE
+HBK,"Hamilton Bancorp, Inc.",51.67,FALSE
+CUR,"Neuralstem, Inc.",51.64,FALSE
+MTGEP,MTGE Investment Corp.,51.51,FALSE
+TCON,"TRACON Pharmaceuticals, Inc.",51.49,FALSE
+DEST,Destination Maternity Corporation,51.47,FALSE
+BLPH,"Bellerophon Therapeutics, Inc.",51.45,FALSE
+SRTS,"Sensus Healthcare, Inc.",51.4,FALSE
+USAK,"USA Truck, Inc.",51.4,FALSE
+TURN,180 Degree Capital Corp.,51.04,FALSE
+PBMD,Prima BioMed Ltd,51,FALSE
+CTRV,ContraVir Pharmaceuticals Inc,50.87,FALSE
+FIXD,First Trust TCW Opportunistic Fixed Income ETF,50.84,FALSE
+CDTI,"Clean Diesel Technologies, Inc.",50.72,FALSE
+APOP,Cellect Biotechnology Ltd.,50.56,FALSE
+JRJC,China Finance Online Co. Limited,50.43,FALSE
+TTNP,"Titan Pharmaceuticals, Inc.",50.36,FALSE
+EMCB,WisdomTree Emerging Markets Corporate Bond Fund,50.22,FALSE
+DGRE,WisdomTree Emerging Markets Quality Dividend Growth Fund,49.94,FALSE
+PAVM,PAVmed Inc.,49.33,FALSE
+WAYN,Wayne Savings Bancshares Inc.,49.24,FALSE
+NTWK,NetSol Technologies Inc.,48.98,FALSE
+BHAC,Barington/Hilco Acquisition Corp.,48.64,FALSE
+XOMA,XOMA Corporation,48.62,FALSE
+MNDO,MIND C.T.I. Ltd.,48.61,FALSE
+FORK,Fuling Global Inc.,48.35,FALSE
+ADMA,ADMA Biologics Inc,48.2,FALSE
+POLA,"Polar Power, Inc.",47.98,FALSE
+MIND,"Mitcham Industries, Inc.",47.88,FALSE
+GNMX,"Aevi Genomic Medicine, Inc.",47.87,FALSE
+OREX,"Orexigen Therapeutics, Inc.",47.82,FALSE
+GTWN,"Georgetown Bancorp, Inc.",47.7,FALSE
+EEI,"Ecology and Environment, Inc.",47.66,FALSE
+CCCR,"China Commercial Credit, Inc.",47.56,FALSE
+LENS,Presbia PLC,47.43,FALSE
+DTYS,iPath US Treasury 10-year Bear ETN,47.29,FALSE
+ITEK,Inotek Pharmaceuticals Corporation,47.23,FALSE
+FTHI,First Trust High Income ETF,47.04,FALSE
+OBAS,Optibase Ltd.,46.93,FALSE
+EMIF,iShares S&P Emerging Markets Infrastructure Index Fund,46.86,FALSE
+OTTW,"Ottawa Bancorp, Inc.",46.81,FALSE
+CPHC,Canterbury Park Holding Corporation,46.78,FALSE
+OVAS,OvaScience Inc.,46.72,FALSE
+MXPT,"MaxPoint Interactive, Inc.",46.62,FALSE
+RFEU,First Trust RiverFront Dynamic Europe ETF,46.43,FALSE
+TRIL,Trillium Therapeutics Inc.,46.29,FALSE
+RTNB,"root9B Holdings, Inc. ",45.81,FALSE
+PTX,"Pernix Therapeutics Holdings, Inc.",45.77,FALSE
+SPRT,"support.com, Inc.",45.37,FALSE
+ASFI,"Asta Funding, Inc.",45.28,FALSE
+TNDM,"Tandem Diabetes Care, Inc.",45.13,FALSE
+JNP,"Juniper Pharmaceuticals, Inc.",45,FALSE
+BPTH,"Bio-Path Holdings, Inc.",44.95,FALSE
+TAYD,"Taylor Devices, Inc.",44.68,FALSE
+PSCE,PowerShares S&P SmallCap Energy Portfolio,44.65,FALSE
+BCTF,"Bancorp 34, Inc.",44.63,FALSE
+HSON,"Hudson Global, Inc.",44.49,FALSE
+PIH,"1347 Property Insurance Holdings, Inc.",44.23,FALSE
+APVO,Aptevo Therapeutics Inc.,44.1,FALSE
+CLBS,"Caladrius Biosciences, Inc.",43.9,FALSE
+CJJD,"China Jo-Jo Drugstores, Inc.",43.87,FALSE
+MELR,"Melrose Bancorp, Inc.",43.85,FALSE
+LOAN,"Manhattan Bridge Capital, Inc",43.12,FALSE
+IMI,"Intermolecular, Inc.",43.08,FALSE
+CUBA,"The Herzfeld Caribbean Basin Fund, Inc.",42.94,FALSE
+VBFC,Village Bank and Trust Financial Corp.,42.82,FALSE
+PESI,"Perma-Fix Environmental Services, Inc.",42.7,FALSE
+HUNT,Hunter Maritime Acquisition Corp.,42.69,FALSE
+CSPI,CSP Inc.,42.68,FALSE
+UAE,iShares MSCI UAE Capped ETF,42.61,FALSE
+PRSS,CafePress Inc.,42.55,FALSE
+KONA,"Kona Grill, Inc.",42.41,FALSE
+DTRM,"Determine, Inc. ",42.12,FALSE
+LTEA,Long Island Iced Tea Corp.,42.08,FALSE
+EGAN,eGain Corporation,42.01,FALSE
+LUNA,Luna Innovations Incorporated,41.98,FALSE
+CZFC,Citizens First Corporation,41.89,FALSE
+GTIM,Good Times Restaurants Inc.,41.81,FALSE
+FPA,First Trust Asia Pacific Ex-Japan AlphaDEX Fund,41.61,FALSE
+XELB,"Xcel Brands, Inc",41.51,FALSE
+INOD,Innodata Inc.,41.4,FALSE
+LTRX,"Lantronix, Inc.",41.33,FALSE
+SCYX,"SCYNEXIS, Inc.",41.28,FALSE
+IFEU,iShares FTSE EPRA/NAREIT Europe Index Fund,41.22,FALSE
+QAT,iShares MSCI Qatar Capped ETF,41.01,FALSE
+SNMX,"Senomyx, Inc.",40.86,FALSE
+SAEX,"SAExploration Holdings, Inc.",40.8,FALSE
+SKOR,FlexShares Credit-Scored US Corporate Bond Index Fund,40.7,FALSE
+QRHC,Quest Resource Holding Corporation.,40.66,FALSE
+DWFI,SPDR Dorsey Wright Fixed Income Allocation ETF,40.62,FALSE
+EVOK,"Evoke Pharma, Inc.",40.47,FALSE
+MBII,"Marrone Bio Innovations, Inc.",40.44,FALSE
+WSTL,"Westell Technologies, Inc.",40.3,FALSE
+WVVI,"Willamette Valley Vineyards, Inc.",40.01,FALSE
+EKSO,"Ekso Bionics Holdings, Inc.",39.99,FALSE
+OBCI,"Ocean Bio-Chem, Inc.",39.91,FALSE
+EMMS,Emmis Communications Corporation,39.84,FALSE
+AIRT,"Air T, Inc.",39.83,FALSE
+HEAR,Turtle Beach Corporation,39.72,FALSE
+SPCB,"SuperCom, Ltd.",39.65,FALSE
+EVK,"Ever-Glory International Group, Inc.",39.2,FALSE
+AAPC,Atlantic Alliance Partnership Corp.,39.12,FALSE
+OESX,"Orion Energy Systems, Inc.",39.06,FALSE
+CNIT,"China Information Technology, Inc.",39.02,FALSE
+CBLI,"Cleveland BioLabs, Inc.",38.46,FALSE
+NSEC,"National Security Group, Inc.",38.46,FALSE
+BUR,Burcon NutraScience Corp,38.21,FALSE
+SEED,Origin Agritech Limited,38,FALSE
+FEMB,First Trust Emerging Markets Local Currency Bond ETF,37.98,FALSE
+BIOC,"Biocept, Inc.",37.77,FALSE
+FCSC,Fibrocell Science Inc,37.77,FALSE
+ATLC,Atlanticus Holdings Corporation,37.68,FALSE
+MTEX,"Mannatech, Incorporated",37.68,FALSE
+SELF,"Global Self Storage, Inc.",37.64,FALSE
+CETX,Cemtrex Inc.,37.57,FALSE
+PSAU,PowerShares Global Gold & Precious Metals Portfolio,37.53,FALSE
+MGCD,MGC Diagnostics Corporation,37.51,FALSE
+NVFY,"Nova Lifestyle, Inc",37.49,FALSE
+JCS,"Communications Systems, Inc.",37.47,FALSE
+HTGM,"HTG Molecular Diagnostics, Inc.",37.34,FALSE
+APWC,Asia Pacific Wire & Cable Corporation Limited,37.31,FALSE
+EFOI,"Energy Focus, Inc.",37.22,FALSE
+URRE,"Uranium Resources, Inc.",37.02,FALSE
+APDN,Applied DNA Sciences Inc,36.89,FALSE
+OHRP,"Ohr Pharmaceuticals, Inc.",36.81,FALSE
+BBP,BioShares Biotechnology Products Fund,36.74,FALSE
+WHLM,"Wilhelmina International, Inc.",36.74,FALSE
+NVLS,"Nivalis Therapeutics, Inc.",36.32,FALSE
+EBIO,"Eleven Biotherapeutics, Inc.",36.31,FALSE
+PRKR,"ParkerVision, Inc.",36.28,FALSE
+JASN,"Jason Industries, Inc.",36.03,FALSE
+MBSD,FlexShares Disciplined Duration MBS Index Fund,35.99,FALSE
+UBIO,Proshares UltraPro Nasdaq Biotechnology,35.95,FALSE
+ENG,ENGlobal Corporation,35.82,FALSE
+EQFN,Equitable Financial Corp.,35.52,FALSE
+CHMA,"Chiasma, Inc.",35.32,FALSE
+HOVNP,Hovnanian Enterprises Inc,35.18,FALSE
+DGLT,"Digiliti Money Group, Inc.",35.16,FALSE
+HSGX,Histogenics Corporation,35.14,FALSE
+CFBK,Central Federal Corporation,35.05,FALSE
+OACQ,Origo Acquisition Corporation,34.88,FALSE
+THLD,"Threshold Pharmaceuticals, Inc.",34.88,FALSE
+DWAQ,PowerShares DWA NASDAQ Momentum Portfolio,34.65,FALSE
+IPDN,"Professional Diversity Network, Inc.",34.62,FALSE
+NHLD,National Holdings Corporation,34.33,FALSE
+BVXV,BiondVax Pharmaceuticals Ltd.,34.26,FALSE
+FCVT,First Trust SSI Strategic Convertible Securities ETF,34,FALSE
+OXBR,Oxbridge Re Holdings Limited,33.85,FALSE
+AZRX,"AzurRx BioPharma, Inc.",33.71,FALSE
+FSNN,"Fusion Telecommunications International, Inc.",33.62,FALSE
+TVIA,"TerraVia Holdings, Inc.",33.57,FALSE
+VLRX,"Valeritas Holdings, Inc.",33.53,FALSE
+SUNW,"Sunworks, Inc.",33.21,FALSE
+TST,"TheStreet, Inc.",33.16,FALSE
+ONS,"Oncobiologics, Inc.",33.01,FALSE
+GLBZ,Glen Burnie Bancorp,32.79,FALSE
+SHSP,"SharpSpring, Inc.",32.78,FALSE
+PRPH,"ProPhase Labs, Inc.",32.77,FALSE
+GIGM,GigaMedia Limited,32.6,FALSE
+FHCO,Female Health Company (The),32.44,FALSE
+SUMR,"Summer Infant, Inc.",32.42,FALSE
+TNXP,Tonix Pharmaceuticals Holding Corp.,32.41,FALSE
+CHEK,Check-Cap Ltd.,32.35,FALSE
+CART,"Carolina Trust BancShares, Inc.",32.31,FALSE
+FH,FORM Holdings Corp.,32.28,FALSE
+EGT,Entertainment Gaming Asia Incorporated,32.26,FALSE
+DMPI,"DelMar Pharmaceuticals, Inc.",32.17,FALSE
+VTNR,"Vertex Energy, Inc",32.15,FALSE
+ADHD,Alcobra Ltd.,32.11,FALSE
+BEBE,"bebe stores, inc.",32.11,FALSE
+IPWR,Ideal Power Inc.,31.91,FALSE
+NEOT,"Neothetics, Inc.",31.67,FALSE
+SYPR,"Sypris Solutions, Inc.",31.67,FALSE
+EDUC,Educational Development Corporation,31.64,FALSE
+ETRM,EnteroMedics Inc.,31.43,FALSE
+ONVI,"Onvia, Inc.",31.38,FALSE
+OMEX,"Odyssey Marine Exploration, Inc.",31.37,FALSE
+JTPY,JetPay Corporation,31.18,FALSE
+HVBC,"HV Bancorp, Inc.",31.1,FALSE
+RMGN,RMG Networks Holding Corporation,31.1,FALSE
+WVFC,WVS Financial Corp.,31.1,FALSE
+DSWL,"Deswell Industries, Inc.",30.99,FALSE
+GYRO,"Gyrodyne , LLC",30.88,FALSE
+CYTX,Cytori Therapeutics Inc,30.85,FALSE
+RKDA,"Arcadia Biosciences, Inc.",30.84,FALSE
+OCRX,"Ocera Therapeutics, Inc.",30.49,FALSE
+OHAI,OHA Investment Corporation,30.26,FALSE
+ELON,Echelon Corporation,30.21,FALSE
+VKTX,"Viking Therapeutics, Inc.",30.15,FALSE
+CATB,"Catabasis Pharmaceuticals, Inc.",30.11,FALSE
+ZAIS,"ZAIS Group Holdings, Inc.",30.1,FALSE
+CFO,VictoryShares US 500 Enhanced Volatility Wtd ETF,30.02,FALSE
+KOOL,Cesca Therapeutics Inc.,29.91,FALSE
+TPIV,TapImmune Inc.,29.9,FALSE
+DFFN,Diffusion Pharmaceuticals Inc.,29.81,FALSE
+GOODO,Gladstone Commercial Corporation,29.4,FALSE
+GLBS,Globus Maritime Limited,29.29,FALSE
+ICCC,ImmuCell Corporation,29.14,FALSE
+EARS,Auris Medical Holding AG,29.04,FALSE
+EMITF,Elbit Imaging Ltd.,29.01,FALSE
+FSBC,"FSB Bancorp, Inc.",28.98,FALSE
+SNOA,"Sonoma Pharmaceuticals, Inc.",28.97,FALSE
+DMTX,"Dimension Therapeutics, Inc.",28.8,FALSE
+OXLCN,Oxford Lane Capital Corp.,28.8,FALSE
+SINO,"Sino-Global Shipping America, Ltd.",28.6,FALSE
+BLFS,"BioLife Solutions, Inc.",28.42,FALSE
+TORM          ,TOR Minerals International Inc,28.33,FALSE
+FKU,First Trust United Kingdom AlphaDEX Fund,28.27,FALSE
+XBIO,"Xenetic Biosciences, Inc.",28.27,FALSE
+MIRN,"Mirna Therapeutics, Inc.",28.16,FALSE
+PTIE,"Pain Therapeutics, Inc.",28.15,FALSE
+BANFP,BancFirst Corporation,27.76,FALSE
+JVA,"Coffee Holding Co., Inc.",27.7,FALSE
+CSBR,"Champions Oncology, Inc.",27.67,FALSE
+CDC,VictoryShares US EQ Income Enhanced Volatility Wtd ETF,27.64,FALSE
+CCIH,ChinaCache International Holdings Ltd.,27.5,FALSE
+SAJA,"Sajan, Inc.",27.48,FALSE
+CASM,"CAS Medical Systems, Inc.",27.39,FALSE
+SMCP,AlphaMark Actively Managed Small Cap ETF,26.98,FALSE
+DAVE,"Famous Dave&#39;s of America, Inc.",26.79,FALSE
+FCEF,First Trust CEF Income Opportunity ETF,26.78,FALSE
+WCFB,"WCF Bancorp, Inc.",26.51,FALSE
+CBAK,"CBAK Energy Technology, Inc.",26.46,FALSE
+REFR,Research Frontiers Incorporated,26.45,FALSE
+PEZ,PowerShares DWA Consumer Cyclicals Momentum Portfolio,26.27,FALSE
+JCTCF,Jewett-Cameron Trading Company,26.18,FALSE
+QUMU,Qumu Corporation,26.18,FALSE
+DFBG,Differential Brands Group Inc.,26,FALSE
+SHIP,Seanergy Maritime Holdings Corp,25.89,FALSE
+GOODP,Gladstone Commercial Corporation,25.83,FALSE
+MRNS,"Marinus Pharmaceuticals, Inc.",25.78,FALSE
+QINC,First Trust RBA Quality Income ETF,25.73,FALSE
+SPI,"SPI Energy Co., Ltd.",25.56,FALSE
+DRIO,DarioHealth Corp.,25.36,FALSE
+SGMA,"SigmaTron International, Inc.",25.33,FALSE
+EMCG,WisdomTree Emerging Markets Consumer Growth Fund,25.25,FALSE
+LDRI,PowerShares LadderRite 0-5 Year Corporate Bond Portfolio,24.97,FALSE
+VICL,Vical Incorporated,24.97,FALSE
+RFEM,First Trust RiverFront Dynamic Emerging Markets ETF,24.87,FALSE
+QLC,FlexShares US Quality Large Cap Index Fund,24.81,FALSE
+TROV,"TrovaGene, Inc.",24.78,FALSE
+IMNP          ,Immune Pharmaceuticals Inc.,24.64,FALSE
+STRM,"Streamline Health Solutions, Inc.",24.62,FALSE
+RBCN,"Rubicon Technology, Inc.",24.5,FALSE
+BBC,BioShares Biotechnology Clinical Trials Fund,24.42,FALSE
+PXS,Pyxis Tankers Inc.,24.31,FALSE
+MRDN,"Meridian Waste Solutions, Inc",24.25,FALSE
+HTBX,"Heat Biologics, Inc.",24.15,FALSE
+AGZD,WisdomTree Barclays Interest Rate Hedged U.S. Aggregate Bond F,24.06,FALSE
+RADA,RADA Electronic Industries Ltd.,23.96,FALSE
+AMTX,"Aemetis, Inc",23.83,FALSE
+CNTF,China TechFaith Wireless Communication Technology Limited,23.82,FALSE
+NAKD,Naked Brand Group Inc.,23.67,FALSE
+SCKT,"Socket Mobile, Inc.",23.33,FALSE
+MDVX,Medovex Corp.,23.16,FALSE
+CLRB,"Cellectar Biosciences, Inc.",23.15,FALSE
+CDNA,"CareDx, Inc.",23.1,FALSE
+CPST,Capstone Turbine Corporation,23.04,FALSE
+TRPX,Therapix Biosciences Ltd.,23,FALSE
+UNXL,"Uni-Pixel, Inc.",22.9,FALSE
+PDEX,"Pro-Dex, Inc.",22.68,FALSE
+ABIO,"ARCA biopharma, Inc.",22.64,FALSE
+PRTO,"Proteon Therapeutics, Inc.",22.64,FALSE
+NCTY,The9 Limited,22.62,FALSE
+VALX,Validea Market Legends ETF,22.6,FALSE
+OTEL,Otelco Inc.,22.59,FALSE
+PAGG,PowerShares Global Agriculture Portfolio,22.48,FALSE
+TISA,"Top Image Systems, Ltd.",22.42,FALSE
+LIVE,Live Ventures Incorporated,22.41,FALSE
+BMRA,"Biomerica, Inc.",22.38,FALSE
+ATEC,"Alphatec Holdings, Inc.",22.37,FALSE
+PFIN,"P & F Industries, Inc.",22.31,FALSE
+CYAN,Cyanotech Corporation,22.11,FALSE
+CSF,VictoryShares US Discovery Enhanced Volatility Wtd ETF,22.05,FALSE
+ASTC,Astrotech Corporation,22.01,FALSE
+GROW,"U.S. Global Investors, Inc.",21.87,FALSE
+MTBC,"Medical Transcription Billing, Corp.",21.83,FALSE
+CTIB,CTI Industries Corporation,21.79,FALSE
+GNUS,"Genius Brands International, Inc.",21.79,FALSE
+FTXL,First Trust Nasdaq Semiconductor ETF,21.77,FALSE
+DGLY,"Digital Ally, Inc.",21.58,FALSE
+MPCT,iShares MSCI Global Impact ETF,21.54,FALSE
+RAVE,"Rave Restaurant Group, Inc.",21.53,FALSE
+TUTI,Tuttle Tactical Management Multi-Strategy Income ETF,21.45,FALSE
+XRDC,"Crossroads Capital, Inc.",21.42,FALSE
+ADRA,BLDRS Asia 50 ADR Index Fund,21.3,FALSE
+GRID,First Trust NASDAQ Clean Edge Smart Grid Infrastructure Index ,21.2,FALSE
+BVSN,"BroadVision, Inc.",21.1,FALSE
+DYSL,Dynasil Corporation of America,21.03,FALSE
+GALE,"Galena Biopharma, Inc.",20.98,FALSE
+FPAY,"FlexShopper, Inc.",20.89,FALSE
+XPLR,Xplore Technologies Corp,20.74,FALSE
+CYCC,"Cyclacel Pharmaceuticals, Inc.",20.72,FALSE
+OPGN,"OpGen, Inc.",20.69,FALSE
+BNTC,Benitec Biopharma Limited,20.66,FALSE
+FTEK,"Fuel Tech, Inc.",20.66,FALSE
+CAPR,"Capricor Therapeutics, Inc.",20.65,FALSE
+IDXG,"Interpace Diagnostics Group, Inc.",20.65,FALSE
+OCC,Optical Cable Corporation,20.62,FALSE
+MYSZ,"My Size, Inc.",20.42,FALSE
+QQQC,Global X NASDAQ China Technology ETF,20.27,FALSE
+APTO,"Aptose Biosciences, Inc.",20.08,FALSE
+LLIT,Lianluo Smart Limited,20.08,FALSE
+DELT,Delta Technology Holdings Limited,20.01,FALSE
+RWLK,ReWalk Robotics Ltd,20.01,FALSE
+PRAN,Prana Biotechnology Ltd,19.93,FALSE
+EYEG,"Eyegate Pharmaceuticals, Inc.",19.8,FALSE
+SMTX,SMTC Corporation,19.74,FALSE
+ONCS,OncoSec Medical Incorporated,19.62,FALSE
+AVIR,"Aviragen Therapeutics, Inc.",19.6,FALSE
+ONTX,"Onconova Therapeutics, Inc.",19.54,FALSE
+FNCX,Function(x) Inc.,19.43,FALSE
+DZSI,"DASAN Zhone Solutions, Inc.",19.42,FALSE
+CTHR,Charles & Colvard Ltd,19.25,FALSE
+SCON,Superconductor Technologies Inc.,19.2,FALSE
+DLBS,iPath US Treasury Long Bond Bear ETN,19.19,FALSE
+XGTI,"XG Technology, Inc",19.18,FALSE
+QYLD,Horizons NASDAQ-100 Covered Call ETF,18.95,FALSE
+ORIG,Ocean Rig UDW Inc.,18.95,FALSE
+CIDM,Cinedigm Corp,18.82,FALSE
+DGLD,VelocityShares 3x Inverse Gold ETN linked to S&P GSCI Gold Ind,18.67,FALSE
+LTBR,Lightbridge Corporation,18.63,FALSE
+SGRP,"SPAR Group, Inc.",18.59,FALSE
+CNXR,"Connecture, Inc.",18.55,FALSE
+ALQA,"Alliqua BioMedical, Inc.",18.39,FALSE
+DXPS,WisdomTree United Kingdom Hedged Equity Fund,18.37,FALSE
+RAND,Rand Capital Corporation,18.33,FALSE
+ARDM,Aradigm Corporation,18.29,FALSE
+CARZ,First Trust NASDAQ Global Auto Index Fund,18.27,FALSE
+SOFO,"Sonic Foundry, Inc.",18.25,FALSE
+ACST,"Acasti Pharma, Inc.",18.24,FALSE
+PERF,"Perfumania Holdings, Inc",18.13,FALSE
+AEMD,"Aethlon Medical, Inc.",18.12,FALSE
+ESES,"Eco-Stim Energy Solutions, Inc.",18.03,FALSE
+GENE,Genetic Technologies Ltd,18.02,FALSE
+ISNS,"Image Sensing Systems, Inc.",17.99,FALSE
+SSNT,"SilverSun Technologies, Inc.",17.87,FALSE
+BIOP,"Bioptix, Inc",17.8,FALSE
+ANY,Sphere 3D Corp.,17.8,FALSE
+DAX,Horizons DAX Germany ETF,17.55,FALSE
+AEY,"ADDvantage Technologies Group, Inc.",17.53,FALSE
+GULF,WisdomTree Middle East Dividend Fund,17.5,FALSE
+AGND,WisdomTree Barclays Negative Duration U.S. Aggregate Bond Fund,17.34,FALSE
+OPTT,"Ocean Power Technologies, Inc.",17.32,FALSE
+NVGN,Novogen Limited,17.2,FALSE
+ARGS,"Argos Therapeutics, Inc.",17.09,FALSE
+PYDS,"Payment Data Systems, Inc.",16.94,FALSE
+CBIO,"Catalyst Biosciences, Inc. ",16.91,FALSE
+HYND,WisdomTree Negative Duration High Yield Bond Fund,16.8,FALSE
+ABIL,Ability Inc.,16.74,FALSE
+LGCYP,Legacy Reserves LP,16.64,FALSE
+ABAC,"Aoxin Tianli Group, Inc.",16.59,FALSE
+CBMX,CombiMatrix Corporation,16.59,FALSE
+VTGN,"VistaGen Therapeutics, Inc.",16.48,FALSE
+CNET,"ChinaNet Online Holdings, Inc.",16.31,FALSE
+GNVC,"GenVec, Inc.",16.31,FALSE
+IKNX,Ikonics Corporation,16.31,FALSE
+TAPR,Barclays Inverse US Treasury Composite ETN,16.2,FALSE
+STLY,"Stanley Furniture Company, Inc.",16.14,FALSE
+PPHMP,Peregrine Pharmaceuticals Inc.,15.62,FALSE
+IZEA,IZEA Inc.,15.56,FALSE
+WHLRP,"Wheeler Real Estate Investment Trust, Inc.",15.36,FALSE
+FENX,"Fenix Parts, Inc.",15.31,FALSE
+CPSH,CPS Technologies Corp.,15.18,FALSE
+ROKA,"Roka Bioscience, Inc.",15.12,FALSE
+FLAG,WeatherStorm Forensic Accounting Long Short ETF,15.11,FALSE
+LMFA,"LM Funding America, Inc.",14.88,FALSE
+RPRX,Repros Therapeutics Inc.,14.84,FALSE
+CMLS,Cumulus Media Inc.,14.65,FALSE
+FONE,First Trust NASDAQ Smartphone Index Fund,14.62,FALSE
+BONT,"The Bon-Ton Stores, Inc.",14.59,FALSE
+FMK,First Trust Mega Cap AlphaDEX Fund,14.46,FALSE
+NXTD,NXT-ID Inc.,14.44,FALSE
+AETI,"American Electric Technologies, Inc.",14.43,FALSE
+ESEA,Euroseas Ltd.,14.42,FALSE
+VIIX,VelocityShares VIX Short Term ETN,14.42,FALSE
+HMNY,Helios and Matheson Analytics Inc,14.33,FALSE
+ADRU,BLDRS Europe 100 ADR Index Fund,14.31,FALSE
+OSN,"Ossen Innovation Co., Ltd.",14.25,FALSE
+SGOC,"SGOCO Group, Ltd",14.18,FALSE
+CLSN,Celsion Corporation,14.17,FALSE
+RELV,"Reliv&#39; International, Inc.",14.17,FALSE
+KTOV,Kitov Pharmaceuticals Holdings Ltd.,14.15,FALSE
+RLJE,"RLJ Entertainment, Inc.",14,FALSE
+EVAR,"Lombard Medical, Inc.",13.97,FALSE
+TENX,"Tenax Therapeutics, Inc.",13.94,FALSE
+RFAP,First Trust RiverFront Dynamic Asia Pacific ETF,13.87,FALSE
+GEVO,"Gevo, Inc.",13.84,FALSE
+SNGX,"Soligenix, Inc.",13.84,FALSE
+TIL,Till Capital Ltd.,13.74,FALSE
+MBRX,"Moleculin Biotech, Inc.",13.61,FALSE
+NETE,"Net Element, Inc.",13.57,FALSE
+AMDA,Amedica Corporation,13.56,FALSE
+SPU,"SkyPeople Fruit Juice, Inc.",13.45,FALSE
+SMSI,"Smith Micro Software, Inc.",13.35,FALSE
+MYOS,MYOS RENS Technology Inc.,13.33,FALSE
+AKER,Akers Biosciences Inc,13.28,FALSE
+ELSE,"Electro-Sensors, Inc.",13.28,FALSE
+BASI,"Bioanalytical Systems, Inc.",13.27,FALSE
+APRI,"Apricus Biosciences, Inc.",13.15,FALSE
+HIHO,Highway Holdings Limited,13.12,FALSE
+ARTW,"Art&#39;s-Way Manufacturing Co., Inc.",13.09,FALSE
+CREG,China Recycling Energy Corporation,13.05,FALSE
+BNSO,"Bonso Electronics International, Inc.",13.04,FALSE
+LKOR,FlexShares Credit-Scored US Long Corporate Bond Index Fund,13.04,FALSE
+RFIL,"RF Industries, Ltd.",12.99,FALSE
+PZRX,"PhaseRx, Inc.",12.98,FALSE
+CARV,"Carver Bancorp, Inc.",12.97,FALSE
+SBOT,"Stellar Biotechnologies, Inc.",12.87,FALSE
+XTLB,XTL Biopharmaceuticals Ltd.,12.86,FALSE
+KOSS,Koss Corporation,12.85,FALSE
+SRAX,"Social Reality, Inc.",12.84,FALSE
+RXII,RXi Pharmaceuticals Corporation,12.51,FALSE
+LINU,LiNiu Technology Group,12.36,FALSE
+AEZS,AEterna Zentaris Inc.,12.33,FALSE
+MCEF,First Trust Municipal CEF Income Opportunity ETF,12.27,FALSE
+CERU,Cerulean Pharma Inc.,12.13,FALSE
+BLIN          ,"Bridgeline Digital, Inc.",12,FALSE
+GLBR,"Global Brokerage, Inc.",11.98,FALSE
+ISIG,"Insignia Systems, Inc.",11.86,FALSE
+QBAK,Qualstar Corporation,11.84,FALSE
+YTEN,"Yield10 Bioscience, Inc.",11.83,FALSE
+TEAR,TearLab Corporation,11.82,FALSE
+TSRI,"TSR, Inc.",11.77,FALSE
+AMMA,"Alliance MMA, Inc.",11.76,FALSE
+JSMD,Janus Small/Mid Cap Growth Alpha ETF,11.72,FALSE
+DYNT,Dynatronics Corporation,11.4,FALSE
+MBVX,"MabVax Therapeutics Holdings, Inc.",11.2,FALSE
+RLOG,"Rand Logistics, Inc.",11.17,FALSE
+ITUS,ITUS Corporation,11.11,FALSE
+FALC,"FalconStor Software, Inc.",11.06,FALSE
+BSTG,"Biostage, Inc.",10.99,FALSE
+FALN,iShares Fallen Angels USD Bond ETF,10.92,FALSE
+MNGA,MagneGas Corporation,10.86,FALSE
+SKLN,Skyline Medical Inc.,10.77,FALSE
+OGXI,OncoGenex Pharmaceuticals Inc.,10.56,FALSE
+USATP,"USA Technologies, Inc.",10.46,FALSE
+HYXE,iShares iBoxx $ High Yield ex Oil & Gas Corporate Bond ETF,10.39,FALSE
+DSLV,VelocityShares 3x Inverse Silver ETN linked to S&P GSCI Silver,10.22,FALSE
+LEDS,SemiLEDS Corporation,10.21,FALSE
+JAGX,"Jaguar Animal Health, Inc.",10.17,FALSE
+TUSA,First Trust Total US Market AlphaDEX ETF,10.14,FALSE
+IDSA,"Industrial Services of America, Inc.",10.09,FALSE
+PMPT,iSectors Post-MPT Growth ETF,9.94,FALSE
+CPAH,CounterPath Corporation,9.89,FALSE
+RTK,"Rentech, Inc.",9.87,FALSE
+SGLB,"Sigma Labs, Inc.",9.83,FALSE
+FEUZ,First Trust Eurozone AlphaDEX ETF,9.74,FALSE
+RIBT,RiceBran Technologies,9.73,FALSE
+YDIV,First Trust International Multi-Asset Diversified Income Index,9.72,FALSE
+RTTR,"Ritter Pharmaceuticals, Inc.",9.65,FALSE
+DWAT,Arrow DWA Tactical ETF,9.6,FALSE
+CALI,China Auto Logistics Inc.,9.6,FALSE
+FORD,"Forward Industries, Inc.",9.57,FALSE
+FTRI,First Trust Indxx Global Natural Resources Income ETF,9.51,FALSE
+STAF,"Staffing 360 Solutions, Inc.",9.44,FALSE
+AVGR,"Avinger, Inc.",9.13,FALSE
+NSYS,Nortech Systems Incorporated,9.07,FALSE
+CXSE,WisdomTree China ex-State-Owned Enterprises Fund,9.07,FALSE
+THST,"Truett-Hurst, Inc.",9.03,FALSE
+BICK,First Trust BICK Index Fund,8.98,FALSE
+DRWI,DragonWave Inc,8.76,FALSE
+WSCI,WSI Industries Inc.,8.76,FALSE
+FFHL,"Fuwei Films (Holdings) Co., Ltd.",8.75,FALSE
+ESGG,FlexShares STOXX Global ESG Impact Index Fund,8.6,FALSE
+CFA,VictoryShares US 500 Volatility Wtd ETF,8.58,FALSE
+ORPN,Bioblast Pharma Ltd.,8.52,FALSE
+CERC,Cerecor Inc.,8.52,FALSE
+ESG,FlexShares STOXX US ESG Impact Index Fund,8.41,FALSE
+RGSE,"Real Goods Solar, Inc.",8.3,FALSE
+MARPS,Marine Petroleum Trust,8.2,FALSE
+MICT,"Micronet Enertec Technologies, Inc.",8.15,FALSE
+HOTR,"Chanticleer Holdings, Inc.",8.14,FALSE
+TAIT,Taitron Components Incorporated,7.96,FALSE
+GIGA,Giga-tronics Incorporated,7.93,FALSE
+DTUS,iPath US Treasury 2-year Bear ETN,7.61,FALSE
+CRDT,WisdomTree Strategic Corporate Bond Fund,7.56,FALSE
+MTBCP,"Medical Transcription Billing, Corp.",7.5,FALSE
+FHK,First Trust Hong Kong AlphaDEX Fund,7.44,FALSE
+FDTS,First Trust Developed Markets ex-US Small Cap AlphaDEX Fund,7.43,FALSE
+AHPI,"Allied Healthcare Products, Inc.",7.38,FALSE
+KBSF,KBS Fashion Group Limited,7.37,FALSE
+FTAG,First Trust Indxx Global Agriculture ETF,7.35,FALSE
+SLVO,Credit Suisse Silver Shares Covered Call ETN,7.14,FALSE
+PSET,Principal Price Setters Index ETF,7.09,FALSE
+PY,Principal Shareholder Yield Index ETF,7.01,FALSE
+GENY,Principal Millennials Index ETF,6.99,FALSE
+RCON,"Recon Technology, Ltd.",6.98,FALSE
+NFEC,NF Energy Saving Corporation,6.91,FALSE
+FCAN,First Trust Canada AlphaDEX Fund,6.78,FALSE
+ZBIO,ProShares UltraPro Short NASDAQ Biotechnology,6.78,FALSE
+CLWT,Euro Tech Holdings Company Limited,6.7,FALSE
+OHGI,"One Horizon Group, Inc.",6.68,FALSE
+SSKN,"Strata Skin Sciences, Inc.",6.65,FALSE
+SWIN,ALPS/Dorsey Wright Sector Momentum ETF,6.64,FALSE
+BTEC,Principal Healthcare Innovators Index ETF,6.64,FALSE
+LALT,PowerShares Multi-Strategy Alternative Portfolio,6.62,FALSE
+JSML,Janus Small Cap Growth Alpha ETF,6.53,FALSE
+ELTK,Eltek Ltd.,6.39,FALSE
+BOSC,B.O.S. Better Online Solutions,6.36,FALSE
+CHCI,"Comstock Holding Companies, Inc.",6.3,FALSE
+IFON,InfoSonics Corp,6.27,FALSE
+MARA,"Marathon Patent Group, Inc.",6.27,FALSE
+YECO,Yulong Eco-Materials Limited,6.16,FALSE
+FTXG,First Trust Nasdaq Food & Beverage ETF,6.03,FALSE
+PHMD,"PhotoMedex, Inc.",6.01,FALSE
+ARCI,"Appliance Recycling Centers of America, Inc.",5.99,FALSE
+LBIX,Leading Brands Inc,5.77,FALSE
+SSH,Sunshine Heart Inc,5.69,FALSE
+CADC,"China Advanced Construction Materials Group, Inc.",5.55,FALSE
+DDBI,Legg Mason Developed EX-US Diversified Core ETF,5.52,FALSE
+SPEX,Spherix Incorporated,5.39,FALSE
+DCTH,"Delcath Systems, Inc.",5.34,FALSE
+DTYL,iPath US Treasury 10-year Bull ETN,5.27,FALSE
+FTLB,First Trust Low Beta Income ETF,5.26,FALSE
+ESGU,iShares MSCI USA ESG Optimized ETF,5.22,FALSE
+DLBL,iPath US Treasury Long Bond Bull ETN,5.21,FALSE
+FKO,First Trust South Korea AlphaDEX Fund,5.19,FALSE
+CLNT,"Cleantech Solutions International, Inc.",5.17,FALSE
+MSDI,"Monster Digital, Inc.",5.11,FALSE
+UBND,WisdomTree Western Asset Unconstrained Bond Fund,5.07,FALSE
+USEG,U.S. Energy Corp.,5.03,FALSE
+KONE,Kingtone Wirelessinfo Solution Holding Ltd,4.92,FALSE
+MOSY,"MoSys, Inc.",4.87,FALSE
+SMIT,"Schmitt Industries, Inc.",4.85,FALSE
+DFVL,iPath US Treasury 5-year Bull ETN,4.75,FALSE
+INPX,Inpixon ,4.71,FALSE
+BSPM,"Biostar Pharmaceuticals, Inc.",4.53,FALSE
+GNRX,VanEck Vectors Generic Drugs ETF,4.53,FALSE
+OPXA,"Opexa Therapeutics, Inc.",4.52,FALSE
+DRYS,DryShips Inc.,4.5,FALSE
+TCCO,Technical Communications Corporation,4.42,FALSE
+DCIX,Diana Containerships Inc.,4.4,FALSE
+FAAR,First Trust Alternative Absolute Return Strategy ETF,4.37,FALSE
+FCA,First Trust China AlphaDEX Fund,4.37,FALSE
+WPCS,WPCS International Incorporated,4.36,FALSE
+MDGS,Medigus Ltd.,4.34,FALSE
+MILN,Global X Millennials Thematic ETF,4.32,FALSE
+RNVA,"Rennova Health, Inc.",4.32,FALSE
+CRTN,"Cartesian, Inc.",4.31,FALSE
+ROSG,Rosetta Genomics Ltd.,4.12,FALSE
+CRDS,"Crossroads Systems, Inc.",4.11,FALSE
+DWLV,PowerShares DWA Momentum & Low Volatility Rotation Portfolio,4.07,FALSE
+MTSL,MER Telemanagement Solutions Ltd.,3.94,FALSE
+CCCL,"China Ceramics Co., Ltd.",3.88,FALSE
+ATOS,Atossa Genetics Inc.,3.86,FALSE
+REXX,Rex Energy Corporation,3.83,FALSE
+DTUL,iPath US Treasury 2-year Bull ETN,3.77,FALSE
+FTW,First Trust Taiwan AlphaDEX Fund,3.5,FALSE
+STPP,iPath US Treasury Steepener ETN,3.5,FALSE
+ASET,FlexShares Real Assets Allocation Index Fund,3.4,FALSE
+FLAT,iPath US Treasury Flattener ETN,3.36,FALSE
+OPHC,"OptimumBank Holdings, Inc.",3.14,FALSE
+ALT,"Altimmune, Inc.",3.04,FALSE
+SRET,Global X SuperDividend REIT ETF,2.98,FALSE
+YLCO,Global X Yieldco Index ETF,2.94,FALSE
+FITS,The Health and Fitness ETF,2.62,FALSE
+OLD,The Long-Term Care ETF,2.61,FALSE
+DWAC,Elkhorn Commodity Rotation Strategy ETF,2.49,FALSE
+SLIM,The Obesity ETF,2.43,FALSE
+FTXR,First Trust Nasdaq Transportation ETF,2.3,FALSE
+CYCCP,"Cyclacel Pharmaceuticals, Inc.",2.18,FALSE
+ANTH,"Anthera Pharmaceuticals, Inc.",2.05,FALSE
+TVIZ,VelocityShares Daily 2x VIX Medium Term ETN,2.05,FALSE
+DXTR,Dextera Surgical Inc.,1.99,FALSE
+FTXH,First Trust Nasdaq Pharmaceuticals ETF,1.99,FALSE
+FTXD,First Trust Nasdaq Retail ETF,1.96,FALSE
+INVT,"Inventergy Global, Inc.",1.96,FALSE
+FTXN,First Trust Nasdaq Oil & Gas ETF,1.91,FALSE
+FPXI,First Trust International IPO ETF,1.55,FALSE
+NVUS,"Novus Therapeutics, Inc.",1.51,FALSE
+DRAM,Dataram Corporation,1.37,FALSE
+MAUI,AdvisorShares Market Adaptive Unconstrained Income ETF,1.22,FALSE
+VIIZ,VelocityShares VIX Medium Term ETN,1.22,FALSE
+TOPS,TOP Ships Inc.,1.19,FALSE
+DFVS,iPath US Treasury 5-year Bear Exchange Traded Note,1.16,FALSE
+PLXP,PLx Pharma Inc.,1.01,FALSE
+NURO,"NeuroMetrix, Inc.",,FALSE
+Symbol,Words,,
