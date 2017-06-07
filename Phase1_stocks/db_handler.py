@@ -24,13 +24,21 @@ class DB_Handler():
 
         for d in data:
             for row in d:
-                self.c.execute("INSERT INTO stuffToPlot (stock, link, origin) VALUES (?, ?, ?)",
-                               (row[0],row[1],row[2]))
+                self.c.execute("INSERT INTO stuffToPlot (stock, link, origin, title) VALUES (?, ?, ?, ?)",
+                               (row[0], row[1], row[2], row[3]))
             self.conn.commit()
 
     def create_table(self):
         # using caps for pure SQL language
-        self.c.execute('CREATE TABLE IF NOT EXISTS stuffToPlot(stock TEXT, link TEXT, origin TEXT)')
+        self.c.execute('CREATE TABLE IF NOT EXISTS stuffToPlot(stock TEXT, link TEXT, origin TEXT, title TEXT)')
 
+    def clear_db(self):
+        c = self.c
+        c.execute('DROP TABLE IF EXISTS stuffToPlot')
 
+    def build_new_db(self,name,data):
+        self.create_db(name)
+        self.clear_db()
+        self.create_db(name)
+        self.add_data(data)
 

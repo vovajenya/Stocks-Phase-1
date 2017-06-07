@@ -6,7 +6,11 @@ import webbrowser
 
 
 CHROME_PATH = 'C:\Program Files (x86)\Google\Chrome\Application\chrome.exe %s'
-
+# open DB
+DB_NAME = 'stocks_db.db'
+DB = db_handler.DB_Handler()
+DB.create_db(DB_NAME)
+LINKS = list()
 
 # classes
 class Listbox(tkinter.Listbox):
@@ -30,7 +34,9 @@ def helloCallBack():
 
 def listCallBack(e):
     # get current selection
-    url = Lb1.get(Lb1.curselection())
+    # url = Lb1.get(Lb1.curselection())
+    global LINKS
+    url = LINKS[Lb1.curselection()[0]][1]
     # browse to the current selection
     # url = 'http://google.co.kr'
     webbrowser.open(url, new=0)
@@ -40,9 +46,9 @@ def selectedItem(e):
     selected_stock = e
 
     # open DB
-    db_name = 'stocks_db.db'
-    DB = db_handler.DB_Handler()
-    DB.create_db(db_name)
+    # db_name = 'stocks_db.db'
+    # DB = db_handler.DB_Handler()
+    # DB.create_db(db_name)
 
     # read all related links
     links = DB.get_links(selected_stock)
@@ -53,9 +59,14 @@ def selectedItem(e):
     # present the links in the list box
     cnt = 0
     for link in links:
-        Lb1.insert(cnt, link[1])
+        Lb1.insert(cnt, link[3])
         cnt += 1
-    # Lb1.autowidth(250)
+
+    global LINKS
+    LINKS = links
+
+
+
 # get stocks symbols from db
 stock_symbols, words = get_nasdaq_symbols.get_list()
 
@@ -70,13 +81,6 @@ scrollbar = tkinter.Scrollbar(top)
 
 # list
 Lb1 = Listbox(top, yscrollcommand=scrollbar.set)
-# Lb1.insert(1, "Python")
-# Lb1.insert(2, "Perl")
-# Lb1.insert(3, "C")
-# Lb1.insert(4, "PHP")
-# Lb1.insert(5, "JSP")
-# Lb1.insert(6, "Ruby")
-
 
 # dropdown menu
 variable = tkinter.StringVar(top)
